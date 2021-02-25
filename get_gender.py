@@ -11,7 +11,7 @@ result = requests.get(base_url, params={"action": "wbsearchentities", "search": 
 id = "Q42"
 
 
-result = request.get(base_url, params={"action": "wbgetentities", "ids":id "language":"de","format":"json"})
+result = requests.get(base_url, params={"action": "wbgetentities", "ids":id ,"language":"de","format":"json"})
 gender_id = "Q6581097"
 
-result = request.get(base_url, params={"action": "wbsearchentities", "search":gender_id "language":"de","format":"json"})
+result = requests.get(base_url, params={"action": "wbsearchentities", "search":gender_id, "language":"de","format":"json"})
