@@ -82,7 +82,7 @@ def test():
 
 def replace(name):
 
-  suffix = ["Straße","Weg","Am ","Chausse","Im ","An ","Platz","Zum ","Im ","Zur ","Kleine ","Ring","Siedlung"]
+  suffix = ["Straße","Weg","Am ","Chaussee","Im ","An ","Platz","Zum ","Im ","Zur ","Kleine ","Ring","Siedlung"]
 
   for string in suffix:
 
