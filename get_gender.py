@@ -38,7 +38,6 @@ def get_gender(streetname):
 
         try:
           ethnic_group_id = result.json()['entities'][id]['claims']['P172'][0]['mainsnak']['datavalue']['value']['id']
-          print(ethnic_group_id)
         except Exception as e:
           ethnic_group_id = "NA"
 
