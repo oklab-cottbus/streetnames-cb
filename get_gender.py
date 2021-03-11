@@ -9,7 +9,7 @@ def get_gender(streetname):
   base_url = "https://www.wikidata.org/w/api.php"
   try: 
     name = replace(streetname)
-    result = requests.get(base_url, params={"action": "wbsearchentities", "search": name,"limit":"50","language": "de","format":"json"})
+    result = requests.get(base_url, params={"action": "wbsearchentities", "search": name,"limit":"10","language": "de","format":"json"})
     
     for x in result.json()['search']:
       id =  x['id']
