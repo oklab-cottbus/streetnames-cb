@@ -2,11 +2,11 @@ Name,Gender,Information,searched_name,matched_name,date_of_birth,date_of_death,e
 Abendstraße,NA,NA,Abend,NA,NA,NA,NA
 Ackendorfer Straße,NA,NA,Ackendorfer ,NA,NA,NA,NA
 Ackerstraße,NA,NA,Acker,NA,NA,NA,NA
-Adele-Elkan-Straße,female,deutsche Schriftstellerin,Adele Elk,Adele Elkan,+1884-03-23T00:00:00Z,+1943-01-01T00:00:00Z,sodium
-Adelheidring,female,"gestorben nach 1237 Beruf/Funktion Gräfin von Holland Konfession katholisch Namensvarianten Aleidis Adelheid Aleidis Aleidis, Holland, Gräfin mehr",Adelheid,Adelheid,NA,+1237-00-00T00:00:00Z,sodium
-Adolf-Jentzen-Straße,male,deutscher Widerstandskämpfer,Adolf Jentzen ,Adolf Jentzen,+1899-10-05T00:00:00Z,+1943-05-06T00:00:00Z,sodium
-Adolfstraße,male,"Herzog von Nassau, Großherzog von Luxemburg",Adolf,"Adolphe, Grand Duke of Luxembourg",+1817-07-24T00:00:00Z,+1905-11-17T00:00:00Z,sodium
-Adolph-Kolping-Platz,male,deutscher katholischer Priester,Adolph Kolping ,Adolph Kolping,+1813-12-08T00:00:00Z,+1865-12-04T00:00:00Z,sodium
+Adele-Elkan-Straße,weiblich,deutsche Schriftstellerin,Adele Elk,Adele Elkan,+1884-03-23T00:00:00Z,+1943-01-01T00:00:00Z,NA
+Adelheidring,NA,NA,Adelheid,NA,NA,NA,NA
+Adolf-Jentzen-Straße,männlich,deutscher Widerstandskämpfer,Adolf Jentzen ,Adolf Jentzen,+1899-10-05T00:00:00Z,+1943-05-06T00:00:00Z,NA
+Adolfstraße,männlich,"Herzog von Nassau, Großherzog von Luxemburg",Adolf,"Adolphe, Grand Duke of Luxembourg",+1817-07-24T00:00:00Z,+1905-11-17T00:00:00Z,NA
+Adolph-Kolping-Platz,männlich,deutscher katholischer Priester,Adolph Kolping ,Adolph Kolping,+1813-12-08T00:00:00Z,+1865-12-04T00:00:00Z,NA
 Agneswerder,NA,NA,Agneswerder,NA,NA,NA,NA
 Agnetenplatz,NA,NA,Agneten,NA,NA,NA,NA
 Agnetenstraße,NA,NA,Agneten,NA,NA,NA,NA
@@ -15,17 +15,17 @@ Ahornweg,NA,NA,Ahorn,NA,NA,NA,NA
 Akazienstraße,NA,NA,Akazien,NA,NA,NA,NA
 Akazienweg,NA,NA,Akazien,NA,NA,NA,NA
 Akener Weg,NA,NA,Akener ,NA,NA,NA,NA
-Albert-Dankert-Straße,male,deutscher Arbeitersportler,Albert Dankert ,Albert Dankert,+1877-03-08T00:00:00Z,+1933-11-29T00:00:00Z,sodium
-Albert-Fischer-Straße,male,gehörloser deutscher Kunstmaler und Restaurator,Albert Fischer ,Albert Fischer,+1940-10-13T00:00:00Z,+2003-11-26T00:00:00Z,sodium
-Albert-Schweitzer-Straße,male,"elsässischer Arzt, Theologe, Musiker und Philosoph",Albert Schweitzer ,Albert Schweitzer,+1875-01-14T00:00:00Z,+1965-09-04T00:00:00Z,Germans
-Albert-Uffenheimer-Platz,male,deutscher Arzt,Albert Uffenheimer ,Albert Uffenheimer,+1876-05-24T00:00:00Z,+1941-04-09T00:00:00Z,sodium
-Albert-Vater-Straße,male,sozialdemokratischer Politiker und Mitbegründer der KPD in Magdeburg,Albert Vater ,Albert Vater,+1859-03-17T00:00:00Z,+1923-02-07T00:00:00Z,sodium
-Albinmüllerweg,male,"deutscher Architekt, Pädagoge und Gestalter",Albinmüller,Albin Müller,+1871-12-13T00:00:00Z,+1941-10-02T00:00:00Z,sodium
-Albrecht-Thaer-Straße,male,"deutscher Polywissenschaftler, Begründer der Agrarwissenschaften",Albrecht Thaer ,Albrecht Thaer,+1752-05-14T00:00:00Z,+1828-10-26T00:00:00Z,sodium
-Albrechtstraße,male,"Herzog von Preußen, Hochmeister des Deutschen Ordens",Albrecht,"Albert, Duke in Prussia",+1490-07-08T00:00:00Z,+1568-03-20T00:00:00Z,sodium
-Alemannstraße,male,italienischer Politiker,Alemann,Gianni Alemanno,+1958-03-03T00:00:00Z,NA,sodium
-Alexander-Puschkin-Straße,male,russischer Autor und Dichter,Alexander Puschkin ,Alexander Pushkin,+1799-05-26T00:00:00Z,+1837-01-29T00:00:00Z,Russians
-Alexanderstraße,male,makedonischer Feldherr und König (356-323 v. Chr.),Alexander,Alexander the Great,-0356-07-20T00:00:00Z,-0323-06-10T00:00:00Z,Ancient Macedonians
+Albert-Dankert-Straße,männlich,deutscher Arbeitersportler,Albert Dankert ,Albert Dankert,+1877-03-08T00:00:00Z,+1933-11-29T00:00:00Z,NA
+Albert-Fischer-Straße,männlich,gehörloser deutscher Kunstmaler und Restaurator,Albert Fischer ,Albert Fischer,+1940-10-13T00:00:00Z,+2003-11-26T00:00:00Z,NA
+Albert-Schweitzer-Straße,männlich,"elsässischer Arzt, Theologe, Musiker und Philosoph",Albert Schweitzer ,Albert Schweitzer,+1875-01-14T00:00:00Z,+1965-09-04T00:00:00Z,Deutsche
+Albert-Uffenheimer-Platz,männlich,deutscher Arzt,Albert Uffenheimer ,Albert Uffenheimer,+1876-05-24T00:00:00Z,+1941-04-09T00:00:00Z,NA
+Albert-Vater-Straße,männlich,sozialdemokratischer Politiker und Mitbegründer der KPD in Magdeburg,Albert Vater ,Albert Vater,+1859-03-17T00:00:00Z,+1923-02-07T00:00:00Z,NA
+Albinmüllerweg,männlich,"deutscher Architekt, Pädagoge und Gestalter",Albinmüller,Albin Müller,+1871-12-13T00:00:00Z,+1941-10-02T00:00:00Z,NA
+Albrecht-Thaer-Straße,männlich,"deutscher Polywissenschaftler, Begründer der Agrarwissenschaften",Albrecht Thaer ,Albrecht Thaer,+1752-05-14T00:00:00Z,+1828-10-26T00:00:00Z,NA
+Albrechtstraße,männlich,"Herzog von Preußen, Hochmeister des Deutschen Ordens",Albrecht,"Albert, Duke in Prussia",+1490-07-08T00:00:00Z,+1568-03-20T00:00:00Z,NA
+Alemannstraße,NA,NA,Alemann,NA,NA,NA,NA
+Alexander-Puschkin-Straße,männlich,russischer Autor und Dichter,Alexander Puschkin ,Alexander Pushkin,+1799-05-26T00:00:00Z,+1837-01-29T00:00:00Z,Russen
+Alexanderstraße,männlich,makedonischer Feldherr und König (356-323 v. Chr.),Alexander,Alexander the Great,-0356-07-20T00:00:00Z,-0323-06-10T00:00:00Z,Antike Makedonen
 Allerstraße,NA,NA,Aller,NA,NA,NA,NA
 Alt Benneckenbeck,NA,NA,Alt Benneckenbeck,NA,NA,NA,NA
 Alt Diesdorf,NA,NA,Alt Diesdorf,NA,NA,NA,NA
@@ -40,7 +40,7 @@ Altenhäuser Straße,NA,NA,Altenhäuser ,NA,NA,NA,NA
 Alter Markt,NA,NA,Alter Markt,NA,NA,NA,NA
 Altes Fischerufer,NA,NA,Altes Fischerufer,NA,NA,NA,NA
 Altmärker Privatstraße,NA,NA,Altmärker Privat,NA,NA,NA,NA
-Alwin-Brandes-Straße,male,"deutscher Politiker (SPD), MdR und Gewerkschaftsführer",Alwin Brandes ,Alwin Brandes,+1866-06-12T00:00:00Z,+1949-11-06T00:00:00Z,sodium
+Alwin-Brandes-Straße,männlich,"deutscher Politiker (SPD), MdR und Gewerkschaftsführer",Alwin Brandes ,Alwin Brandes,+1866-06-12T00:00:00Z,+1949-11-06T00:00:00Z,NA
 Am Akazienbusch,NA,NA,Akazienbusch,NA,NA,NA,NA
 Am Alten Gasometer,NA,NA,Alten Gasometer,NA,NA,NA,NA
 Am Alten Theater,NA,NA,Alten Theater,NA,NA,NA,NA
@@ -55,7 +55,7 @@ Am Brückbusch,NA,NA,Brückbusch,NA,NA,NA,NA
 Am Brunnen,NA,NA,Brunnen,NA,NA,NA,NA
 Am Buckauer Tor,NA,NA,Buckauer Tor,NA,NA,NA,NA
 Am Buckauer Wasserwerk,NA,NA,Buckauer Wasserwerk,NA,NA,NA,NA
-Am Busch,male,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Germans
+Am Busch,männlich,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Deutsche
 Am Buttersteig,NA,NA,Buttersteig,NA,NA,NA,NA
 Am Charlottentor,NA,NA,Charlottentor,NA,NA,NA,NA
 Am Costerberg,NA,NA,Costerberg,NA,NA,NA,NA
@@ -93,9 +93,9 @@ Am Krug,NA,NA,Krug,NA,NA,NA,NA
 Am Kuhanger,NA,NA,Kuhanger,NA,NA,NA,NA
 Am Mittellandkanal,NA,NA,Mittellandkanal,NA,NA,NA,NA
 Am Mittelteich,NA,NA,Mittelteich,NA,NA,NA,NA
-Am Mühlberg,male,Schweizer Geologe,Mühlberg,Friedrich Mühlberg,+1840-04-19T00:00:00Z,+1915-05-25T00:00:00Z,sodium
+Am Mühlberg,männlich,Schweizer Geologe,Mühlberg,Friedrich Mühlberg,+1840-04-19T00:00:00Z,+1915-05-25T00:00:00Z,NA
 Am Mühlenfeld,NA,NA,Mühlenfeld,NA,NA,NA,NA
-Am Neuber,female,deutsche Schauspielerin und Dramatikerin,Neuber,Friederike Caroline Neuber,+1697-03-09T00:00:00Z,+1760-11-30T00:00:00Z,sodium
+Am Neuber,NA,NA,Neuber,NA,NA,NA,NA
 Am Neustädter Feld,NA,NA,Neustädter Feld,NA,NA,NA,NA
 Am Nordenfeld,NA,NA,Nordenfeld,NA,NA,NA,NA
 Am Pfahlberg,NA,NA,Pfahlberg,NA,NA,NA,NA
@@ -103,7 +103,7 @@ Am Pfändetor,NA,NA,Pfändetor,NA,NA,NA,NA
 Am Polderdeich,NA,NA,Polderdeich,NA,NA,NA,NA
 Am Polderdeich Seitenweg,NA,NA,Polderdeich Seiten,NA,NA,NA,NA
 Am Pumpenhaus,NA,NA,Pumpenhaus,NA,NA,NA,NA
-Am Rosenbusch,male,Zürcher Jurist und Politiker,Rosenbusch,Ernst Rosenbusch,+1908-01-01T00:00:00Z,+1982-01-01T00:00:00Z,sodium
+Am Rosenbusch,NA,NA,Rosenbusch,NA,NA,NA,NA
 Am Schäferbrunnen,NA,NA,Schäferbrunnen,NA,NA,NA,NA
 Am Schöppensteg,NA,NA,Schöppensteg,NA,NA,NA,NA
 Am Schraderhof,NA,NA,Schraderhof,NA,NA,NA,NA
@@ -134,7 +134,7 @@ Am Wellenberge,NA,NA,Wellenberge,NA,NA,NA,NA
 Am Winterhafen,NA,NA,Winterhafen,NA,NA,NA,NA
 Am Wolfswerder,NA,NA,Wolfswerder,NA,NA,NA,NA
 Am Zweigkanal,NA,NA,Zweigkanal,NA,NA,NA,NA
-Ambrosiusplatz,male,"römischer Politiker, Bischof und Kirchenvater der Spätantike, Heiliger",Ambrosius,Ambrose,+0339-00-00T00:00:00Z,+0397-04-04T00:00:00Z,Italians
+Ambrosiusplatz,männlich,"römischer Politiker, Bischof und Kirchenvater der Spätantike, Heiliger",Ambrosius,Ambrose,+0339-00-00T00:00:00Z,+0397-04-04T00:00:00Z,Italiener
 Ammensleber Straße,NA,NA,Ammensleber ,NA,NA,NA,NA
 Ampfurther Weg,NA,NA,Ampfurther ,NA,NA,NA,NA
 Amsdorfstraße,NA,NA,Amsdorf,NA,NA,NA,NA
@@ -168,11 +168,11 @@ An der Waldschule,NA,NA,der Waldschule,NA,NA,NA,NA
 An der Wanzleber Chaussee,NA,NA,der Wanzleber e,NA,NA,NA,NA
 An der Wendeschleife,NA,NA,der Wendeschleife,NA,NA,NA,NA
 Anger-Privatweg,NA,NA,Anger Privat,NA,NA,NA,NA
-Anhaltstraße,female,Tochter des Herzogs Friedrich III. von Schleswig-Holstein-Gottorf. und Gemahlin von Johann VI. (Anhalt-Zerbst),Anhalt,Sophie Augusta of Holstein-Gottorp,+1630-12-05T00:00:00Z,+1680-12-12T00:00:00Z,sodium
+Anhaltstraße,NA,NA,Anhalt,NA,NA,NA,NA
 Angersteg,NA,NA,Angersteg,NA,NA,NA,NA
-Ankerstraße,male,Schweizer Maler (1831-1910),Anker,Albert Anker,+1831-04-01T00:00:00Z,+1910-07-16T00:00:00Z,sodium
+Ankerstraße,NA,NA,Anker,NA,NA,NA,NA
 Anna-Ebert-Brücke,NA,NA,Anna Ebert Brücke,NA,NA,NA,NA
-Annastraße,female,"Königin von England, Königin von Schottland und Königin von Irland (1702–1707); Königin von Großbritannien (1707–1720)",Anna,Anne of Great Britain,+1665-02-06T00:00:00Z,+1714-08-01T00:00:00Z,sodium
+Annastraße,weiblich,"Königin von England, Königin von Schottland und Königin von Irland (1702–1707); Königin von Großbritannien (1707–1720)",Anna,Anne of Great Britain,+1665-02-06T00:00:00Z,+1714-08-01T00:00:00Z,NA
 Ansbacher Straße,NA,NA,Ansbacher ,NA,NA,NA,NA
 Anstaltstraße,NA,NA,Anstalt,NA,NA,NA,NA
 Apfelstieg,NA,NA,Apfelstieg,NA,NA,NA,NA
@@ -180,16 +180,16 @@ Apollostraße,NA,NA,Apollo,NA,NA,NA,NA
 Appendorfer Straße,NA,NA,Appendorfer ,NA,NA,NA,NA
 Aprikosenweg,NA,NA,Aprikosen,NA,NA,NA,NA
 Arkonastraße,NA,NA,Arkona,NA,NA,NA,NA
-Arndtstraße,male,NA,Arndt,Charles Homer Arndt,+1892-01-01T00:00:00Z,NA,sodium
-Arnold-Knoblauch-Straße,male,deutscher Architekt und Unternehmer,Arnold Knoblauch ,Arnold Knoblauch,+1879-01-18T00:00:00Z,+1963-02-09T00:00:00Z,sodium
-Arnold-Zweig-Straße,male,"deutscher Schriftsteller und Politiker, MdV",Arnold Zweig ,Arnold Zweig,+1887-11-10T00:00:00Z,+1968-11-26T00:00:00Z,sodium
+Arndtstraße,männlich,NA,Arndt,Charles Homer Arndt,+1892-01-01T00:00:00Z,NA,NA
+Arnold-Knoblauch-Straße,männlich,deutscher Architekt und Unternehmer,Arnold Knoblauch ,Arnold Knoblauch,+1879-01-18T00:00:00Z,+1963-02-09T00:00:00Z,NA
+Arnold-Zweig-Straße,männlich,"deutscher Schriftsteller und Politiker, MdV",Arnold Zweig ,Arnold Zweig,+1887-11-10T00:00:00Z,+1968-11-26T00:00:00Z,NA
 Arnstädter Straße,NA,NA,Arnstädter ,NA,NA,NA,NA
-Arthur-Ruppin-Straße,male,"jüdischer Soziologe, Zionist und Wegbereiter der Gründung der Stadt Tel Aviv",Arthur Ruppin ,Arthur Ruppin,+1876-03-01T00:00:00Z,+1943-01-01T00:00:00Z,sodium
-Aßmannstraße,male,deutscher Insektenkundler (1819–1898),Aßmann,August Assmann,+1819-01-01T00:00:00Z,+1898-01-01T00:00:00Z,sodium
+Arthur-Ruppin-Straße,männlich,"jüdischer Soziologe, Zionist und Wegbereiter der Gründung der Stadt Tel Aviv",Arthur Ruppin ,Arthur Ruppin,+1876-03-01T00:00:00Z,+1943-01-01T00:00:00Z,NA
+Aßmannstraße,männlich,deutscher Insektenkundler (1819–1898),Aßmann,August Assmann,+1819-01-01T00:00:00Z,+1898-01-01T00:00:00Z,NA
 Aschersleber Straße,NA,NA,Aschersleber ,NA,NA,NA,NA
 Askanischer Platz,NA,NA,Askanischer ,NA,NA,NA,NA
 Asternweg,NA,NA,Astern,NA,NA,NA,NA
-Astonstraße,female,Australische Botanikerin,Aston,Helen Aston,+1934-03-26T00:00:00Z,+2020-03-17T00:00:00Z,sodium
+Astonstraße,weiblich,Australische Botanikerin,Aston,Helen Aston,+1934-03-26T00:00:00Z,+2020-03-17T00:00:00Z,NA
 Atzendorfer Straße,NA,NA,Atzendorfer ,NA,NA,NA,NA
 Aue,NA,NA,Aue,NA,NA,NA,NA
 Auf den Höhen,NA,NA,Auf den Höhen,NA,NA,NA,NA
@@ -206,14 +206,14 @@ Badeleber Straße,NA,NA,Badeleber ,NA,NA,NA,NA
 Badestraße,NA,NA,Bade,NA,NA,NA,NA
 Badeteichstraße,NA,NA,Badeteich,NA,NA,NA,NA
 Bahnhofstraße,NA,NA,Bahnhof,NA,NA,NA,NA
-Bahnikstraße,female,tschechische Übersetzerin,Bahnik,Alena Bahníková,+1948-02-20T00:00:00Z,NA,sodium
+Bahnikstraße,weiblich,tschechische Übersetzerin,Bahnik,Alena Bahníková,+1948-02-20T00:00:00Z,NA,NA
 Bahnstraße,NA,NA,Bahn,NA,NA,NA,NA
 Bahrendorfer Straße,NA,NA,Bahrendorfer ,NA,NA,NA,NA
 Bakestraße,NA,NA,Bake,NA,NA,NA,NA
 Ballenstedter Straße,NA,NA,Ballenstedter ,NA,NA,NA,NA
 Bandwirkerstraße,NA,NA,Bandwirker,NA,NA,NA,NA
 Barbyer Weg,NA,NA,Barbyer ,NA,NA,NA,NA
-Barlachstraße,male,"deutscher Schriftsteller, Bildhauer und Zeichner (1870-1938)",Barlach,Ernst Barlach,+1870-01-02T00:00:00Z,+1938-10-24T00:00:00Z,sodium
+Barlachstraße,männlich,"deutscher Schriftsteller, Bildhauer und Zeichner (1870-1938)",Barlach,Ernst Barlach,+1870-01-02T00:00:00Z,+1938-10-24T00:00:00Z,NA
 Bärlauchweg,NA,NA,Bärlauch,NA,NA,NA,NA
 Barleber Chaussee,NA,NA,Barleber e,NA,NA,NA,NA
 Barleber Straße,NA,NA,Barleber ,NA,NA,NA,NA
@@ -222,35 +222,35 @@ Barschweg,NA,NA,Barsch,NA,NA,NA,NA
 Bärstraße,NA,NA,Bär,NA,NA,NA,NA
 Basaltweg,NA,NA,Basalt,NA,NA,NA,NA
 Basedowstraße,NA,NA,Basedow,NA,NA,NA,NA
-Bassermannstraße,male,deutscher Unternehmer und liberaler Politiker,Bassermann,Friedrich Daniel Bassermann,+1811-02-24T00:00:00Z,+1855-07-29T00:00:00Z,sodium
+Bassermannstraße,männlich,deutscher Unternehmer und liberaler Politiker,Bassermann,Friedrich Daniel Bassermann,+1811-02-24T00:00:00Z,+1855-07-29T00:00:00Z,NA
 Bauernstraße,NA,NA,Bauern,NA,NA,NA,NA
 Bauernwerder,NA,NA,Bauernwerder,NA,NA,NA,NA
 Bauhausstraße,NA,NA,Bauhaus,NA,NA,NA,NA
 Baumschulenweg,NA,NA,Baumschulen,NA,NA,NA,NA
-Bebelstraße,male,französischer Film- und Theaterschauspieler,Bebel,Jean-Paul Belmondo,+1933-04-09T00:00:00Z,NA,sodium
+Bebelstraße,männlich,französischer Film- und Theaterschauspieler,Bebel,Jean-Paul Belmondo,+1933-04-09T00:00:00Z,NA,NA
 Bebertaler Straße,NA,NA,Bebertaler ,NA,NA,NA,NA
-Beethovenstraße,male,deutscher Komponist (1770–1827),Beethoven,Ludwig van Beethoven,+1770-12-16T00:00:00Z,+1827-03-26T00:00:00Z,sodium
-Behneweg,male,deutscher Historiker,Behne,Michael Behnen,+1938-12-29T00:00:00Z,NA,sodium
+Beethovenstraße,männlich,deutscher Komponist (1770–1827),Beethoven,Ludwig van Beethoven,+1770-12-16T00:00:00Z,+1827-03-26T00:00:00Z,NA
+Behneweg,NA,NA,Behne,NA,NA,NA,NA
 Behringstraße,NA,NA,Beh,NA,NA,NA,NA
 Bei der Hauptwache,NA,NA,Bei der Hauptwache,NA,NA,NA,NA
 Bei Hohmanns,NA,NA,Bei Hohmanns,NA,NA,NA,NA
-Beimsplatz,male,"deutscher Politiker (SPD), MdR und Oberbürgermeister Magdeburgs",Beims,Hermann Beims,+1863-04-26T00:00:00Z,+1931-12-20T00:00:00Z,sodium
-Beimsstraße,male,"deutscher Politiker (SPD), MdR und Oberbürgermeister Magdeburgs",Beims,Hermann Beims,+1863-04-26T00:00:00Z,+1931-12-20T00:00:00Z,sodium
+Beimsplatz,männlich,"deutscher Politiker (SPD), MdR und Oberbürgermeister Magdeburgs",Beims,Hermann Beims,+1863-04-26T00:00:00Z,+1931-12-20T00:00:00Z,NA
+Beimsstraße,männlich,"deutscher Politiker (SPD), MdR und Oberbürgermeister Magdeburgs",Beims,Hermann Beims,+1863-04-26T00:00:00Z,+1931-12-20T00:00:00Z,NA
 Bekassinenweg,NA,NA,Bekassinen,NA,NA,NA,NA
 Belsdorfer Weg,NA,NA,Belsdorfer ,NA,NA,NA,NA
 Benediktinerstraße,NA,NA,Benediktiner,NA,NA,NA,NA
 Benneckenbecker Straße,NA,NA,Benneckenbecker ,NA,NA,NA,NA
-Bennigsenstraße,male,russischer General deutscher Herkunft,Bennigsen,"Levin August, Count von Bennigsen",+1745-02-10T00:00:00Z,+1826-12-03T00:00:00Z,sodium
+Bennigsenstraße,NA,NA,Bennigsen,NA,NA,NA,NA
 Bergstraße,NA,NA,Berg,NA,NA,NA,NA
 Berliner Chaussee,NA,NA,Berliner e,NA,NA,NA,NA
 Bernburger Straße,NA,NA,Bernburger ,NA,NA,NA,NA
-Bernhard-Bästlein-Straße,male,"deutscher Politiker (SPD, USPD, KPD), MdR, MdHB und Widerstandskämpfer gegen den Nationalsozialismus",Bernhard Bästlein ,Bernhard Bästlein,+1894-12-03T00:00:00Z,+1944-09-18T00:00:00Z,sodium
-Bernhard-Kellermann-Straße,male,"deutscher Schriftsteller und Politiker, MdV",Bernhard Kellermann ,Bernhard Kellermann,+1879-03-04T00:00:00Z,+1951-10-17T00:00:00Z,Germans
-Bertha-von-Suttner-Straße,female,"österreichische Pazifistin, Friedensforscherin und Schriftstellerin (1843-1914)",Bertha von Suttner ,Bertha von Suttner,+1843-06-09T00:00:00Z,+1914-06-21T00:00:00Z,sodium
+Bernhard-Bästlein-Straße,männlich,"deutscher Politiker (SPD, USPD, KPD), MdR, MdHB und Widerstandskämpfer gegen den Nationalsozialismus",Bernhard Bästlein ,Bernhard Bästlein,+1894-12-03T00:00:00Z,+1944-09-18T00:00:00Z,NA
+Bernhard-Kellermann-Straße,männlich,"deutscher Schriftsteller und Politiker, MdV",Bernhard Kellermann ,Bernhard Kellermann,+1879-03-04T00:00:00Z,+1951-10-17T00:00:00Z,Deutsche
+Bertha-von-Suttner-Straße,weiblich,"österreichische Pazifistin, Friedensforscherin und Schriftstellerin (1843-1914)",Bertha von Suttner ,Bertha von Suttner,+1843-06-09T00:00:00Z,+1914-06-21T00:00:00Z,NA
 Bertinger Weg,NA,NA,Bertinger ,NA,NA,NA,NA
-Bertolt-Brecht-Straße,male,deutscher Dramatiker und Lyriker (1898–1956),Bertolt Brecht ,Bertolt Brecht,+1898-02-10T00:00:00Z,+1956-08-14T00:00:00Z,sodium
+Bertolt-Brecht-Straße,männlich,deutscher Dramatiker und Lyriker (1898–1956),Bertolt Brecht ,Bertolt Brecht,+1898-02-10T00:00:00Z,+1956-08-14T00:00:00Z,NA
 Bethanienstraße,NA,NA,Bethanien,NA,NA,NA,NA
-Bettina-von-Arnim-Straße,female,deutsche Schriftstellerin,Bettina von Arn,Bettina von Arnim,+1785-04-04T00:00:00Z,+1859-01-20T00:00:00Z,sodium
+Bettina-von-Arnim-Straße,weiblich,deutsche Schriftstellerin,Bettina von Arn,Bettina von Arnim,+1785-04-04T00:00:00Z,+1859-01-20T00:00:00Z,NA
 Beyendorfer Dorfstraße,NA,NA,Beyendorfer Dorf,NA,NA,NA,NA
 Beyendorfer Kirchweg,NA,NA,Beyendorfer Kirch,NA,NA,NA,NA
 Beyendorfer Privatweg,NA,NA,Beyendorfer Privat,NA,NA,NA,NA
@@ -281,7 +281,7 @@ Bisamweg,NA,NA,Bisam,NA,NA,NA,NA
 Bittkauer Weg,NA,NA,Bittkauer ,NA,NA,NA,NA
 Blankenburger Straße,NA,NA,Blankenburger ,NA,NA,NA,NA
 Blauebeilstraße,NA,NA,Blauebeil,NA,NA,NA,NA
-Blechenweg,male,deutscher Landschaftsmaler,Blechen,Carl Blechen,+1798-07-29T00:00:00Z,+1840-07-23T00:00:00Z,sodium
+Blechenweg,männlich,deutscher Landschaftsmaler,Blechen,Carl Blechen,+1798-07-29T00:00:00Z,+1840-07-23T00:00:00Z,NA
 Bleckenburgstraße,NA,NA,Bleckenburg,NA,NA,NA,NA
 Bleichenweg,NA,NA,Bleichen,NA,NA,NA,NA
 Blesshuhnweg,NA,NA,Blesshuhn,NA,NA,NA,NA
@@ -296,37 +296,37 @@ Boquet-Graseweg,NA,NA,Boquet Grase,NA,NA,NA,NA
 Bördeachtel,NA,NA,Bördeachtel,NA,NA,NA,NA
 Bördebogen,NA,NA,Bördebogen,NA,NA,NA,NA
 Bördestraße,NA,NA,Börde,NA,NA,NA,NA
-Borner Weg,female,"deutsch-amerikanische Ingenieurin, Informatikerin und Hochschullehrerin Informatikerin",Borner ,Katy Börner,+1967-00-00T00:00:00Z,NA,sodium
+Borner Weg,weiblich,"deutsch-amerikanische Ingenieurin, Informatikerin und Hochschullehrerin Informatikerin",Borner ,Katy Börner,+1967-00-00T00:00:00Z,NA,NA
 Bornstedter Weg,NA,NA,Bornstedter ,NA,NA,NA,NA
-Bötticherplatz,male,"deutscher Architekt, Kunsthistoriker, Denkmalpfleger und Archäologe",Bötticher,Adolf Bötticher,+1842-12-12T00:00:00Z,+1901-06-09T00:00:00Z,sodium
+Bötticherplatz,NA,NA,Bötticher,NA,NA,NA,NA
 Brandenburger Straße,NA,NA,Brandenburger ,NA,NA,NA,NA
-Brändströmweg,female,schwedische Philanthropin,Brändström,Elsa Brändström,+1888-03-26T00:00:00Z,+1948-03-04T00:00:00Z,sodium
-Brandtstraße,male,"deutscher Naturforscher, Arzt, Zoologe und Botaniker",Brandt,Johann Friedrich von Brandt,+1802-05-25T00:00:00Z,+1879-07-03T00:00:00Z,Germans
+Brändströmweg,NA,NA,Brändström,NA,NA,NA,NA
+Brandtstraße,männlich,"deutscher Naturforscher, Arzt, Zoologe und Botaniker",Brandt,Johann Friedrich von Brandt,+1802-05-25T00:00:00Z,+1879-07-03T00:00:00Z,Deutsche
 Brassenweg,NA,NA,Brassen,NA,NA,NA,NA
 Brauereistraße,NA,NA,Brauerei,NA,NA,NA,NA
 Braunlager Straße,NA,NA,Braunlager ,NA,NA,NA,NA
 Braunschweiger Straße,NA,NA,Braunschweiger ,NA,NA,NA,NA
 Braunsfelde,NA,NA,Braunsfelde,NA,NA,NA,NA
 Breite Straße,NA,NA,Breite ,NA,NA,NA,NA
-Breiter Weg,male,Schweizer Eishockeyspieler,Breiter ,Robert Breiter,+1909-03-28T00:00:00Z,+1985-11-19T00:00:00Z,sodium
+Breiter Weg,männlich,Schweizer Eishockeyspieler,Breiter ,Robert Breiter,+1909-03-28T00:00:00Z,+1985-11-19T00:00:00Z,NA
 Breitscheidstraße,NA,NA,Breitscheid,NA,NA,NA,NA
-Bremer Straße,male,russischer Architekt und Insektenkundler (1812–1873),Bremer ,Otto Vasilievich Bremer,+1812-01-01T00:00:00Z,+1873-11-11T00:00:00Z,sodium
+Bremer Straße,männlich,russischer Architekt und Insektenkundler (1812–1873),Bremer ,Otto Vasilievich Bremer,+1812-01-01T00:00:00Z,+1873-11-11T00:00:00Z,NA
 Brenneckestraße,NA,NA,Brennecke,NA,NA,NA,NA
 Breslauer Weg,NA,NA,Breslauer ,NA,NA,NA,NA
-Brigitte-Reimann-Straße,female,deutsche Schriftstellerin,Brigitte Reimann ,Brigitte Reimann,+1933-07-21T00:00:00Z,+1973-02-20T00:00:00Z,sodium
+Brigitte-Reimann-Straße,weiblich,deutsche Schriftstellerin,Brigitte Reimann ,Brigitte Reimann,+1933-07-21T00:00:00Z,+1973-02-20T00:00:00Z,NA
 Brombeerweg,NA,NA,Brombeer,NA,NA,NA,NA
 Brücke am Wasserfall,NA,NA,Brücke Wasserfall,NA,NA,NA,NA
 Brückenbreite,NA,NA,Brückenbreite,NA,NA,NA,NA
 Brückstraße,NA,NA,Brück,NA,NA,NA,NA
 Brüderstraße,NA,NA,Brüder,NA,NA,NA,NA
-Brueghelweg,male,flämischer Maler,Brueghel,Jan Brueghel the Elder,+1568-01-01T00:00:00Z,+1625-01-13T00:00:00Z,Flemings
+Brueghelweg,männlich,flämischer Maler,Brueghel,Jan Brueghel the Elder,+1568-01-01T00:00:00Z,+1625-01-13T00:00:00Z,Flamen
 Brunnenweg,NA,NA,Brunnen,NA,NA,NA,NA
-Brunnerstraße,male,Schweizer Entomologe,Brunner,Carl Brunner von Wattenwyl,+1823-06-13T00:00:00Z,+1914-08-24T00:00:00Z,sodium
-Bruno-Beye-Ring,male,deutscher Maler und Grafiker,Bruno Beye ,Bruno Beye,+1895-04-04T00:00:00Z,+1976-06-04T00:00:00Z,sodium
-Bruno-Taut-Ring,male,deutscher Architekt und Stadtplaner,Bruno Taut ,Bruno Taut,+1880-05-04T00:00:00Z,+1938-12-24T00:00:00Z,sodium
-Bruno-Wille-Straße,male,"deutscher Prediger, Philosoph, Journalist und Schriftsteller",Bruno Wille ,Bruno Wille,+1860-02-06T00:00:00Z,+1928-09-04T00:00:00Z,sodium
+Brunnerstraße,männlich,Schweizer Entomologe,Brunner,Carl Brunner von Wattenwyl,+1823-06-13T00:00:00Z,+1914-08-24T00:00:00Z,NA
+Bruno-Beye-Ring,männlich,deutscher Maler und Grafiker,Bruno Beye ,Bruno Beye,+1895-04-04T00:00:00Z,+1976-06-04T00:00:00Z,NA
+Bruno-Taut-Ring,männlich,deutscher Architekt und Stadtplaner,Bruno Taut ,Bruno Taut,+1880-05-04T00:00:00Z,+1938-12-24T00:00:00Z,NA
+Bruno-Wille-Straße,männlich,"deutscher Prediger, Philosoph, Journalist und Schriftsteller",Bruno Wille ,Bruno Wille,+1860-02-06T00:00:00Z,+1928-09-04T00:00:00Z,NA
 Buchenweg,NA,NA,Buchen,NA,NA,NA,NA
-Büchnerstraße,male,russischer Zoologe,Büchner,Eugen Büchner,+1861-03-20T00:00:00Z,+1913-01-01T00:00:00Z,sodium
+Büchnerstraße,männlich,russischer Zoologe,Büchner,Eugen Büchner,+1861-03-20T00:00:00Z,+1913-01-01T00:00:00Z,NA
 Buckauer Straße,NA,NA,Buckauer ,NA,NA,NA,NA
 Budenbergstraße,NA,NA,Budenberg,NA,NA,NA,NA
 Büdener Straße,NA,NA,Büdener ,NA,NA,NA,NA
@@ -334,38 +334,38 @@ Bülstringer Straße,NA,NA,Bülster ,NA,NA,NA,NA
 Bundschuhstraße,NA,NA,Bundschuh,NA,NA,NA,NA
 Bunsenstraße,NA,NA,Bunsen,NA,NA,NA,NA
 Bunter Weg,NA,NA,Bunter ,NA,NA,NA,NA
-Burchardstraße,male,Wormser Bischof und Kirchenrechtler,Burchard,Burchard of Worms,+0950-00-00T00:00:00Z,+1025-00-00T00:00:00Z,sodium
-Bürgelstraße,male,deutscher Marineoffizier und U-Boot-Kommandant im Zweiten Weltkrieg,Bürgel,Friedrich Bürgel,+1916-10-24T00:00:00Z,NA,sodium
+Burchardstraße,männlich,Wormser Bischof und Kirchenrechtler,Burchard,Burchard of Worms,+0950-00-00T00:00:00Z,+1025-00-00T00:00:00Z,NA
+Bürgelstraße,NA,NA,Bürgel,NA,NA,NA,NA
 Burgenser Weg,NA,NA,Burgenser ,NA,NA,NA,NA
-Burger Straße,male,"slowenisch Geograph, Fotograf",Burger ,Boštjan Burger,+1966-01-01T00:00:00Z,NA,sodium
-Burgkmairweg,male,"deutscher Maler, Zeichner und Holzschneider",Burgkmair,Hans Burgkmair the Elder,+1473-01-01T00:00:00Z,+1531-01-01T00:00:00Z,sodium
-Burgstaller Weg,male,NA,Burgstaller ,Burgstaller János,+1677-01-01T00:00:00Z,NA,sodium
+Burger Straße,NA,NA,Burger ,NA,NA,NA,NA
+Burgkmairweg,NA,NA,Burgkmair,NA,NA,NA,NA
+Burgstaller Weg,NA,NA,Burgstaller ,NA,NA,NA,NA
 Burgstraße,NA,NA,Burg,NA,NA,NA,NA
 Buschbreite,NA,NA,Buschbreite,NA,NA,NA,NA
 Buschfeldstraße,NA,NA,Buschfeld,NA,NA,NA,NA
-Buschweg,male,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Germans
+Buschweg,männlich,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Deutsche
 Bussardweg,NA,NA,Bussard,NA,NA,NA,NA
 Calbische Straße,NA,NA,Calbische ,NA,NA,NA,NA
 Calenberger Dorfstraße,NA,NA,Calenberger Dorf,NA,NA,NA,NA
 Calenberger Straße,NA,NA,Calenberger ,NA,NA,NA,NA
 Calvörder Straße,NA,NA,Calvörder ,NA,NA,NA,NA
 Camersdorfer Straße,NA,NA,Camersdorfer ,NA,NA,NA,NA
-Carl-Krayl-Ring,male,deutscher Architekt,Carl Krayl ,Carl Krayl,+1890-04-17T00:00:00Z,+1947-04-01T00:00:00Z,sodium
-Carl-Miller-Straße,male,US-amerikanischer Schauspieler,Carl Miller ,Carl Miller,+1893-08-09T00:00:00Z,+1979-01-22T00:00:00Z,sodium
+Carl-Krayl-Ring,männlich,deutscher Architekt,Carl Krayl ,Carl Krayl,+1890-04-17T00:00:00Z,+1947-04-01T00:00:00Z,NA
+Carl-Miller-Straße,männlich,US-amerikanischer Schauspieler,Carl Miller ,Carl Miller,+1893-08-09T00:00:00Z,+1979-01-22T00:00:00Z,NA
 Carnotstraße,NA,NA,Carnot,NA,NA,NA,NA
-Caspar-David-Friedrich-Weg,male,deutscher Maler der Romantik,Caspar David Friedrich ,Caspar David Friedrich,+1774-09-05T00:00:00Z,+1840-05-07T00:00:00Z,Germans
-Charles-de-Gaulle-Platz,male,französischer General und Staatsmann,Charles de Gaulle ,Charles de Gaulle,+1890-11-22T00:00:00Z,+1970-11-09T00:00:00Z,French
+Caspar-David-Friedrich-Weg,männlich,deutscher Maler der Romantik,Caspar David Friedrich ,Caspar David Friedrich,+1774-09-05T00:00:00Z,+1840-05-07T00:00:00Z,Deutsche
+Charles-de-Gaulle-Platz,männlich,französischer General und Staatsmann,Charles de Gaulle ,Charles de Gaulle,+1890-11-22T00:00:00Z,+1970-11-09T00:00:00Z,Franzosen
 Charlottenstraße,NA,NA,Charlotten,NA,NA,NA,NA
-Christa-Johannsen-Straße,female,deutsche Schriftstellerin,Christa Johannsen ,Christa Johannsen,+1914-11-17T00:00:00Z,+1981-04-09T00:00:00Z,sodium
+Christa-Johannsen-Straße,weiblich,deutsche Schriftstellerin,Christa Johannsen ,Christa Johannsen,+1914-11-17T00:00:00Z,+1981-04-09T00:00:00Z,NA
 Christian-Peicke-Straße,NA,NA,ChristiPeicke ,NA,NA,NA,NA
 Cochstedter Straße,NA,NA,Cochstedter ,NA,NA,NA,NA
 Colbitzer Straße,NA,NA,Colbitzer ,NA,NA,NA,NA
-Comeniusstraße,male,"tschechischer Lehrer, Pädagoge, Philosoph, Theologe und Schriftsteller",Comenius,John Amos Comenius,+1592-03-28T00:00:00Z,+1670-11-15T00:00:00Z,Czechs
+Comeniusstraße,männlich,"tschechischer Lehrer, Pädagoge, Philosoph, Theologe und Schriftsteller",Comenius,John Amos Comenius,+1592-03-28T00:00:00Z,+1670-11-15T00:00:00Z,Tschechen
 Coquistraße,NA,NA,Coqui,NA,NA,NA,NA
 Coswiger Straße,NA,NA,Coswiger ,NA,NA,NA,NA
 Cracauer Straße,NA,NA,Cracauer ,NA,NA,NA,NA
-Crucigerstraße,male,Theologe und Weggefährte Martin Luthers,Cruciger,Caspar Creuziger,+1504-01-01T00:00:00Z,+1548-11-16T00:00:00Z,sodium
-Curiestraße,male,Theologe und Bischof,Curie,Peter Friedrich Curie,+1777-01-01T00:00:00Z,+1855-01-01T00:00:00Z,sodium
+Crucigerstraße,männlich,Theologe und Weggefährte Martin Luthers,Cruciger,Caspar Creuziger,+1504-01-01T00:00:00Z,+1548-11-16T00:00:00Z,NA
+Curiestraße,NA,NA,Curie,NA,NA,NA,NA
 Dachsbreite,NA,NA,Dachsbreite,NA,NA,NA,NA
 Dahlienweg,NA,NA,Dahlien,NA,NA,NA,NA
 Damaschkeplatz,NA,NA,Damaschke,NA,NA,NA,NA
@@ -375,7 +375,7 @@ Danzstraße,NA,NA,Danz,NA,NA,NA,NA
 Dehmbergstraße,NA,NA,Dehmberg,NA,NA,NA,NA
 Deichweg,NA,NA,Deich,NA,NA,NA,NA
 Denekestraße,NA,NA,Deneke,NA,NA,NA,NA
-Denhardtstraße,male,deutscher Afrikaforscher,Denhardt,Clemens Denhardt,+1852-08-03T00:00:00Z,+1928-06-07T00:00:00Z,sodium
+Denhardtstraße,NA,NA,Denhardt,NA,NA,NA,NA
 Dequeder Straße,NA,NA,Dequeder ,NA,NA,NA,NA
 Derenburger Weg,NA,NA,Derenburger ,NA,NA,NA,NA
 Dessauer Straße,NA,NA,Dessauer ,NA,NA,NA,NA
@@ -384,16 +384,16 @@ Diesdorfer Graseweg,NA,NA,Diesdorfer Grase,NA,NA,NA,NA
 Diesdorfer Privatweg,NA,NA,Diesdorfer Privat,NA,NA,NA,NA
 Diesdorfer Wuhne,NA,NA,Diesdorfer Wuhne,NA,NA,NA,NA
 Diesterwegstraße,NA,NA,Diester,NA,NA,NA,NA
-Dietrichstraße,female,deutsch-amerikanische Schauspielerin und Sängerin,Dietrich,Marlene Dietrich,+1901-12-27T00:00:00Z,+1992-05-06T00:00:00Z,sodium
-Dillweg,male,brasilianischer Fußballspieler,Dill,Dill,+1974-03-04T00:00:00Z,NA,sodium
+Dietrichstraße,weiblich,deutsch-amerikanische Schauspielerin und Sängerin,Dietrich,Marlene Dietrich,+1901-12-27T00:00:00Z,+1992-05-06T00:00:00Z,NA
+Dillweg,NA,NA,Dill,NA,NA,NA,NA
 Dinkelgrund,NA,NA,Dinkelgrund,NA,NA,NA,NA
-Distelweg,male,französischer Fußballspieler,Distel,Distel Zola,+1989-02-05T00:00:00Z,NA,sodium
+Distelweg,NA,NA,Distel,NA,NA,NA,NA
 Doctor-Eisenbart-Ring,NA,NA,Doctor Eisenbart ,NA,NA,NA,NA
 Dodendorfer Platz,NA,NA,Dodendorfer ,NA,NA,NA,NA
 Dodendorfer Straße,NA,NA,Dodendorfer ,NA,NA,NA,NA
 Dodendorfer Weg,NA,NA,Dodendorfer ,NA,NA,NA,NA
 Dohlenstieg,NA,NA,Dohlenstieg,NA,NA,NA,NA
-Döllweg,male,deutscher Botaniker,Döll,Johann Christoph Döll,+1808-07-21T00:00:00Z,+1885-03-10T00:00:00Z,sodium
+Döllweg,männlich,deutscher Botaniker,Döll,Johann Christoph Döll,+1808-07-21T00:00:00Z,+1885-03-10T00:00:00Z,NA
 Domersleber Weg,NA,NA,Domersleber ,NA,NA,NA,NA
 Domplatz,NA,NA,Dom,NA,NA,NA,NA
 Dorfplatz,NA,NA,Dorf,NA,NA,NA,NA
@@ -404,7 +404,7 @@ Dr.-Grosz-Straße,NA,NA,Dr. Grosz ,NA,NA,NA,NA
 Dr.-Weißler-Weg,NA,NA,Dr. Weißler ,NA,NA,NA,NA
 Drackenstedter Weg,NA,NA,Drackenstedter ,NA,NA,NA,NA
 Draisweg,NA,NA,Drais,NA,NA,NA,NA
-Dräseckeplatz,male,"evangelischer Theologe, Generalsuperintendent und Bischof",Dräsecke,Johann Heinrich Bernhard Dräseke,+1774-01-18T00:00:00Z,+1849-12-08T00:00:00Z,sodium
+Dräseckeplatz,männlich,"evangelischer Theologe, Generalsuperintendent und Bischof",Dräsecke,Johann Heinrich Bernhard Dräseke,+1774-01-18T00:00:00Z,+1849-12-08T00:00:00Z,NA
 Dreibrückenstraße,NA,NA,Dreibrücken,NA,NA,NA,NA
 Dreileber Weg,NA,NA,Dreileber ,NA,NA,NA,NA
 Drews-Privatweg,NA,NA,Drews Privat,NA,NA,NA,NA
@@ -412,98 +412,98 @@ Drosselsteig,NA,NA,Drosselsteig,NA,NA,NA,NA
 Drübecker Weg,NA,NA,Drübecker ,NA,NA,NA,NA
 Druxberger Weg,NA,NA,Druxberger ,NA,NA,NA,NA
 Dükerweg,NA,NA,Düker,NA,NA,NA,NA
-Dungertweg,male,deutscher Maler und Grafiker,Dungert,Max Dungert,+1896-09-03T00:00:00Z,+1945-05-01T00:00:00Z,sodium
+Dungertweg,männlich,deutscher Maler und Grafiker,Dungert,Max Dungert,+1896-09-03T00:00:00Z,+1945-05-01T00:00:00Z,NA
 Düppler Grund,NA,NA,Düppler Grund,NA,NA,NA,NA
 Düppler Mühlenplatz,NA,NA,Düppler Mühlen,NA,NA,NA,NA
 Düppler Mühlenstraße,NA,NA,Düppler Mühlen,NA,NA,NA,NA
-Dürerstraße,male,deutscher Maler und Graphiker,Dürer,Albrecht Dürer,+1471-05-21T00:00:00Z,+1528-04-06T00:00:00Z,Germans
+Dürerstraße,männlich,deutscher Maler und Graphiker,Dürer,Albrecht Dürer,+1471-05-21T00:00:00Z,+1528-04-06T00:00:00Z,Deutsche
 Ebel-Privatweg,NA,NA,Ebel Privat,NA,NA,NA,NA
 Ebendorfer Chaussee,NA,NA,Ebendorfer e,NA,NA,NA,NA
-Ebendorfer Straße,male,"österreichischer Theologe, Universitätsprofessor und Geschichtsschreiber",Ebendorfer ,Thomas Ebendorfer,+1388-08-10T00:00:00Z,+1464-01-12T00:00:00Z,sodium
+Ebendorfer Straße,männlich,"österreichischer Theologe, Universitätsprofessor und Geschichtsschreiber",Ebendorfer ,Thomas Ebendorfer,+1388-08-10T00:00:00Z,+1464-01-12T00:00:00Z,NA
 Eckernförder Straße,NA,NA,Eckernförder ,NA,NA,NA,NA
 Ede-und-Unku-Weg,NA,NA,Ede und Unku ,NA,NA,NA,NA
 Editharing,NA,NA,Editha,NA,NA,NA,NA
 Edithawinkel,NA,NA,Edithawinkel,NA,NA,NA,NA
 Egelner Straße,NA,NA,Egelner ,NA,NA,NA,NA
-Egerländer Weg,male,"deutscher Unterhaltungsmusiker, Gründer der ""Original Egerländer Musikanten""",Egerländer ,Ernst Mosch,+1925-11-07T00:00:00Z,+1999-05-15T00:00:00Z,sodium
-Eggersdorfer Straße,male,"deutscher katholischer Theologe, Pädagoge und Politiker (BV), MdL",Eggersdorfer ,Franz Xaver Eggersdorfer,+1879-02-22T00:00:00Z,+1958-05-20T00:00:00Z,sodium
-Egmontstraße,male,flämischer Maler,Egmont,Justus van Egmont,+1601-09-22T00:00:00Z,+1674-01-08T00:00:00Z,sodium
+Egerländer Weg,männlich,"deutscher Unterhaltungsmusiker, Gründer der ""Original Egerländer Musikanten""",Egerländer ,Ernst Mosch,+1925-11-07T00:00:00Z,+1999-05-15T00:00:00Z,NA
+Eggersdorfer Straße,männlich,"deutscher katholischer Theologe, Pädagoge und Politiker (BV), MdL",Eggersdorfer ,Franz Xaver Eggersdorfer,+1879-02-22T00:00:00Z,+1958-05-20T00:00:00Z,NA
+Egmontstraße,NA,NA,Egmont,NA,NA,NA,NA
 Ehlegrund,NA,NA,Ehlegrund,NA,NA,NA,NA
 Eibenweg,NA,NA,Eiben,NA,NA,NA,NA
-Eichendorffstraße,male,"Jurist, bedeutender Lyriker und Schriftsteller der deutschen Romantik",Eichendorff,Joseph Freiherr von Eichendorff,+1788-03-10T00:00:00Z,+1857-11-26T00:00:00Z,Germans
+Eichendorffstraße,männlich,"Jurist, bedeutender Lyriker und Schriftsteller der deutschen Romantik",Eichendorff,Joseph Freiherr von Eichendorff,+1788-03-10T00:00:00Z,+1857-11-26T00:00:00Z,Deutsche
 Eichenweg,NA,NA,Eichen,NA,NA,NA,NA
 Eichplatz,NA,NA,Eich,NA,NA,NA,NA
 Eickendorfer Straße,NA,NA,Eickendorfer ,NA,NA,NA,NA
 Eigene Scholle,NA,NA,Eigene Scholle,NA,NA,NA,NA
 Eimersleber Weg,NA,NA,Eimersleber ,NA,NA,NA,NA
 Einbahnstraße,NA,NA,Einbahn,NA,NA,NA,NA
-Einsteinstraße,male,theoretischer Physiker; Entdecker der Relativitätstheorie (1879-1955),Einstein,Albert Einstein,+1879-03-14T00:00:00Z,+1955-04-18T00:00:00Z,Jewish people
+Einsteinstraße,männlich,theoretischer Physiker; Entdecker der Relativitätstheorie (1879-1955),Einstein,Albert Einstein,+1879-03-14T00:00:00Z,+1955-04-18T00:00:00Z,Juden
 Eisenacher Straße,NA,NA,Eisenacher ,NA,NA,NA,NA
 Eiskellerplatz,NA,NA,Eiskeller,NA,NA,NA,NA
 Eisleber Straße,NA,NA,Eisleber ,NA,NA,NA,NA
-Eisnerstraße,male,kolumbianischer Fußballspieler,Eisner,Eisner Iván Loboa Balanta,+1987-05-17T00:00:00Z,NA,sodium
+Eisnerstraße,männlich,kolumbianischer Fußballspieler,Eisner,Eisner Iván Loboa Balanta,+1987-05-17T00:00:00Z,NA,NA
 Eisvogelstraße,NA,NA,Eisvogel,NA,NA,NA,NA
 Elbenauer Straße,NA,NA,Elbenauer ,NA,NA,NA,NA
 Elbeuer Straße,NA,NA,Elbeuer ,NA,NA,NA,NA
 Elbstraße,NA,NA,Elb,NA,NA,NA,NA
 Elbweg,NA,NA,Elb,NA,NA,NA,NA
-Elisenstraße,female,Königin von Aragón,Elisen,Elisenda of Montcada,+1292-01-01T00:00:00Z,+1364-07-09T00:00:00Z,sodium
-Elmer Straße,male,NA,Elmer ,Adolph Daniel Edward Elmer,+1870-01-01T00:00:00Z,+1942-04-17T00:00:00Z,sodium
+Elisenstraße,weiblich,Königin von Aragón,Elisen,Elisenda of Montcada,+1292-01-01T00:00:00Z,+1364-07-09T00:00:00Z,NA
+Elmer Straße,männlich,NA,Elmer ,Adolph Daniel Edward Elmer,+1870-01-01T00:00:00Z,+1942-04-17T00:00:00Z,NA
 Elsterweg,NA,NA,Elster,NA,NA,NA,NA
-Emanuel-Larisch-Weg,male,"deutscher Politiker (KPD), Widerstandskämpfer",Emanuel Larisch ,Emanuel Larisch,+1906-01-01T00:00:00Z,+1944-05-21T00:00:00Z,sodium
+Emanuel-Larisch-Weg,männlich,"deutscher Politiker (KPD), Widerstandskämpfer",Emanuel Larisch ,Emanuel Larisch,+1906-01-01T00:00:00Z,+1944-05-21T00:00:00Z,NA
 Emdener Weg,NA,NA,Emdener ,NA,NA,NA,NA
-Emil-Rungwerth-Weg,male,deutscher Lehrer und Heimatforscher,Emil Rungwerth ,Emil Rungwerth,+1864-12-14T00:00:00Z,+1945-04-19T00:00:00Z,sodium
+Emil-Rungwerth-Weg,männlich,deutscher Lehrer und Heimatforscher,Emil Rungwerth ,Emil Rungwerth,+1864-12-14T00:00:00Z,+1945-04-19T00:00:00Z,NA
 Emilien-Privatweg,NA,NA,Emilien Privat,NA,NA,NA,NA
-Endelstraße,male,NA,Endel,Endel Kõks,+1912-04-21T00:00:00Z,+1983-11-25T00:00:00Z,sodium
+Endelstraße,NA,NA,Endel,NA,NA,NA,NA
 Engel-Privatweg,NA,NA,Engel Privat,NA,NA,NA,NA
 Erdbeerweg,NA,NA,Erdbeer,NA,NA,NA,NA
 Erfurter Straße,NA,NA,Erfurter ,NA,NA,NA,NA
-Erhard-Hübener-Platz,male,"deutscher Politiker (DDP, LDPD), MdV",Erhard Hübener ,Erhard Hübener,+1881-08-04T00:00:00Z,+1958-06-03T00:00:00Z,sodium
-Erich-Brose-Weg,male,Volksschullehrer und Heimatforscher,Erich Brose ,Erich Brose,+1894-02-08T00:00:00Z,+1974-08-31T00:00:00Z,sodium
-Erich-Kästner-Straße,male,Deutscher Schriftsteller (1899-1974),Erich Kästner ,Erich Kästner,+1899-02-23T00:00:00Z,+1974-07-29T00:00:00Z,Germans
-Erich-Mühsam-Straße,male,anarchistischer deutscher Schriftsteller und Publizist und Antimilitarist,Erich Mühs,Erich Mühsam,+1878-04-06T00:00:00Z,+1934-07-10T00:00:00Z,sodium
-Erich-Weinert-Straße,male,deutscher Schriftsteller,Erich Weinert ,Erich Weinert,+1890-08-04T00:00:00Z,+1953-04-20T00:00:00Z,sodium
-Erlenweg,male,norwegischer Schriftsteller und Journalist,Erlen,Erlend Loe,+1969-05-24T00:00:00Z,NA,sodium
+Erhard-Hübener-Platz,männlich,"deutscher Politiker (DDP, LDPD), MdV",Erhard Hübener ,Erhard Hübener,+1881-08-04T00:00:00Z,+1958-06-03T00:00:00Z,NA
+Erich-Brose-Weg,männlich,Volksschullehrer und Heimatforscher,Erich Brose ,Erich Brose,+1894-02-08T00:00:00Z,+1974-08-31T00:00:00Z,NA
+Erich-Kästner-Straße,männlich,Deutscher Schriftsteller (1899-1974),Erich Kästner ,Erich Kästner,+1899-02-23T00:00:00Z,+1974-07-29T00:00:00Z,Deutsche
+Erich-Mühsam-Straße,männlich,anarchistischer deutscher Schriftsteller und Publizist und Antimilitarist,Erich Mühs,Erich Mühsam,+1878-04-06T00:00:00Z,+1934-07-10T00:00:00Z,NA
+Erich-Weinert-Straße,männlich,deutscher Schriftsteller,Erich Weinert ,Erich Weinert,+1890-08-04T00:00:00Z,+1953-04-20T00:00:00Z,NA
+Erlenweg,NA,NA,Erlen,NA,NA,NA,NA
 Erlkönigstraße,NA,NA,Erlkönig,NA,NA,NA,NA
-Ernst-Lehmann-Straße,male,deutscher Botaniker und Universitätsprofessor,Ernst Lehmann ,Ernst Lehmann,+1880-06-24T00:00:00Z,+1957-12-01T00:00:00Z,sodium
+Ernst-Lehmann-Straße,männlich,deutscher Botaniker und Universitätsprofessor,Ernst Lehmann ,Ernst Lehmann,+1880-06-24T00:00:00Z,+1957-12-01T00:00:00Z,NA
 Ernst-Reuter-Allee,NA,NA,Ernst Reuter Allee,NA,NA,NA,NA
-Ernst-Toller-Straße,male,deutscher Schriftsteller und Politiker,Ernst Toller ,Ernst Toller,+1893-12-01T00:00:00Z,+1939-05-22T00:00:00Z,sodium
-Ernst-Wille-Straße,male,deutscher Politiker (SPD) und Widerstandskämpfer,Ernst Wille ,Ernst Wille,+1894-04-20T00:00:00Z,+1944-05-27T00:00:00Z,sodium
+Ernst-Toller-Straße,männlich,deutscher Schriftsteller und Politiker,Ernst Toller ,Ernst Toller,+1893-12-01T00:00:00Z,+1939-05-22T00:00:00Z,NA
+Ernst-Wille-Straße,männlich,deutscher Politiker (SPD) und Widerstandskämpfer,Ernst Wille ,Ernst Wille,+1894-04-20T00:00:00Z,+1944-05-27T00:00:00Z,NA
 Erpitzer Straße,NA,NA,Erpitzer ,NA,NA,NA,NA
 Erxleber Straße,NA,NA,Erxleber ,NA,NA,NA,NA
-Erzbergerstraße,male,"deutscher Politiker (Zentrum), MdR, Steuerreformer",Erzberger,Matthias Erzberger,+1875-09-20T00:00:00Z,+1921-08-26T00:00:00Z,sodium
+Erzbergerstraße,männlich,"deutscher Politiker (Zentrum), MdR, Steuerreformer",Erzberger,Matthias Erzberger,+1875-09-20T00:00:00Z,+1921-08-26T00:00:00Z,NA
 Eschenröder Straße,NA,NA,Eschenröder ,NA,NA,NA,NA
-Eschenweg,male,NA,Eschen,Eschen,NA,NA,sodium
+Eschenweg,NA,NA,Eschen,NA,NA,NA,NA
 Etgersleber Weg,NA,NA,Etgersleber ,NA,NA,NA,NA
 Eulespring,NA,NA,Eulesp,NA,NA,NA,NA
 Europaring,NA,NA,Europa,NA,NA,NA,NA
 Faber-Privatweg,NA,NA,Faber Privat,NA,NA,NA,NA
-Faberstraße,female,"US-amerikanische Astronomin, Professorin für Astronomie und Astrophysik",Faber,Sandra Faber,+1944-12-28T00:00:00Z,NA,sodium
-Fabriciusstraße,male,Zoologe und Wirtschaftswissenschaftler (1745–1808),Fabricius,Johan Christian Fabricius,+1745-01-07T00:00:00Z,+1808-03-03T00:00:00Z,sodium
+Faberstraße,weiblich,"US-amerikanische Astronomin, Professorin für Astronomie und Astrophysik",Faber,Sandra Faber,+1944-12-28T00:00:00Z,NA,NA
+Fabriciusstraße,männlich,Zoologe und Wirtschaftswissenschaftler (1745–1808),Fabricius,Johan Christian Fabricius,+1745-01-07T00:00:00Z,+1808-03-03T00:00:00Z,NA
 Fabrikenstraße,NA,NA,Fabriken,NA,NA,NA,NA
 Fährstraße,NA,NA,Fähr,NA,NA,NA,NA
 Falkenbergstraße,NA,NA,Falkenberg,NA,NA,NA,NA
-Falkenweg,male,norwegischer Eisschnellläufer,Falken,Rolf Falk-Larssen,+1960-02-21T00:00:00Z,NA,sodium
+Falkenweg,männlich,norwegischer Eisschnellläufer,Falken,Rolf Falk-Larssen,+1960-02-21T00:00:00Z,NA,NA
 Fallersleber Straße,NA,NA,Fallersleber ,NA,NA,NA,NA
 Falterstieg,NA,NA,Falterstieg,NA,NA,NA,NA
 Farnkrautbreite,NA,NA,Farnkrautbreite,NA,NA,NA,NA
 Farsleber Straße,NA,NA,Farsleber ,NA,NA,NA,NA
 Faßlochsberg,NA,NA,Faßlochsberg,NA,NA,NA,NA
 Fasanenstraße,NA,NA,Fasanen,NA,NA,NA,NA
-Faulmannstraße,male,"Schriftsetzer, Privatgelehrter und Stenograf",Faulmann,Karl Faulmann,+1835-06-24T00:00:00Z,+1894-01-01T00:00:00Z,sodium
-Fauststraße,male,norwegischer Schlagzeuger,Faust,Faust,+1974-04-21T00:00:00Z,NA,sodium
+Faulmannstraße,männlich,"Schriftsetzer, Privatgelehrter und Stenograf",Faulmann,Karl Faulmann,+1835-06-24T00:00:00Z,+1894-01-01T00:00:00Z,NA
+Fauststraße,NA,NA,Faust,NA,NA,NA,NA
 Feierabend-Privatweg,NA,NA,Feierabend Privat,NA,NA,NA,NA
 Feldstraße,NA,NA,Feld,NA,NA,NA,NA
 Felgeleber Straße,NA,NA,Felgeleber ,NA,NA,NA,NA
 Felsenbergstraße,NA,NA,Felsenberg,NA,NA,NA,NA
 Felsengrund,NA,NA,Felsengrund,NA,NA,NA,NA
 Felsweg,NA,NA,Fels,NA,NA,NA,NA
-Fenchelweg,male,dänischer Meeresbiologe und emeritierter Professor,Fenchel,Tom Fenchel,+1940-03-19T00:00:00Z,NA,sodium
+Fenchelweg,männlich,dänischer Meeresbiologe und emeritierter Professor,Fenchel,Tom Fenchel,+1940-03-19T00:00:00Z,NA,NA
 Ferchlander Weg,NA,NA,Ferchlander ,NA,NA,NA,NA
-Ferdinand-Schrey-Straße,male,"deutscher Erfinder, Mitbegründer der Stenografie",Ferdinand Schrey ,Ferdinand Schrey,+1850-07-19T00:00:00Z,+1938-10-02T00:00:00Z,sodium
-Ferdinand-von-Schill-Straße,male,preußischer Major und Freikorpsführer,Ferdinand von Schill ,Ferdinand von Schill,+1776-01-06T00:00:00Z,+1809-05-31T00:00:00Z,sodium
+Ferdinand-Schrey-Straße,männlich,"deutscher Erfinder, Mitbegründer der Stenografie",Ferdinand Schrey ,Ferdinand Schrey,+1850-07-19T00:00:00Z,+1938-10-02T00:00:00Z,NA
+Ferdinand-von-Schill-Straße,männlich,preußischer Major und Freikorpsführer,Ferdinand von Schill ,Ferdinand von Schill,+1776-01-06T00:00:00Z,+1809-05-31T00:00:00Z,NA
 Fermersleber Weg,NA,NA,Fermersleber ,NA,NA,NA,NA
-Feuerbachstraße,male,deutscher Maler,Feuerbach,Anselm Feuerbach,+1829-09-12T00:00:00Z,+1880-01-04T00:00:00Z,sodium
+Feuerbachstraße,männlich,deutscher Maler,Feuerbach,Anselm Feuerbach,+1829-09-12T00:00:00Z,+1880-01-04T00:00:00Z,NA
 Fichtestraße,NA,NA,Fichte,NA,NA,NA,NA
 Finkensteig,NA,NA,Finkensteig,NA,NA,NA,NA
 Fischer-Privatweg,NA,NA,Fischer Privat,NA,NA,NA,NA
@@ -515,14 +515,14 @@ Fliederweg,NA,NA,Flieder,NA,NA,NA,NA
 Florian-Geyer-Straße,NA,NA,FloriGeyer ,NA,NA,NA,NA
 Förderstedter Straße,NA,NA,Förderstedter ,NA,NA,NA,NA
 Forellenweg,NA,NA,Forellen,NA,NA,NA,NA
-Försterstraße,male,deutscher Botaniker und Entomologe,Förster,Arnold Förster,+1810-01-20T00:00:00Z,+1884-08-13T00:00:00Z,sodium
+Försterstraße,männlich,deutscher Botaniker und Entomologe,Förster,Arnold Förster,+1810-01-20T00:00:00Z,+1884-08-13T00:00:00Z,NA
 Forsthausstraße,NA,NA,Forsthaus,NA,NA,NA,NA
-Franckestraße,male,amerikanischer Arachnologe,Francke,Oscar Federico Francke Ballvé,+1953-01-01T00:00:00Z,NA,sodium
+Franckestraße,männlich,amerikanischer Arachnologe,Francke,Oscar Federico Francke Ballvé,+1953-01-01T00:00:00Z,NA,NA
 Frankefelde,NA,NA,Frankefelde,NA,NA,NA,NA
-Frans-Hals-Weg,male,flämischer Maler,Frans Hals ,Frans Hals,+1591-00-00T00:00:00Z,+1666-08-26T00:00:00Z,Dutch
+Frans-Hals-Weg,männlich,flämischer Maler,Frans Hals ,Frans Hals,+1591-00-00T00:00:00Z,+1666-08-26T00:00:00Z,Niederländer
 Fraunhoferplatz,NA,NA,Fraunhofer,NA,NA,NA,NA
 Freie Straße,NA,NA,Freie ,NA,NA,NA,NA
-Freiherr-vom-Stein-Straße,male,deutscher Staatsmann und Reformer,Freiherr vom Stein ,Heinrich Friedrich Karl vom und zum Stein,+1757-10-26T00:00:00Z,+1831-06-29T00:00:00Z,sodium
+Freiherr-vom-Stein-Straße,männlich,deutscher Staatsmann und Reformer,Freiherr vom Stein ,Heinrich Friedrich Karl vom und zum Stein,+1757-10-26T00:00:00Z,+1831-06-29T00:00:00Z,NA
 Freiligrathstraße,NA,NA,Freiligrath,NA,NA,NA,NA
 Freundschaftsweg,NA,NA,Freundschafts,NA,NA,NA,NA
 Friedensauer Weg,NA,NA,Friedensauer ,NA,NA,NA,NA
@@ -531,28 +531,28 @@ Friedensplatz,NA,NA,Friedens,NA,NA,NA,NA
 Friedenstraße,NA,NA,Frieden,NA,NA,NA,NA
 Friedhofstraße,NA,NA,Friedhof,NA,NA,NA,NA
 Friedhofsweg,NA,NA,Friedhofs,NA,NA,NA,NA
-Friedrich-Aue-Straße,male,Widerstandskämpfer gegen den Nationalsozialismus,Friedrich Aue ,Friedrich Aue,+1896-07-27T00:00:00Z,+1944-11-27T00:00:00Z,sodium
-Friedrich-Ebert-Straße,male,deutscher Politiker und Reichspräsident (1871-1925),Friedrich Ebert ,Friedrich Ebert,+1871-02-04T00:00:00Z,+1925-02-28T00:00:00Z,sodium
-Friedrich-Engels-Straße,male,"deutscher Politiker, Unternehmer, Philosoph und Militärhistoriker",Friedrich Engels ,Friedrich Engels,+1820-11-28T00:00:00Z,+1895-08-04T00:00:00Z,Germans
-Friedrich-List-Straße,male,deutscher Wirtschaftstheoretiker,Friedrich List ,Friedrich List,+1779-08-06T00:00:00Z,+1846-11-30T00:00:00Z,sodium
-Friedrich-Naumann-Straße,male,"deutscher evangelischer Theologe, liberaler Politiker, MdR",Friedrich Naumann ,Friedrich Naumann,+1860-03-25T00:00:00Z,+1919-08-24T00:00:00Z,sodium
+Friedrich-Aue-Straße,männlich,Widerstandskämpfer gegen den Nationalsozialismus,Friedrich Aue ,Friedrich Aue,+1896-07-27T00:00:00Z,+1944-11-27T00:00:00Z,NA
+Friedrich-Ebert-Straße,männlich,deutscher Politiker und Reichspräsident (1871-1925),Friedrich Ebert ,Friedrich Ebert,+1871-02-04T00:00:00Z,+1925-02-28T00:00:00Z,NA
+Friedrich-Engels-Straße,männlich,"deutscher Politiker, Unternehmer, Philosoph und Militärhistoriker",Friedrich Engels ,Friedrich Engels,+1820-11-28T00:00:00Z,+1895-08-04T00:00:00Z,Deutsche
+Friedrich-List-Straße,männlich,deutscher Wirtschaftstheoretiker,Friedrich List ,Friedrich List,+1779-08-06T00:00:00Z,+1846-11-30T00:00:00Z,NA
+Friedrich-Naumann-Straße,männlich,"deutscher evangelischer Theologe, liberaler Politiker, MdR",Friedrich Naumann ,Friedrich Naumann,+1860-03-25T00:00:00Z,+1919-08-24T00:00:00Z,NA
 Friesenstraße,NA,NA,Friesen,NA,NA,NA,NA
 Frischauf-Privatweg,NA,NA,Frischauf Privat,NA,NA,NA,NA
-Fritz-Hahn-Straße,male,deutscher Arzt und Pharmakologe,Fritz Hahn ,Fritz Hahn,+1907-02-13T00:00:00Z,+1982-05-19T00:00:00Z,sodium
-Fritz-Maenicke-Straße,male,deutscher Bildhauer und Restaurator,Fritz Maenicke ,Fritz Maenicke,+1892-10-23T00:00:00Z,+1970-03-16T00:00:00Z,sodium
-Fritz-Reuter-Straße,male,plattdeutscher Schriftsteller,Fritz Reuter ,Fritz Reuter,+1810-11-07T00:00:00Z,+1874-07-12T00:00:00Z,sodium
-Fritze-Bollmann-Straße,male,"Frisör in Brandenburg, unfreiwilliges Original",Fritze Bollmann ,Fritze Bollmann,+1852-01-05T00:00:00Z,+1901-05-07T00:00:00Z,sodium
-Fröbelstraße,male,"deutscher Geologe, Mineraloge, Politiker und Mitglied der Nationalversammlung in der Frankfurter Paulskirche",Fröbel,Julius Fröbel,+1805-07-16T00:00:00Z,+1893-11-06T00:00:00Z,sodium
+Fritz-Hahn-Straße,männlich,deutscher Arzt und Pharmakologe,Fritz Hahn ,Fritz Hahn,+1907-02-13T00:00:00Z,+1982-05-19T00:00:00Z,NA
+Fritz-Maenicke-Straße,männlich,deutscher Bildhauer und Restaurator,Fritz Maenicke ,Fritz Maenicke,+1892-10-23T00:00:00Z,+1970-03-16T00:00:00Z,NA
+Fritz-Reuter-Straße,männlich,plattdeutscher Schriftsteller,Fritz Reuter ,Fritz Reuter,+1810-11-07T00:00:00Z,+1874-07-12T00:00:00Z,NA
+Fritze-Bollmann-Straße,männlich,"Frisör in Brandenburg, unfreiwilliges Original",Fritze Bollmann ,Fritze Bollmann,+1852-01-05T00:00:00Z,+1901-05-07T00:00:00Z,NA
+Fröbelstraße,männlich,"deutscher Geologe, Mineraloge, Politiker und Mitglied der Nationalversammlung in der Frankfurter Paulskirche",Fröbel,Julius Fröbel,+1805-07-16T00:00:00Z,+1893-11-06T00:00:00Z,NA
 Froese-Privatweg,NA,NA,Froese Privat,NA,NA,NA,NA
 Froschgrund,NA,NA,Froschgrund,NA,NA,NA,NA
 Froser Straße,NA,NA,Froser ,NA,NA,NA,NA
 Fürstenwall,NA,NA,Fürstenwall,NA,NA,NA,NA
 Fürstenwallstraße,NA,NA,Fürstenwall,NA,NA,NA,NA
 Furtlake-Privatweg,NA,NA,Furtlake Privat,NA,NA,NA,NA
-Gabelsbergerstraße,male,Erfinder des Vorläufers der Deutschen Einheitskurzschrift,Gabelsberger,Franz Xaver Gabelsberger,+1789-02-09T00:00:00Z,+1849-01-04T00:00:00Z,sodium
+Gabelsbergerstraße,männlich,Erfinder des Vorläufers der Deutschen Einheitskurzschrift,Gabelsberger,Franz Xaver Gabelsberger,+1789-02-09T00:00:00Z,+1849-01-04T00:00:00Z,NA
 Gaertnerstraße,NA,NA,Gaertner,NA,NA,NA,NA
 Gagernstraße,NA,NA,Gagern,NA,NA,NA,NA
-Galileostraße,male,"italienischer Philosoph, Mathematiker, Physiker und Astronom",Galileo,Galileo Galilei,+1564-02-15T00:00:00Z,+1642-01-08T00:00:00Z,Italians
+Galileostraße,männlich,"italienischer Philosoph, Mathematiker, Physiker und Astronom",Galileo,Galileo Galilei,+1564-02-15T00:00:00Z,+1642-01-08T00:00:00Z,Italiener
 Ganghoferstraße,NA,NA,Ganghofer,NA,NA,NA,NA
 Gardeleger Straße,NA,NA,Gardeleger ,NA,NA,NA,NA
 Gareisstraße,NA,NA,Gareis,NA,NA,NA,NA
@@ -561,17 +561,17 @@ Gartenheimweg,NA,NA,Gartenheim,NA,NA,NA,NA
 Gartenstraße,NA,NA,Garten,NA,NA,NA,NA
 Gartenweg,NA,NA,Garten,NA,NA,NA,NA
 Gasereistraße,NA,NA,Gaserei,NA,NA,NA,NA
-Gaußstraße,male,"deutscher Mathematiker, Statistiker, Astronom, Geodät und Physiker",Gauß,Carl Friedrich Gauss,+1777-04-30T00:00:00Z,+1855-02-23T00:00:00Z,sodium
-Geißlerstraße,female,deutsche Botanikerin,Geißler,Ursula Geissler,+1931-01-30T00:00:00Z,+2018-06-23T00:00:00Z,sodium
+Gaußstraße,männlich,"deutscher Mathematiker, Statistiker, Astronom, Geodät und Physiker",Gauß,Carl Friedrich Gauss,+1777-04-30T00:00:00Z,+1855-02-23T00:00:00Z,NA
+Geißlerstraße,NA,NA,Geißler,NA,NA,NA,NA
 Gellertstraße,NA,NA,Gellert,NA,NA,NA,NA
 Genossenschaftsweg,NA,NA,Genossenschafts,NA,NA,NA,NA
 Genthiner Straße,NA,NA,Genthiner ,NA,NA,NA,NA
-Georg-Becker-Straße,male,NA,Georg Becker ,Georg Becker,+1934-00-00T00:00:00Z,NA,sodium
-Georg-Heidler-Straße,male,deutscher Politiker,Georg Heidler ,Georg Heidler,+1891-03-06T00:00:00Z,+1950-01-30T00:00:00Z,sodium
-Georg-Kaiser-Straße,male,deutscher Schriftsteller,Georg Kaiser ,Georg Kaiser,+1878-11-25T00:00:00Z,+1945-06-04T00:00:00Z,sodium
-Georg-Singer-Straße,male,deutscher Politiker (KPD),Georg Singer ,Georg Singer,+1898-05-31T00:00:00Z,+1942-04-25T00:00:00Z,sodium
+Georg-Becker-Straße,männlich,NA,Georg Becker ,Georg Becker,+1934-00-00T00:00:00Z,NA,NA
+Georg-Heidler-Straße,männlich,deutscher Politiker,Georg Heidler ,Georg Heidler,+1891-03-06T00:00:00Z,+1950-01-30T00:00:00Z,NA
+Georg-Kaiser-Straße,männlich,deutscher Schriftsteller,Georg Kaiser ,Georg Kaiser,+1878-11-25T00:00:00Z,+1945-06-04T00:00:00Z,NA
+Georg-Singer-Straße,männlich,deutscher Politiker (KPD),Georg Singer ,Georg Singer,+1898-05-31T00:00:00Z,+1942-04-25T00:00:00Z,NA
 Geraer Straße,NA,NA,Geraer ,NA,NA,NA,NA
-Gerhart-Hauptmann-Straße,male,Schriftsteller des deutschen Naturalismus,Gerhart Hauptmann ,Gerhart Hauptmann,+1862-11-15T00:00:00Z,+1946-06-06T00:00:00Z,Germans
+Gerhart-Hauptmann-Straße,männlich,Schriftsteller des deutschen Naturalismus,Gerhart Hauptmann ,Gerhart Hauptmann,+1862-11-15T00:00:00Z,+1946-06-06T00:00:00Z,Deutsche
 Gernröder Straße,NA,NA,Gernröder ,NA,NA,NA,NA
 Gersdorfer Straße,NA,NA,Gersdorfer ,NA,NA,NA,NA
 Gersdorfer Weg,NA,NA,Gersdorfer ,NA,NA,NA,NA
@@ -579,11 +579,11 @@ Gerstengrund,NA,NA,Gerstengrund,NA,NA,NA,NA
 Gerwischer Straße,NA,NA,Gerwischer ,NA,NA,NA,NA
 Geschwister-Scholl-Straße,NA,NA,Geschwister Scholl ,NA,NA,NA,NA
 Ginsterbreite,NA,NA,Ginsterbreite,NA,NA,NA,NA
-Gleimweg,male,NA,Gleim,Gleimo Martins dos Anjos,+1976-03-26T00:00:00Z,NA,sodium
+Gleimweg,NA,NA,Gleim,NA,NA,NA,NA
 Glindenberger Weg,NA,NA,Glindenberger ,NA,NA,NA,NA
 Gnadauer Straße,NA,NA,Gnadauer ,NA,NA,NA,NA
 Gneisenauring,NA,NA,Gneisenau,NA,NA,NA,NA
-Goethestraße,male,"deutscher Dichter, Dramatiker, Naturforscher und Politiker (1749–1832)",Goethe,Johann Wolfgang von Goethe,+1749-08-28T00:00:00Z,+1832-03-22T00:00:00Z,Germans
+Goethestraße,männlich,"deutscher Dichter, Dramatiker, Naturforscher und Politiker (1749–1832)",Goethe,Johann Wolfgang von Goethe,+1749-08-28T00:00:00Z,+1832-03-22T00:00:00Z,Deutsche
 Goldammerweg,NA,NA,Goldammer,NA,NA,NA,NA
 Goldschmidtring,NA,NA,Goldschmidt,NA,NA,NA,NA
 Goldschmiedebrücke,NA,NA,Goldschmiedebrücke,NA,NA,NA,NA
@@ -592,9 +592,9 @@ Gothaer Straße,NA,NA,Gothaer ,NA,NA,NA,NA
 Gouvernementsberg,NA,NA,Gouvernementsberg,NA,NA,NA,NA
 Grabbestraße,NA,NA,Grabbe,NA,NA,NA,NA
 Grabower Straße,NA,NA,Grabower ,NA,NA,NA,NA
-Graffweg,male,Schweizer Maler,Graff,Anton Graff,+1736-11-18T00:00:00Z,+1813-06-22T00:00:00Z,sodium
+Graffweg,männlich,Schweizer Maler,Graff,Anton Graff,+1736-11-18T00:00:00Z,+1813-06-22T00:00:00Z,NA
 Granitweg,NA,NA,Granit,NA,NA,NA,NA
-Graubestraße,male,lettischer Generalleutnant,Graube,Raimonds Graube,+1957-02-28T00:00:00Z,NA,sodium
+Graubestraße,NA,NA,Graube,NA,NA,NA,NA
 Greifenhagener Straße,NA,NA,Greifenhagener ,NA,NA,NA,NA
 Greifenwerder,NA,NA,Greifenwerder,NA,NA,NA,NA
 Greifswalder Straße,NA,NA,Greifswalder ,NA,NA,NA,NA
@@ -616,28 +616,28 @@ Großer Hof,NA,NA,Großer Hof,NA,NA,NA,NA
 Großer Kannenstieg,NA,NA,Großer Kannenstieg,NA,NA,NA,NA
 Großer Werder,NA,NA,Großer Werder,NA,NA,NA,NA
 Grüne Gasse,NA,NA,Grüne Gasse,NA,NA,NA,NA
-Grünewaldweg,male,"deutscher Maler, Graphiker, Baumeister und Wasserkunstmacher",Grünewald,Mathias Grünewald,+1480-01-01T00:00:00Z,+1528-08-31T00:00:00Z,Germans
+Grünewaldweg,männlich,"deutscher Maler, Graphiker, Baumeister und Wasserkunstmacher",Grünewald,Mathias Grünewald,+1480-01-01T00:00:00Z,+1528-08-31T00:00:00Z,Deutsche
 Grünstraße,NA,NA,Grün,NA,NA,NA,NA
-Grusonstraße,male,"deutscher Ingenieur, Erfinder und Unternehmer",Gruson,Hermann Gruson,+1821-02-13T00:00:00Z,+1895-01-30T00:00:00Z,sodium
+Grusonstraße,männlich,"deutscher Ingenieur, Erfinder und Unternehmer",Gruson,Hermann Gruson,+1821-02-13T00:00:00Z,+1895-01-30T00:00:00Z,NA
 Gübser Damm,NA,NA,Gübser Damm,NA,NA,NA,NA
 Gübser Weg,NA,NA,Gübser ,NA,NA,NA,NA
-Günter-Särchen-Straße,male,"katholischer Sozialpädagoge, Publizist, Wegbereiter der deutsch-polnischen Aussöhnung",Günter Särchen ,Günter Särchen,+1927-12-14T00:00:00Z,+2004-07-19T00:00:00Z,sodium
-Gustav-Adolf-Straße,male,König von Schweden,Gustav Adolf ,Gustavus Adolphus of Sweden,+1594-12-09T00:00:00Z,+1632-11-06T00:00:00Z,sodium
-Gustav-Ricker-Straße,male,deutscher Wissenschaftler und Arzt,Gustav Ricker ,Gustav Ricker,+1870-11-02T00:00:00Z,+1948-09-23T00:00:00Z,sodium
-Gustav-Trombke-Straße,male,deutscher Schauspieler und Conférencier,Gustav Trombke ,Gustav Trombke,+1900-02-13T00:00:00Z,+1978-01-09T00:00:00Z,sodium
+Günter-Särchen-Straße,männlich,"katholischer Sozialpädagoge, Publizist, Wegbereiter der deutsch-polnischen Aussöhnung",Günter Särchen ,Günter Särchen,+1927-12-14T00:00:00Z,+2004-07-19T00:00:00Z,NA
+Gustav-Adolf-Straße,männlich,König von Schweden,Gustav Adolf ,Gustavus Adolphus of Sweden,+1594-12-09T00:00:00Z,+1632-11-06T00:00:00Z,NA
+Gustav-Ricker-Straße,männlich,deutscher Wissenschaftler und Arzt,Gustav Ricker ,Gustav Ricker,+1870-11-02T00:00:00Z,+1948-09-23T00:00:00Z,NA
+Gustav-Trombke-Straße,männlich,deutscher Schauspieler und Conférencier,Gustav Trombke ,Gustav Trombke,+1900-02-13T00:00:00Z,+1978-01-09T00:00:00Z,NA
 Güstener Straße,NA,NA,Güstener ,NA,NA,NA,NA
 Gustl-Möller-Straße,NA,NA,Gustl Möller ,NA,NA,NA,NA
-Gutenbergstraße,male,"deutscher Politiker (NSDAP), MdR, General",Gutenberg,Karl Gutenberger,+1905-04-18T00:00:00Z,+1961-07-08T00:00:00Z,sodium
+Gutenbergstraße,NA,NA,Gutenberg,NA,NA,NA,NA
 Gutensweger Straße,NA,NA,Gutenser ,NA,NA,NA,NA
-GutsMuthsweg,male,deutscher Pädagoge und Mitbegründer des Turnens,GutsMuths,Johann Christoph Friedrich GutsMuths,+1759-08-09T00:00:00Z,+1839-05-21T00:00:00Z,sodium
+GutsMuthsweg,männlich,deutscher Pädagoge und Mitbegründer des Turnens,GutsMuths,Johann Christoph Friedrich GutsMuths,+1759-08-09T00:00:00Z,+1839-05-21T00:00:00Z,NA
 Habichtweg,NA,NA,Habicht,NA,NA,NA,NA
 Hadmersleber Straße,NA,NA,Hadmersleber ,NA,NA,NA,NA
-Haeckelstraße,male,"deutscher Mediziner, Zoologe, Philosoph, Zeichner und Freidenker",Haeckel,Ernst Haeckel,+1834-02-16T00:00:00Z,+1919-08-09T00:00:00Z,sodium
+Haeckelstraße,männlich,"deutscher Mediziner, Zoologe, Philosoph, Zeichner und Freidenker",Haeckel,Ernst Haeckel,+1834-02-16T00:00:00Z,+1919-08-09T00:00:00Z,NA
 Hafenstraße,NA,NA,Hafen,NA,NA,NA,NA
 Haferbreite,NA,NA,Haferbreite,NA,NA,NA,NA
 Hagebuttenweg,NA,NA,Hagebutten,NA,NA,NA,NA
-Hagedornstraße,male,deutscher Dichter,Hagedorn,Friedrich von Hagedorn,+1708-04-23T00:00:00Z,+1754-10-28T00:00:00Z,sodium
-Hahnemannstraße,male,"Brasilianischer Jurist, ehemaliger Generalstaatsanwalt der Republik",Hahnemann,Hahnemann Guimarães,+1901-11-27T00:00:00Z,+1980-04-14T00:00:00Z,sodium
+Hagedornstraße,NA,NA,Hagedorn,NA,NA,NA,NA
+Hahnemannstraße,NA,NA,Hahnemann,NA,NA,NA,NA
 Hakeborner Straße,NA,NA,Hakeborner ,NA,NA,NA,NA
 Hakenstedter Weg,NA,NA,Hakenstedter ,NA,NA,NA,NA
 Halberstädter Chaussee,NA,NA,Halberstädter e,NA,NA,NA,NA
@@ -645,97 +645,97 @@ Halberstädter Straße,NA,NA,Halberstädter ,NA,NA,NA,NA
 Haldensleber Straße,NA,NA,Haldensleber ,NA,NA,NA,NA
 Hallische Straße,NA,NA,Hallische ,NA,NA,NA,NA
 Hamburger Damm,NA,NA,Hamburger Damm,NA,NA,NA,NA
-Hamburger Straße,male,NA,Hamburger ,George Han Kim,+1973-03-27T00:00:00Z,NA,sodium
+Hamburger Straße,männlich,NA,Hamburger ,George Han Kim,+1973-03-27T00:00:00Z,NA,NA
 Hammersteinweg,NA,NA,Hammerstein,NA,NA,NA,NA
 Hamsterbreite,NA,NA,Hamsterbreite,NA,NA,NA,NA
 Hängelsbreite,NA,NA,Hängelsbreite,NA,NA,NA,NA
 Hannoversche Straße,NA,NA,Hannoversche ,NA,NA,NA,NA
-Hanns-Eisler-Platz,male,österreichischer Komponist (1898-1962),Hanns Eisler ,Hanns Eisler,+1898-07-06T00:00:00Z,+1962-09-06T00:00:00Z,sodium
-Hans-Behrendt-Weg,male,"deutscher Regisseur, Drehbuchautor und Schauspieler",Hans Behrendt ,Hans Behrendt,+1889-09-28T00:00:00Z,+1942-08-14T00:00:00Z,sodium
-Hans-Fallada-Weg,male,deutscher Schriftsteller (1893–1947),Hans Fallada ,Hans Fallada,+1893-07-21T00:00:00Z,+1947-02-05T00:00:00Z,Germans
-Hans-Grade-Straße,male,deutscher Flugpionier,Hans Grade ,Hans Grade,+1879-05-17T00:00:00Z,+1946-10-22T00:00:00Z,sodium
-Hans-Grundig-Straße,male,deutscher Maler und Graphiker,Hans Grundig ,Hans Grundig,+1901-02-19T00:00:00Z,+1958-09-11T00:00:00Z,sodium
-Hans-Haupt-Weg,male,deutscher Heimatforscher,Hans Haupt ,Hans Haupt,+1900-00-00T00:00:00Z,+1970-00-00T00:00:00Z,sodium
-Hans-Löscher-Straße,male,deutscher Schriftsteller und Pädagoge,Hans Löscher ,Hans Löscher,+1881-04-19T00:00:00Z,+1946-05-07T00:00:00Z,sodium
+Hanns-Eisler-Platz,männlich,österreichischer Komponist (1898-1962),Hanns Eisler ,Hanns Eisler,+1898-07-06T00:00:00Z,+1962-09-06T00:00:00Z,NA
+Hans-Behrendt-Weg,männlich,"deutscher Regisseur, Drehbuchautor und Schauspieler",Hans Behrendt ,Hans Behrendt,+1889-09-28T00:00:00Z,+1942-08-14T00:00:00Z,NA
+Hans-Fallada-Weg,männlich,deutscher Schriftsteller (1893–1947),Hans Fallada ,Hans Fallada,+1893-07-21T00:00:00Z,+1947-02-05T00:00:00Z,Deutsche
+Hans-Grade-Straße,männlich,deutscher Flugpionier,Hans Grade ,Hans Grade,+1879-05-17T00:00:00Z,+1946-10-22T00:00:00Z,NA
+Hans-Grundig-Straße,männlich,deutscher Maler und Graphiker,Hans Grundig ,Hans Grundig,+1901-02-19T00:00:00Z,+1958-09-11T00:00:00Z,NA
+Hans-Haupt-Weg,männlich,deutscher Heimatforscher,Hans Haupt ,Hans Haupt,+1900-00-00T00:00:00Z,+1970-00-00T00:00:00Z,NA
+Hans-Löscher-Straße,männlich,deutscher Schriftsteller und Pädagoge,Hans Löscher ,Hans Löscher,+1881-04-19T00:00:00Z,+1946-05-07T00:00:00Z,NA
 Hansapark,NA,NA,Hansapark,NA,NA,NA,NA
-Hansastraße,female,"indische Reformerin, Sozialaktivistin, Erzieherin, Unabhängigkeitsaktivist und Schriftstellerin",Hansa,Hansa Jivraj Mehta,+1897-07-03T00:00:00Z,+1995-04-04T00:00:00Z,sodium
+Hansastraße,NA,NA,Hansa,NA,NA,NA,NA
 Harbker Straße,NA,NA,Harbker ,NA,NA,NA,NA
-Hardenbergstraße,male,NA,Hardenberg,Cornelis van Hardenbergh,+1755-01-01T00:00:00Z,+1843-02-02T00:00:00Z,sodium
-Harnackstraße,male,deutscher Komponist,Harnack,Hardenack Otto Conrad Zinck,+1746-07-02T00:00:00Z,+1832-02-15T00:00:00Z,sodium
-Harro-Schulze-Boysen-Straße,male,"deutscher Offizier, Publizist und Widerstandskämpfer",Harro Schulze Boysen ,Harro Schulze-Boysen,+1909-09-02T00:00:00Z,+1942-12-22T00:00:00Z,sodium
+Hardenbergstraße,NA,NA,Hardenberg,NA,NA,NA,NA
+Harnackstraße,NA,NA,Harnack,NA,NA,NA,NA
+Harro-Schulze-Boysen-Straße,männlich,"deutscher Offizier, Publizist und Widerstandskämpfer",Harro Schulze Boysen ,Harro Schulze-Boysen,+1909-09-02T00:00:00Z,+1942-12-22T00:00:00Z,NA
 Harsdorfer Berg,NA,NA,Harsdorfer Berg,NA,NA,NA,NA
 Harsdorfer Bierweg,NA,NA,Harsdorfer Bier,NA,NA,NA,NA
 Harsdorfer Platz,NA,NA,Harsdorfer ,NA,NA,NA,NA
 Harsdorfer Straße,NA,NA,Harsdorfer ,NA,NA,NA,NA
 Harsdorfer Worthen,NA,NA,Harsdorfer Worthen,NA,NA,NA,NA
-Hartstraße,male,NA,Hart,Henry Chichester Hart,+1847-01-01T00:00:00Z,+1908-01-01T00:00:00Z,sodium
+Hartstraße,NA,NA,Hart,NA,NA,NA,NA
 Harzburger Straße,NA,NA,Harzburger ,NA,NA,NA,NA
 Haselnussweg,NA,NA,Haselnuss,NA,NA,NA,NA
 Hasenbreite,NA,NA,Hasenbreite,NA,NA,NA,NA
-Hasenpflugstraße,male,deutscher Maler,Hasenpflug,Carl Hasenpflug,+1802-09-23T00:00:00Z,+1858-04-13T00:00:00Z,sodium
-Hasselbachplatz,male,"deutscher Jurist, SS-Obersturmbannführer und Leiter der Gestapo in Düsseldorf und Belgien",Hasselbach,Karl Friedrich Georg Haselbacher,+1904-10-07T00:00:00Z,+1940-09-13T00:00:00Z,sodium
-Hasselbachstraße,male,"deutscher Jurist, SS-Obersturmbannführer und Leiter der Gestapo in Düsseldorf und Belgien",Hasselbach,Karl Friedrich Georg Haselbacher,+1904-10-07T00:00:00Z,+1940-09-13T00:00:00Z,sodium
-Hauffstraße,female,deutsche Sängerin,Hauff,Monika Hauff,+1944-04-17T00:00:00Z,NA,sodium
+Hasenpflugstraße,männlich,deutscher Maler,Hasenpflug,Carl Hasenpflug,+1802-09-23T00:00:00Z,+1858-04-13T00:00:00Z,NA
+Hasselbachplatz,NA,NA,Hasselbach,NA,NA,NA,NA
+Hasselbachstraße,NA,NA,Hasselbach,NA,NA,NA,NA
+Hauffstraße,weiblich,deutsche Sängerin,Hauff,Monika Hauff,+1944-04-17T00:00:00Z,NA,NA
 Hauptstraße,NA,NA,Haupt,NA,NA,NA,NA
-Havelstraße,male,"tschechischer Dichter, Prosaist, Literaturkritiker, Übersetzer, Politiker und Journalist",Havel,Karel Havlíček Borovský,+1821-10-31T00:00:00Z,+1856-07-29T00:00:00Z,Czechs
+Havelstraße,männlich,"tschechischer Dichter, Prosaist, Literaturkritiker, Übersetzer, Politiker und Journalist",Havel,Karel Havlíček Borovský,+1821-10-31T00:00:00Z,+1856-07-29T00:00:00Z,Tschechen
 Haverlaher Straße,NA,NA,Haverlaher ,NA,NA,NA,NA
-Haydnplatz,male,österreicher Komponist der Wiener Klassik,Haydn,Joseph Haydn,+1732-03-31T00:00:00Z,+1809-05-31T00:00:00Z,sodium
-Hebbelstraße,male,NA,Hebbel,Hebbel Edward Hoff,+1907-00-00T00:00:00Z,NA,sodium
+Haydnplatz,männlich,österreicher Komponist der Wiener Klassik,Haydn,Joseph Haydn,+1732-03-31T00:00:00Z,+1809-05-31T00:00:00Z,NA
+Hebbelstraße,NA,NA,Hebbel,NA,NA,NA,NA
 Hechtweg,NA,NA,Hecht,NA,NA,NA,NA
 Heckenweg,NA,NA,Hecken,NA,NA,NA,NA
 Hecklinger Straße,NA,NA,Hecklinger ,NA,NA,NA,NA
-Hegelstraße,male,deutscher Philosoph,Hegel,Georg Wilhelm Friedrich Hegel,+1770-08-27T00:00:00Z,+1831-11-14T00:00:00Z,sodium
+Hegelstraße,männlich,deutscher Philosoph,Hegel,Georg Wilhelm Friedrich Hegel,+1770-08-27T00:00:00Z,+1831-11-14T00:00:00Z,NA
 Hegewiesenweg,NA,NA,Hegewiesen,NA,NA,NA,NA
 Heidelbeerweg,NA,NA,Heidelbeer,NA,NA,NA,NA
 Heidestraße,NA,NA,Heide,NA,NA,NA,NA
 Heideweg,NA,NA,Heide,NA,NA,NA,NA
 Heimat-Privatstraße,NA,NA,Heimat Privat,NA,NA,NA,NA
 Heimweg,NA,NA,Heim,NA,NA,NA,NA
-Heinrich-Heine-Platz,male,deutscher Dichter und Publizist,Heinrich Heine ,Heinrich Heine,+1797-12-13T00:00:00Z,+1856-02-17T00:00:00Z,sodium
-Heinrich-Heine-Weg,male,deutscher Dichter und Publizist,Heinrich Heine ,Heinrich Heine,+1797-12-13T00:00:00Z,+1856-02-17T00:00:00Z,sodium
+Heinrich-Heine-Platz,männlich,deutscher Dichter und Publizist,Heinrich Heine ,Heinrich Heine,+1797-12-13T00:00:00Z,+1856-02-17T00:00:00Z,NA
+Heinrich-Heine-Weg,männlich,deutscher Dichter und Publizist,Heinrich Heine ,Heinrich Heine,+1797-12-13T00:00:00Z,+1856-02-17T00:00:00Z,NA
 Heinrich-Lange-Grund,NA,NA,Heinrich Lange Grund,NA,NA,NA,NA
-Heinrich-Mundlos-Ring,male,deutscher Erfinder und Fabrikant von Nähmaschinen,Heinrich Mundlos ,Heinrich Mundlos,+1836-12-23T00:00:00Z,+1928-04-27T00:00:00Z,sodium
-Heinrich-Schmutze-Straße,male,preußischer Ingenieur-Hauptmann,Heinrich Schmutze ,Heinrich Schmutze,+1700-01-01T00:00:00Z,+1704-01-01T00:00:00Z,sodium
+Heinrich-Mundlos-Ring,männlich,deutscher Erfinder und Fabrikant von Nähmaschinen,Heinrich Mundlos ,Heinrich Mundlos,+1836-12-23T00:00:00Z,+1928-04-27T00:00:00Z,NA
+Heinrich-Schmutze-Straße,männlich,preußischer Ingenieur-Hauptmann,Heinrich Schmutze ,Heinrich Schmutze,+1700-01-01T00:00:00Z,+1704-01-01T00:00:00Z,NA
 Heinrich-Wunderling-Straße,NA,NA,Heinrich Wunderling ,NA,NA,NA,NA
-Heinrich-Zille-Straße,male,deutscher Maler und Zeichner,Heinrich Zille ,Heinrich Zille,+1858-01-10T00:00:00Z,+1929-08-09T00:00:00Z,sodium
-Heinrichplatz,male,Kaiser des lateinischen Reichs von Konstantinopel,Heinrich,Henry of Flanders,+1174-01-01T00:00:00Z,+1216-06-11T00:00:00Z,sodium
+Heinrich-Zille-Straße,männlich,deutscher Maler und Zeichner,Heinrich Zille ,Heinrich Zille,+1858-01-10T00:00:00Z,+1929-08-09T00:00:00Z,NA
+Heinrichplatz,männlich,Kaiser des lateinischen Reichs von Konstantinopel,Heinrich,Henry of Flanders,+1174-01-01T00:00:00Z,+1216-06-11T00:00:00Z,NA
 Heinrichsberger Privatweg,NA,NA,Heinrichsberger Privat,NA,NA,NA,NA
 Heinrichsberger Straße,NA,NA,Heinrichsberger ,NA,NA,NA,NA
-Heinrichstraße,male,Kaiser des lateinischen Reichs von Konstantinopel,Heinrich,Henry of Flanders,+1174-01-01T00:00:00Z,+1216-06-11T00:00:00Z,sodium
-Heinz-Krügel-Platz,male,deutscher Fußballspieler und -trainer,Heinz Krügel ,Heinz Krügel,+1921-04-24T00:00:00Z,+2008-10-27T00:00:00Z,sodium
-Heinz-Sommer-Weg,male,deutscher Widerstandskämpfer gegen den Nationalsozialismus,Heinz Sommer ,Heinz Sommer,+1894-01-01T00:00:00Z,+1944-01-01T00:00:00Z,sodium
-Heiseweg,male,deutscher Physiker und Nobelpreisträger,Heise,Werner Heisenberg,+1901-12-05T00:00:00Z,+1976-02-01T00:00:00Z,sodium
-Hektorweg,male,"deutscher Philosoph, Soziologe, Musiktheoretiker und Komponist (1903-1969)",Hektor,Theodor W. Adorno,+1903-09-11T00:00:00Z,+1969-08-06T00:00:00Z,sodium
-Helene-Weigel-Straße,female,deutsche Schauspielerin und Intendantin des Berliner Ensemble,Helene Weigel ,Helene Weigel,+1900-05-12T00:00:00Z,+1971-05-06T00:00:00Z,sodium
+Heinrichstraße,männlich,Kaiser des lateinischen Reichs von Konstantinopel,Heinrich,Henry of Flanders,+1174-01-01T00:00:00Z,+1216-06-11T00:00:00Z,NA
+Heinz-Krügel-Platz,männlich,deutscher Fußballspieler und -trainer,Heinz Krügel ,Heinz Krügel,+1921-04-24T00:00:00Z,+2008-10-27T00:00:00Z,NA
+Heinz-Sommer-Weg,männlich,deutscher Widerstandskämpfer gegen den Nationalsozialismus,Heinz Sommer ,Heinz Sommer,+1894-01-01T00:00:00Z,+1944-01-01T00:00:00Z,NA
+Heiseweg,männlich,deutscher Physiker und Nobelpreisträger,Heise,Werner Heisenberg,+1901-12-05T00:00:00Z,+1976-02-01T00:00:00Z,NA
+Hektorweg,NA,NA,Hektor,NA,NA,NA,NA
+Helene-Weigel-Straße,weiblich,deutsche Schauspielerin und Intendantin des Berliner Ensemble,Helene Weigel ,Helene Weigel,+1900-05-12T00:00:00Z,+1971-05-06T00:00:00Z,NA
 Hellasweg,NA,NA,Hellas,NA,NA,NA,NA
 Hellestraße,NA,NA,Helle,NA,NA,NA,NA
-Helmholtzstraße,male,deutscher Physiologe und Physiker,Helmholtz,Hermann von Helmholtz,+1821-08-31T00:00:00Z,+1894-09-08T00:00:00Z,sodium
+Helmholtzstraße,männlich,deutscher Physiologe und Physiker,Helmholtz,Hermann von Helmholtz,+1821-08-31T00:00:00Z,+1894-09-08T00:00:00Z,NA
 Helmstedter Chaussee,NA,NA,Helmstedter e,NA,NA,NA,NA
 Helmstedter Straße,NA,NA,Helmstedter ,NA,NA,NA,NA
 Hemsdorfer Straße,NA,NA,Hemsdorfer ,NA,NA,NA,NA
-Henning-von-Tresckow-Straße,male,deutscher Offizier und Mitglied des Widerstandes vom 20. Juli 1944,Henning von Tresckow ,Henning von Tresckow,+1901-01-10T00:00:00Z,+1944-07-21T00:00:00Z,sodium
-Henny-Porten-Straße,female,deutsche Schauspielerin (Stummfilm),Henny Porten ,Henny Porten,+1890-01-07T00:00:00Z,+1960-10-15T00:00:00Z,sodium
-Herbartstraße,male,"deutscher Philosoph, Psychologe und Pädagoge",Herbart,Johann Friedrich Herbart,+1776-05-04T00:00:00Z,+1841-08-14T00:00:00Z,sodium
+Henning-von-Tresckow-Straße,männlich,deutscher Offizier und Mitglied des Widerstandes vom 20. Juli 1944,Henning von Tresckow ,Henning von Tresckow,+1901-01-10T00:00:00Z,+1944-07-21T00:00:00Z,NA
+Henny-Porten-Straße,weiblich,deutsche Schauspielerin (Stummfilm),Henny Porten ,Henny Porten,+1890-01-07T00:00:00Z,+1960-10-15T00:00:00Z,NA
+Herbartstraße,männlich,"deutscher Philosoph, Psychologe und Pädagoge",Herbart,Johann Friedrich Herbart,+1776-05-04T00:00:00Z,+1841-08-14T00:00:00Z,NA
 Herbert-Landwehr-Straße,NA,NA,Herbert Landwehr ,NA,NA,NA,NA
 Herbert-Stauch-Straße,NA,NA,Herbert Stauch ,NA,NA,NA,NA
-Herderstraße,male,"deutscher Schriftsteller, Übersetzer, Theologe und Philosoph",Herder,Johann Gottfried Herder,+1744-08-25T00:00:00Z,+1803-12-18T00:00:00Z,sodium
-Hermann-Bruse-Platz,male,deutscher Maler und Graphiker,Hermann Bruse ,Hermann Bruse,+1904-04-05T00:00:00Z,+1953-05-25T00:00:00Z,sodium
-Hermann-Hesse-Straße,male,deutscher Schriftsteller des 20. Jahrhunderts und Literatur-Nobelpreisträger (1877-1962),Hermann Hesse ,Hermann Hesse,+1877-07-02T00:00:00Z,+1962-08-09T00:00:00Z,sodium
-Hermann-Löns-Straße,male,deutscher Journalist und Schriftsteller,Hermann Löns ,Hermann Löns,+1866-08-29T00:00:00Z,+1914-08-26T00:00:00Z,sodium
-Hermannstraße,male,holländischer Maler,Hermann,Herman van Swanevelt,+1603-01-01T00:00:00Z,+1655-01-01T00:00:00Z,sodium
+Herderstraße,männlich,"deutscher Schriftsteller, Übersetzer, Theologe und Philosoph",Herder,Johann Gottfried Herder,+1744-08-25T00:00:00Z,+1803-12-18T00:00:00Z,NA
+Hermann-Bruse-Platz,männlich,deutscher Maler und Graphiker,Hermann Bruse ,Hermann Bruse,+1904-04-05T00:00:00Z,+1953-05-25T00:00:00Z,NA
+Hermann-Hesse-Straße,männlich,deutscher Schriftsteller des 20. Jahrhunderts und Literatur-Nobelpreisträger (1877-1962),Hermann Hesse ,Hermann Hesse,+1877-07-02T00:00:00Z,+1962-08-09T00:00:00Z,NA
+Hermann-Löns-Straße,männlich,deutscher Journalist und Schriftsteller,Hermann Löns ,Hermann Löns,+1866-08-29T00:00:00Z,+1914-08-26T00:00:00Z,NA
+Hermannstraße,männlich,holländischer Maler,Hermann,Herman van Swanevelt,+1603-01-01T00:00:00Z,+1655-01-01T00:00:00Z,NA
 Hermelinweg,NA,NA,Hermelin,NA,NA,NA,NA
 Herrenkrug,NA,NA,Herrenkrug,NA,NA,NA,NA
 Herrenkrugsteg,NA,NA,Herrenkrugsteg,NA,NA,NA,NA
 Herrenkrugstraße,NA,NA,Herrenkrug,NA,NA,NA,NA
-Hertzstraße,male,US-amerikanischer Softwareentwickler,Hertz,Andy Hertzfeld,+1953-04-06T00:00:00Z,NA,sodium
-Herweghstraße,male,deutscher Schriftsteller,Herh,Ernst Herhaus,+1932-02-06T00:00:00Z,+2010-03-12T00:00:00Z,sodium
+Hertzstraße,NA,NA,Hertz,NA,NA,NA,NA
+Herweghstraße,männlich,deutscher Schriftsteller,Herh,Ernst Herhaus,+1932-02-06T00:00:00Z,+2010-03-12T00:00:00Z,NA
 Hesekielstraße,NA,NA,Hesekiel,NA,NA,NA,NA
 Hettstedter Straße,NA,NA,Hettstedter ,NA,NA,NA,NA
 Heydeckstraße,NA,NA,Heydeck,NA,NA,NA,NA
 Heyneckes Garten,NA,NA,Heyneckes Garten,NA,NA,NA,NA
 Hillersleber Straße,NA,NA,Hillersleber ,NA,NA,NA,NA
-Hilligerstraße,male,Bischof und Märtyrer der katholischen Kirche,Hilliger,Erasmus of Formiae,+0300-01-01T00:00:00Z,+0303-01-01T00:00:00Z,sodium
-Himbeerweg,female,Jungsteinzeitliche Moorleiche aus Schweden,Himbeer,Luttra Woman,-3125-00-00T00:00:00Z,-3100-00-00T00:00:00Z,sodium
+Hilligerstraße,NA,NA,Hilliger,NA,NA,NA,NA
+Himbeerweg,NA,NA,Himbeer,NA,NA,NA,NA
 Himmelreichstraße,NA,NA,Himmelreich,NA,NA,NA,NA
 Hinter den Holzstrecken,NA,NA,Hinter den Holzstrecken,NA,NA,NA,NA
 Hirschbreite,NA,NA,Hirschbreite,NA,NA,NA,NA
@@ -757,7 +757,7 @@ Hohes Feld,NA,NA,Hohes Feld,NA,NA,NA,NA
 Hohestieg,NA,NA,Hohestieg,NA,NA,NA,NA
 Hoheuferstraße,NA,NA,Hoheufer,NA,NA,NA,NA
 Hohlweg,NA,NA,Hohl,NA,NA,NA,NA
-Holbeinstraße,male,deutscher Maler,Holbein,Hans Holbein,+1497-01-01T00:00:00Z,+1543-11-29T00:00:00Z,sodium
+Holbeinstraße,männlich,deutscher Maler,Holbein,Hans Holbein,+1497-01-01T00:00:00Z,+1543-11-29T00:00:00Z,NA
 Hollehochstraße,NA,NA,Hollehoch,NA,NA,NA,NA
 Holsteiner Straße,NA,NA,Holsteiner ,NA,NA,NA,NA
 Holunderweg,NA,NA,Holunder,NA,NA,NA,NA
@@ -769,13 +769,13 @@ Hösebergweg,NA,NA,Höseberg,NA,NA,NA,NA
 Hospitalstraße,NA,NA,Hospital,NA,NA,NA,NA
 Hosse-Privatweg,NA,NA,Hosse Privat,NA,NA,NA,NA
 Hötensleber Straße,NA,NA,Hötensleber ,NA,NA,NA,NA
-Hubertusstraße,male,"christlicher Heiliger, erster Bischof von Lüttich",Hubertus,Hubertus,+0655-00-00T00:00:00Z,+0727-05-30T00:00:00Z,sodium
+Hubertusstraße,männlich,"christlicher Heiliger, erster Bischof von Lüttich",Hubertus,Hubertus,+0655-00-00T00:00:00Z,+0727-05-30T00:00:00Z,NA
 Huflattichweg,NA,NA,Huflattich,NA,NA,NA,NA
 Hugenottenstraße,NA,NA,Hugenotten,NA,NA,NA,NA
 Hugo-Junkers-Allee,NA,NA,Hugo Junkers Allee,NA,NA,NA,NA
-Hugo-Vogel-Straße,male,deutscher Maler,Hugo Vogel ,Hugo Vogel,+1855-02-15T00:00:00Z,+1934-09-26T00:00:00Z,sodium
+Hugo-Vogel-Straße,männlich,deutscher Maler,Hugo Vogel ,Hugo Vogel,+1855-02-15T00:00:00Z,+1934-09-26T00:00:00Z,NA
 Humboldtstraße,NA,NA,Humboldt,NA,NA,NA,NA
-Hummelweg,male,Professor und Riechforscher,Hummel,Thomas Hummel,+1959-09-05T00:00:00Z,NA,sodium
+Hummelweg,männlich,Professor und Riechforscher,Hummel,Thomas Hummel,+1959-09-05T00:00:00Z,NA,NA
 Hundisburger Straße,NA,NA,Hundisburger ,NA,NA,NA,NA
 Hundorfer Weg,NA,NA,Hundorfer ,NA,NA,NA,NA
 Husumer Straße,NA,NA,Husumer ,NA,NA,NA,NA
@@ -784,17 +784,17 @@ Ibisweg,NA,NA,Ibis,NA,NA,NA,NA
 Igelweg,NA,NA,Igel,NA,NA,NA,NA
 Ihleburger Straße,NA,NA,Ihleburger ,NA,NA,NA,NA
 Ilmenauer Straße,NA,NA,Ilmenauer ,NA,NA,NA,NA
-Ilse-Voigt-Straße,female,deutsche Schauspielerin und Synchronsprecherin,Ilse Voigt ,Ilse Voigt,+1905-02-03T00:00:00Z,+1990-06-03T00:00:00Z,sodium
+Ilse-Voigt-Straße,weiblich,deutsche Schauspielerin und Synchronsprecherin,Ilse Voigt ,Ilse Voigt,+1905-02-03T00:00:00Z,+1990-06-03T00:00:00Z,NA
 Ilsenburger Straße,NA,NA,Ilsenburger ,NA,NA,NA,NA
-Ilsestraße,male,deutscher Botaniker,Ilse,Hugo Ilse,+1835-08-14T00:00:00Z,+1900-02-25T00:00:00Z,sodium
-Iltisweg,male,NA,Iltis,Hugh Iltis,+1925-04-07T00:00:00Z,+2016-12-19T00:00:00Z,sodium
+Ilsestraße,NA,NA,Ilse,NA,NA,NA,NA
+Iltisweg,männlich,NA,Iltis,Hugh Iltis,+1925-04-07T00:00:00Z,+2016-12-19T00:00:00Z,NA
 Im Brückfeld,NA,NA,Brückfeld,NA,NA,NA,NA
 Im Brunnenhof,NA,NA,Brunnenhof,NA,NA,NA,NA
-Im Busch,male,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Germans
+Im Busch,männlich,deutscher Verfasser von satirischen in Verse gefassten Bildergeschichten (1832-1908),Busch,Wilhelm Busch,+1832-04-15T00:00:00Z,+1908-01-09T00:00:00Z,Deutsche
 Im Elbbahnhof,NA,NA,Elbbahnhof,NA,NA,NA,NA
-Im Felde,male,österreichischer Jurist und Insektenkundler (1842–1871),Felde,Rudolf Felder,+1842-05-02T00:00:00Z,+1871-03-29T00:00:00Z,sodium
+Im Felde,NA,NA,Felde,NA,NA,NA,NA
 Im Gänseei,NA,NA,Gänseei,NA,NA,NA,NA
-Im Grünen,male,"französischer Organist, Komponist und Musikpädagoge",Grünen,Jean-Jacques Grunenwald,+1911-02-02T00:00:00Z,+1982-12-19T00:00:00Z,sodium
+Im Grünen,NA,NA,Grünen,NA,NA,NA,NA
 Im Kräuterwinkel,NA,NA,Kräuterwinkel,NA,NA,NA,NA
 Im Mittelfelde,NA,NA,Mittelfelde,NA,NA,NA,NA
 Im Rennegarten,NA,NA,Rennegarten,NA,NA,NA,NA
@@ -803,7 +803,7 @@ Im Sauerfeld,NA,NA,Sauerfeld,NA,NA,NA,NA
 Im Siek,NA,NA,Siek,NA,NA,NA,NA
 Im Steingewände,NA,NA,Steingewände,NA,NA,NA,NA
 Im Winkel,NA,NA,Winkel,NA,NA,NA,NA
-Immermannstraße,male,"deutscher Schriftsteller, Lyriker und Dramatiker",Immermann,Karl Leberecht Immermann,+1796-04-24T00:00:00Z,+1840-08-25T00:00:00Z,sodium
+Immermannstraße,männlich,"deutscher Schriftsteller, Lyriker und Dramatiker",Immermann,Karl Leberecht Immermann,+1796-04-24T00:00:00Z,+1840-08-25T00:00:00Z,NA
 In den Gehren,NA,NA,In den Gehren,NA,NA,NA,NA
 In den Meerwellen,NA,NA,In den Meerwellen,NA,NA,NA,NA
 In den Worthen,NA,NA,In den Worthen,NA,NA,NA,NA
@@ -817,63 +817,63 @@ Insleber Straße,NA,NA,Insleber ,NA,NA,NA,NA
 Irenenplatz,NA,NA,Irenen,NA,NA,NA,NA
 Irxleber Straße,NA,NA,Irxleber ,NA,NA,NA,NA
 Ivenroder Weg,NA,NA,Ivenroder ,NA,NA,NA,NA
-Jahnring,female,NA,Jahn,Jahn,+1954-00-00T00:00:00Z,NA,sodium
-Jahnstraße,female,NA,Jahn,Jahn,+1954-00-00T00:00:00Z,NA,sodium
-Jakob-Wassermann-Straße,male,deutscher Schriftsteller (1873-1934),Jakob Wassermann ,Jakob Wassermann,+1873-03-10T00:00:00Z,+1934-01-01T00:00:00Z,sodium
-Jakobstraße,male,Enkel des letzten Deutschordensmeisters Gotthard Kettler und Herrscher über das Kurland,Jakob,Jacob Kettler,+1610-10-28T00:00:00Z,+1682-01-01T00:00:00Z,sodium
-Jasminweg,female,"russische Schauspielerin, Sängerin, Fernsehmoderatorin, Fotomodell und Model",Jasmin,Jasmin,+1977-10-12T00:00:00Z,NA,Mountain Jews
+Jahnring,weiblich,NA,Jahn,Jahn,+1954-00-00T00:00:00Z,NA,NA
+Jahnstraße,weiblich,NA,Jahn,Jahn,+1954-00-00T00:00:00Z,NA,NA
+Jakob-Wassermann-Straße,männlich,deutscher Schriftsteller (1873-1934),Jakob Wassermann ,Jakob Wassermann,+1873-03-10T00:00:00Z,+1934-01-01T00:00:00Z,NA
+Jakobstraße,NA,NA,Jakob,NA,NA,NA,NA
+Jasminweg,weiblich,"russische Schauspielerin, Sängerin, Fernsehmoderatorin, Fotomodell und Model",Jasmin,Jasmin,+1977-10-12T00:00:00Z,NA,Bergjuden
 Jean-Burger-Straße,NA,NA,JeBurger ,NA,NA,NA,NA
-Jenaer Straße,male,griechischer Vasenmaler,Jenaer ,Jena Painter,-0500-01-01T00:00:00Z,-0301-01-01T00:00:00Z,sodium
+Jenaer Straße,männlich,griechischer Vasenmaler,Jenaer ,Jena Painter,-0500-01-01T00:00:00Z,-0301-01-01T00:00:00Z,NA
 Jerichower Platz,NA,NA,Jerichower ,NA,NA,NA,NA
 Jerichower Straße,NA,NA,Jerichower ,NA,NA,NA,NA
 Jersleber Straße,NA,NA,Jersleber ,NA,NA,NA,NA
 Jerusalembrücken,NA,NA,Jerusalembrücken,NA,NA,NA,NA
-Johann-Gottlieb-Schoch-Straße,male,Gartenarchitekt und Gartendirektor der Stadt Magdeburg,Johann Gottlieb Schoch ,Gottlieb Schoch,+1853-02-01T00:00:00Z,+1905-10-08T00:00:00Z,sodium
-Johann-Gottlob-Nathusius-Ring,male,deutscher Kaufmann und Großindustrieller,Johann Gottlob Nathusius ,Johann Gottlob Nathusius,+1760-04-30T00:00:00Z,+1835-07-23T00:00:00Z,sodium
-Johannes-Göderitz-Straße,male,"deutscher Architekt, Stadtplaner, Baubeamter und Hochschullehrer",Johannes Göderitz ,Johannes Göderitz,+1888-05-24T00:00:00Z,+1978-03-27T00:00:00Z,sodium
-Johannes-Kirsch-Straße,male,"deutscher Bildhauer, Holzschnitzer und Medailleur",Johannes Kirsch ,Johannes Kirsch,+1930-05-24T00:00:00Z,+2015-01-07T00:00:00Z,sodium
-Johannes-Kollwitz-Weg,male,deutscher katholischer Theologe und Christlicher Archäologe,Johannes Kollwitz ,Johannes Kollwitz,+1903-04-03T00:00:00Z,+1968-04-01T00:00:00Z,sodium
-Johannes-Münze-Straße,male,Pionier der deutschen Arbeiterbewegung,Johannes Münze ,Johannes Münze,+1823-03-26T00:00:00Z,+1868-05-22T00:00:00Z,sodium
-Johannes-R.-Becher-Straße,male,"deutscher Schriftsteller und Politiker, MdV",Johannes R. Becher ,Johannes R. Becher,+1891-05-22T00:00:00Z,+1958-10-11T00:00:00Z,sodium
-Johannes-Schlaf-Straße,male,"deutscher Dramatiker, Erzähler und Übersetzer",Johannes Schlaf ,Johannes Schlaf,+1862-06-21T00:00:00Z,+1941-02-02T00:00:00Z,sodium
+Johann-Gottlieb-Schoch-Straße,männlich,Gartenarchitekt und Gartendirektor der Stadt Magdeburg,Johann Gottlieb Schoch ,Gottlieb Schoch,+1853-02-01T00:00:00Z,+1905-10-08T00:00:00Z,NA
+Johann-Gottlob-Nathusius-Ring,männlich,deutscher Kaufmann und Großindustrieller,Johann Gottlob Nathusius ,Johann Gottlob Nathusius,+1760-04-30T00:00:00Z,+1835-07-23T00:00:00Z,NA
+Johannes-Göderitz-Straße,männlich,"deutscher Architekt, Stadtplaner, Baubeamter und Hochschullehrer",Johannes Göderitz ,Johannes Göderitz,+1888-05-24T00:00:00Z,+1978-03-27T00:00:00Z,NA
+Johannes-Kirsch-Straße,männlich,"deutscher Bildhauer, Holzschnitzer und Medailleur",Johannes Kirsch ,Johannes Kirsch,+1930-05-24T00:00:00Z,+2015-01-07T00:00:00Z,NA
+Johannes-Kollwitz-Weg,männlich,deutscher katholischer Theologe und Christlicher Archäologe,Johannes Kollwitz ,Johannes Kollwitz,+1903-04-03T00:00:00Z,+1968-04-01T00:00:00Z,NA
+Johannes-Münze-Straße,männlich,Pionier der deutschen Arbeiterbewegung,Johannes Münze ,Johannes Münze,+1823-03-26T00:00:00Z,+1868-05-22T00:00:00Z,NA
+Johannes-R.-Becher-Straße,männlich,"deutscher Schriftsteller und Politiker, MdV",Johannes R. Becher ,Johannes R. Becher,+1891-05-22T00:00:00Z,+1958-10-11T00:00:00Z,NA
+Johannes-Schlaf-Straße,männlich,"deutscher Dramatiker, Erzähler und Übersetzer",Johannes Schlaf ,Johannes Schlaf,+1862-06-21T00:00:00Z,+1941-02-02T00:00:00Z,NA
 Johannisbergstraße,NA,NA,Johannisberg,NA,NA,NA,NA
 Johanniskirchhof,NA,NA,Johanniskirchhof,NA,NA,NA,NA
-Jordanstraße,male,flämischer Maler,Jordan,Jacob Jordaens,+1593-05-19T00:00:00Z,+1678-10-18T00:00:00Z,Flemings
-Joseph-von-Fraunhofer-Straße,male,deutscher Optiker und Physiker,Joseph von Fraunhofer ,Joseph von Fraunhofer,+1787-03-06T00:00:00Z,+1826-06-07T00:00:00Z,sodium
-Julius-Bremer-Straße,male,Mitbegründer der Magdeburger Arbeiterbewegung,Julius Bremer ,Julius Bremer,+1828-04-17T00:00:00Z,+1894-11-24T00:00:00Z,sodium
-Juliusstraße,male,Fürst von Braunschweig-Wolfenbüttel,Julius,"Julius, Duke of Brunswick-Lüneburg",+1528-06-29T00:00:00Z,+1589-05-03T00:00:00Z,sodium
-Junoweg,male,Rapper,Juno,Juno,+1987-01-05T00:00:00Z,NA,sodium
+Jordanstraße,männlich,flämischer Maler,Jordan,Jacob Jordaens,+1593-05-19T00:00:00Z,+1678-10-18T00:00:00Z,Flamen
+Joseph-von-Fraunhofer-Straße,männlich,deutscher Optiker und Physiker,Joseph von Fraunhofer ,Joseph von Fraunhofer,+1787-03-06T00:00:00Z,+1826-06-07T00:00:00Z,NA
+Julius-Bremer-Straße,männlich,Mitbegründer der Magdeburger Arbeiterbewegung,Julius Bremer ,Julius Bremer,+1828-04-17T00:00:00Z,+1894-11-24T00:00:00Z,NA
+Juliusstraße,männlich,Fürst von Braunschweig-Wolfenbüttel,Julius,"Julius, Duke of Brunswick-Lüneburg",+1528-06-29T00:00:00Z,+1589-05-03T00:00:00Z,NA
+Junoweg,NA,NA,Juno,NA,NA,NA,NA
 Jupiterweg,NA,NA,Jupiter,NA,NA,NA,NA
-Juri-Gagarin-Straße,male,"Sowjetischer Kosmonaut, der erste Mensch im Weltraum",Juri Gagarin ,Yuri Gagarin,+1934-03-09T00:00:00Z,+1968-03-27T00:00:00Z,Russians
-Jutta-Balk-Straße,female,"deutsch-baltische Malerin, Puppengestalterin und Mitbegründerin des städtischen Puppentheaters in Magdeburg, Übersetzerin",Jutta Balk ,Jutta Balk,+1902-07-09T00:00:00Z,+1987-08-09T00:00:00Z,sodium
+Juri-Gagarin-Straße,männlich,"Sowjetischer Kosmonaut, der erste Mensch im Weltraum",Juri Gagarin ,Yuri Gagarin,+1934-03-09T00:00:00Z,+1968-03-27T00:00:00Z,Russen
+Jutta-Balk-Straße,weiblich,"deutsch-baltische Malerin, Puppengestalterin und Mitbegründerin des städtischen Puppentheaters in Magdeburg, Übersetzerin",Jutta Balk ,Jutta Balk,+1902-07-09T00:00:00Z,+1987-08-09T00:00:00Z,NA
 Käferweg,NA,NA,Käfer,NA,NA,NA,NA
-Kahnstraße,male,US-amerikanischer Endokrinologe und Diabetes-Forscher,Kahn,C. Ronald Kahn,+1944-01-14T00:00:00Z,NA,sodium
-Kaiser-Otto-Ring,male,"Ostfränkischer König und Römischer Kaiser, Herzog von Sachsen",Kaiser Otto ,Otto I the Great,+0912-11-23T00:00:00Z,+0973-05-07T00:00:00Z,sodium
+Kahnstraße,männlich,US-amerikanischer Endokrinologe und Diabetes-Forscher,Kahn,C. Ronald Kahn,+1944-01-14T00:00:00Z,NA,NA
+Kaiser-Otto-Ring,männlich,"Ostfränkischer König und Römischer Kaiser, Herzog von Sachsen",Kaiser Otto ,Otto I the Great,+0912-11-23T00:00:00Z,+0973-05-07T00:00:00Z,NA
 Kalenberger Straße,NA,NA,Kalenberger ,NA,NA,NA,NA
 Kalksteinweg,NA,NA,Kalkstein,NA,NA,NA,NA
 Kamillenweg,NA,NA,Kamillen,NA,NA,NA,NA
 Kannenstieg,NA,NA,Kannenstieg,NA,NA,NA,NA
-Kantstraße,male,deutscher Philosoph der Aufklärung,Kant,Immanuel Kant,+1724-04-22T00:00:00Z,+1804-02-12T00:00:00Z,Germans
+Kantstraße,männlich,deutscher Philosoph der Aufklärung,Kant,Immanuel Kant,+1724-04-22T00:00:00Z,+1804-02-12T00:00:00Z,Deutsche
 Kapellenstraße,NA,NA,Kapellen,NA,NA,NA,NA
 Karauschenweg,NA,NA,Karauschen,NA,NA,NA,NA
-Karen-Fredersdorf-Straße,female,deutsche Schauspielerin,Karen Fredersdorf ,Karen Fredersdorf,+1892-10-04T00:00:00Z,+1985-04-29T00:00:00Z,sodium
-Karl-Kühn-Weg,male,österreichischer Radrennfahrer,Karl Kühn ,Karl Kühn,+1904-03-09T00:00:00Z,+1986-07-24T00:00:00Z,sodium
-Karl-Liebknecht-Platz,male,"deutscher Politiker (SPD/KPD), MdR",Karl Liebknecht ,Karl Liebknecht,+1871-08-13T00:00:00Z,+1919-01-15T00:00:00Z,sodium
-Karl-Schmidt-Straße,male,deutscher Maler des Expressionismus,Karl Schmidt ,Karl Schmidt-Rottluff,+1884-12-01T00:00:00Z,+1976-08-10T00:00:00Z,sodium
-Karl-Schurz-Straße,male,"deutsch-amerikanischer Revolutionär, General und Staatsmann",Karl Schurz ,Carl Schurz,+1829-03-02T00:00:00Z,+1906-05-14T00:00:00Z,sodium
+Karen-Fredersdorf-Straße,weiblich,deutsche Schauspielerin,Karen Fredersdorf ,Karen Fredersdorf,+1892-10-04T00:00:00Z,+1985-04-29T00:00:00Z,NA
+Karl-Kühn-Weg,männlich,österreichischer Radrennfahrer,Karl Kühn ,Karl Kühn,+1904-03-09T00:00:00Z,+1986-07-24T00:00:00Z,NA
+Karl-Liebknecht-Platz,männlich,"deutscher Politiker (SPD/KPD), MdR",Karl Liebknecht ,Karl Liebknecht,+1871-08-13T00:00:00Z,+1919-01-15T00:00:00Z,NA
+Karl-Schmidt-Straße,männlich,deutscher Maler des Expressionismus,Karl Schmidt ,Karl Schmidt-Rottluff,+1884-12-01T00:00:00Z,+1976-08-10T00:00:00Z,NA
+Karl-Schurz-Straße,männlich,"deutsch-amerikanischer Revolutionär, General und Staatsmann",Karl Schurz ,Carl Schurz,+1829-03-02T00:00:00Z,+1906-05-14T00:00:00Z,NA
 Karlsbader Weg,NA,NA,Karlsbader ,NA,NA,NA,NA
-Karlstraße,male,Großherzog von Baden,Karl,"Charles, Grand Duke of Baden",+1786-07-08T00:00:00Z,+1818-12-08T00:00:00Z,sodium
+Karlstraße,männlich,Großherzog von Baden,Karl,"Charles, Grand Duke of Baden",+1786-07-08T00:00:00Z,+1818-12-08T00:00:00Z,NA
 Karnipstraße,NA,NA,Karnip,NA,NA,NA,NA
 Karpenlake,NA,NA,Karpenlake,NA,NA,NA,NA
 Karpfenweg,NA,NA,Karpfen,NA,NA,NA,NA
 Kastanienstraße,NA,NA,Kastanien,NA,NA,NA,NA
 Katerstieg,NA,NA,Katerstieg,NA,NA,NA,NA
-Käthe-Kollwitz-Straße,female,deutsche Künstlerin (1867-1945),Käthe Kollwitz ,Käthe Kollwitz,+1867-07-08T00:00:00Z,+1945-04-22T00:00:00Z,sodium
+Käthe-Kollwitz-Straße,weiblich,deutsche Künstlerin (1867-1945),Käthe Kollwitz ,Käthe Kollwitz,+1867-07-08T00:00:00Z,+1945-04-22T00:00:00Z,NA
 Katzensprung,NA,NA,Katzensprung,NA,NA,NA,NA
 Kaunasweg,NA,NA,Kaunas,NA,NA,NA,NA
 Kavalier Scharnhorst,NA,NA,Kavalier Scharnhorst,NA,NA,NA,NA
 Kehnerter Weg,NA,NA,Kehnerter ,NA,NA,NA,NA
-Keplerstraße,male,"deutscher Naturphilosoph, Mathematiker, Astronom, Astrologe, Optiker und evangelischer Theologe",Kepler,Johannes Kepler,+1571-12-27T00:00:00Z,+1630-11-15T00:00:00Z,Germans
+Keplerstraße,männlich,"deutscher Naturphilosoph, Mathematiker, Astronom, Astrologe, Optiker und evangelischer Theologe",Kepler,Johannes Kepler,+1571-12-27T00:00:00Z,+1630-11-15T00:00:00Z,Deutsche
 Kerbelbreite,NA,NA,Kerbelbreite,NA,NA,NA,NA
 Ketzerstraße,NA,NA,Ketzer,NA,NA,NA,NA
 Keuperwinkel,NA,NA,Keuperwinkel,NA,NA,NA,NA
@@ -884,13 +884,13 @@ Kirchhofstraße,NA,NA,Kirchhof,NA,NA,NA,NA
 Kirchplatz,NA,NA,Kirch,NA,NA,NA,NA
 Kirchstraße,NA,NA,Kirch,NA,NA,NA,NA
 Kirschweg,NA,NA,Kirsch,NA,NA,NA,NA
-Kischstraße,male,"Figur aus der Bibel, Vater Sauls",Kisch,Kish,NA,NA,sodium
-Klaus-Miesner-Platz,male,deutscher Handballspieler und Trainer,Klaus Miesner ,Klaus Miesner,+1935-12-11T00:00:00Z,+1989-01-11T00:00:00Z,sodium
+Kischstraße,männlich,"Figur aus der Bibel, Vater Sauls",Kisch,Kish,NA,NA,NA
+Klaus-Miesner-Platz,männlich,deutscher Handballspieler und Trainer,Klaus Miesner ,Klaus Miesner,+1935-12-11T00:00:00Z,+1989-01-11T00:00:00Z,NA
 Klausenerstraße,NA,NA,Klausener,NA,NA,NA,NA
-Kleeweg,male,deutscher Maler und Grafiker,Klee,Paul Klee,+1879-12-18T00:00:00Z,+1940-06-29T00:00:00Z,sodium
+Kleeweg,männlich,deutscher Maler und Grafiker,Klee,Paul Klee,+1879-12-18T00:00:00Z,+1940-06-29T00:00:00Z,NA
 Kleiberweg,NA,NA,Kleiber,NA,NA,NA,NA
 Kleine Lindenallee,NA,NA,Lindenallee,NA,NA,NA,NA
-Kleine Münzstraße,male,Botaniker (1892–1974),Münz,Philip A. Munz,+1892-01-01T00:00:00Z,+1974-01-01T00:00:00Z,sodium
+Kleine Münzstraße,männlich,Botaniker (1892–1974),Münz,Philip A. Munz,+1892-01-01T00:00:00Z,+1974-01-01T00:00:00Z,NA
 Kleine Schulgasse,NA,NA,Schulgasse,NA,NA,NA,NA
 Kleine Schulstraße,NA,NA,Schul,NA,NA,NA,NA
 Kleine Steinwiese,NA,NA,Steinwiese,NA,NA,NA,NA
@@ -907,32 +907,32 @@ Kleiner Gang,NA,NA,Kleiner Gang,NA,NA,NA,NA
 Kleiner Rosenweg,NA,NA,Kleiner Rosen,NA,NA,NA,NA
 Kleiner Stadtmarsch,NA,NA,Kleiner Stadtmarsch,NA,NA,NA,NA
 Kleiner Werder,NA,NA,Kleiner Werder,NA,NA,NA,NA
-Kleiststraße,male,"deutscher Dramatiker, Erzähler, Lyriker und Publizist",Kleist,Heinrich von Kleist,+1777-10-18T00:00:00Z,+1811-11-21T00:00:00Z,sodium
-Klewitzstraße,male,Freikorpsführer; preußischer Oberst,Klewitz,Willi Klewitz,+1872-01-01T00:00:00Z,+1928-01-01T00:00:00Z,sodium
+Kleiststraße,männlich,"deutscher Dramatiker, Erzähler, Lyriker und Publizist",Kleist,Heinrich von Kleist,+1777-10-18T00:00:00Z,+1811-11-21T00:00:00Z,NA
+Klewitzstraße,männlich,Freikorpsführer; preußischer Oberst,Klewitz,Willi Klewitz,+1872-01-01T00:00:00Z,+1928-01-01T00:00:00Z,NA
 Klinkebachstraße,NA,NA,Klinkebach,NA,NA,NA,NA
-Klopstockstraße,male,deutscher Autor und Dichter,Klopstock,Friedrich Gottlieb Klopstock,+1724-07-02T00:00:00Z,+1803-03-14T00:00:00Z,Germans
+Klopstockstraße,männlich,deutscher Autor und Dichter,Klopstock,Friedrich Gottlieb Klopstock,+1724-07-02T00:00:00Z,+1803-03-14T00:00:00Z,Deutsche
 Klosterberge-Privatweg,NA,NA,Klosterberge Privat,NA,NA,NA,NA
 Klosterbergestraße,NA,NA,Klosterberge,NA,NA,NA,NA
 Klosterfelde,NA,NA,Klosterfelde,NA,NA,NA,NA
 Klostergraben,NA,NA,Klostergraben,NA,NA,NA,NA
 Klosterhof,NA,NA,Klosterhof,NA,NA,NA,NA
 Klosterhufe,NA,NA,Klosterhufe,NA,NA,NA,NA
-Klosterkamp,male,katholischer Ordensgeistlicher und seit 2003 Provinzial der deutschen Provinz der Oblaten,Klosterkamp,Thomas Klosterkamp,+1965-01-01T00:00:00Z,NA,sodium
+Klosterkamp,männlich,katholischer Ordensgeistlicher und seit 2003 Provinzial der deutschen Provinz der Oblaten,Klosterkamp,Thomas Klosterkamp,+1965-01-01T00:00:00Z,NA,NA
 Klosterwuhne,NA,NA,Klosterwuhne,NA,NA,NA,NA
 Klötzer Weg,NA,NA,Klötzer ,NA,NA,NA,NA
 Klusdamm,NA,NA,Klusdamm,NA,NA,NA,NA
 Klusdamm-Privatweg,NA,NA,Klusdamm Privat,NA,NA,NA,NA
 Klusweg,NA,NA,Klus,NA,NA,NA,NA
 Knochenhauerufer,NA,NA,Knochenhauerufer,NA,NA,NA,NA
-Koburger Straße,female,"deutsche Politikerin, Mitglied des Landtages von Mecklenburg-Vorpommern",Koburger ,Annegrit Koburger,+1959-01-18T00:00:00Z,NA,sodium
+Koburger Straße,weiblich,"deutsche Politikerin, Mitglied des Landtages von Mecklenburg-Vorpommern",Koburger ,Annegrit Koburger,+1959-01-18T00:00:00Z,NA,NA
 Kolibriweg,NA,NA,Kolibri,NA,NA,NA,NA
 Kölner Platz,NA,NA,Kölner ,NA,NA,NA,NA
 Kometenweg,NA,NA,Kometen,NA,NA,NA,NA
 Königsborner Straße,NA,NA,Königsborner ,NA,NA,NA,NA
 Königstraße,NA,NA,König,NA,NA,NA,NA
-Königsweg,male,NA,Königs,Günther Königs,NA,NA,sodium
+Königsweg,NA,NA,Königs,NA,NA,NA,NA
 Königswerder,NA,NA,Königswerder,NA,NA,NA,NA
-Konrad-Adenauer-Platz,male,"1. Bundeskanzler der Bundesrepublik Deutschland (1949–1963), CDU",Konrad Adenauer ,Konrad Adenauer,+1876-01-05T00:00:00Z,+1967-04-19T00:00:00Z,sodium
+Konrad-Adenauer-Platz,männlich,"1. Bundeskanzler der Bundesrepublik Deutschland (1949–1963), CDU",Konrad Adenauer ,Konrad Adenauer,+1876-01-05T00:00:00Z,+1967-04-19T00:00:00Z,NA
 Kopfendenweg,NA,NA,Kopfenden,NA,NA,NA,NA
 Koppelanger,NA,NA,Koppelanger,NA,NA,NA,NA
 Körbelitzer Straße,NA,NA,Körbelitzer ,NA,NA,NA,NA
@@ -950,11 +950,11 @@ Kranichweg,NA,NA,Kranich,NA,NA,NA,NA
 Kreipestraße,NA,NA,Kreipe,NA,NA,NA,NA
 Kreisstraße,NA,NA,Kreis,NA,NA,NA,NA
 Kresseweg,NA,NA,Kresse,NA,NA,NA,NA
-Kretschmannstraße,male,deutscher Schauspieler,Kretschmann,Thomas Kretschmann,+1962-09-08T00:00:00Z,NA,Germans
+Kretschmannstraße,männlich,deutscher Schauspieler,Kretschmann,Thomas Kretschmann,+1962-09-08T00:00:00Z,NA,Deutsche
 Kreuzbreite,NA,NA,Kreuzbreite,NA,NA,NA,NA
 Kreuzgangstraße,NA,NA,Kreuzgang,NA,NA,NA,NA
 Kreuzhorststraße,NA,NA,Kreuzhorst,NA,NA,NA,NA
-Kritzmannstraße,male,deutscher Büchsenmeister und Volksheld in Magdeburg,Kritzmann,Andreas Kritzmann,+1500-00-00T00:00:00Z,+1551-03-09T00:00:00Z,sodium
+Kritzmannstraße,männlich,deutscher Büchsenmeister und Volksheld in Magdeburg,Kritzmann,Andreas Kritzmann,+1500-00-00T00:00:00Z,+1551-03-09T00:00:00Z,NA
 Kroatenweg,NA,NA,Kroaten,NA,NA,NA,NA
 Kroatenwuhne,NA,NA,Kroatenwuhne,NA,NA,NA,NA
 Krokusweg,NA,NA,Krokus,NA,NA,NA,NA
@@ -975,7 +975,7 @@ Kurze Gasse,NA,NA,Kurze Gasse,NA,NA,NA,NA
 Kurze Straße,NA,NA,Kurze ,NA,NA,NA,NA
 Kurzeschlag-Privatweg,NA,NA,Kurzeschlag Privat,NA,NA,NA,NA
 Kutscherstraße,NA,NA,Kutscher,NA,NA,NA,NA
-Kutzstraße,female,NA,Kutz,Sarah J. Kutz,NA,NA,sodium
+Kutzstraße,weiblich,NA,Kutz,Sarah J. Kutz,NA,NA,NA
 Kyffhäuserstraße,NA,NA,Kyffhäuser,NA,NA,NA,NA
 Laaßstraße,NA,NA,Laaß,NA,NA,NA,NA
 Ladeburger Weg,NA,NA,Ladeburger ,NA,NA,NA,NA
@@ -986,82 +986,82 @@ Langensteiner Weg,NA,NA,Langensteiner ,NA,NA,NA,NA
 Langenweddinger Straße,NA,NA,Langenweddinger ,NA,NA,NA,NA
 Langer Heinrich,NA,NA,Langer Heinrich,NA,NA,NA,NA
 Langer Schlag,NA,NA,Langer Schlag,NA,NA,NA,NA
-Langer Weg,male,US-amerikanischer Chemieingenieur,Langer ,"Robert Samuel Langer, Jr.",+1948-08-29T00:00:00Z,NA,sodium
+Langer Weg,männlich,US-amerikanischer Chemieingenieur,Langer ,"Robert Samuel Langer, Jr.",+1948-08-29T00:00:00Z,NA,NA
 Lärchenstraße,NA,NA,Lärchen,NA,NA,NA,NA
-Lassallestraße,male,NA,Lassalle,Louis-Simon Cabaillot-Lassalle,+1810-01-01T00:00:00Z,+1870-01-01T00:00:00Z,sodium
+Lassallestraße,männlich,NA,Lassalle,Louis-Simon Cabaillot-Lassalle,+1810-01-01T00:00:00Z,+1870-01-01T00:00:00Z,NA
 Lauben-Privatweg,NA,NA,Lauben Privat,NA,NA,NA,NA
 Lauestraße,NA,NA,Laue,NA,NA,NA,NA
 Lavendelweg,NA,NA,Lavendel,NA,NA,NA,NA
 Lebersdorfer Straße,NA,NA,Lebersdorfer ,NA,NA,NA,NA
-Leibnizstraße,male,deutscher Philosoph und Wissenschaftler,Leibniz,Gottfried Wilhelm Leibniz,+1646-07-01T00:00:00Z,+1716-11-14T00:00:00Z,Germans
-Leineweberstraße,male,deutscher Maler,Leineweber,Heinrich Leinweber,+1836-04-26T00:00:00Z,+1908-02-11T00:00:00Z,sodium
+Leibnizstraße,männlich,deutscher Philosoph und Wissenschaftler,Leibniz,Gottfried Wilhelm Leibniz,+1646-07-01T00:00:00Z,+1716-11-14T00:00:00Z,Deutsche
+Leineweberstraße,männlich,deutscher Maler,Leineweber,Heinrich Leinweber,+1836-04-26T00:00:00Z,+1908-02-11T00:00:00Z,NA
 Leipziger Chaussee,NA,NA,Leipziger e,NA,NA,NA,NA
 Leipziger Straße,NA,NA,Leipziger ,NA,NA,NA,NA
 Leiterstraße,NA,NA,Leiter,NA,NA,NA,NA
 Leitzkauer Weg,NA,NA,Leitzkauer ,NA,NA,NA,NA
 Lemsdorfer Weg,NA,NA,Lemsdorfer ,NA,NA,NA,NA
-Lenaustraße,male,österreichischer Schriftsteller (1802-1850),Lenau,Nikolaus Lenau,+1802-08-25T00:00:00Z,+1850-08-22T00:00:00Z,Austrians
-Lennéstraße,male,deutscher Gärtner und Landschaftsarchitekt,Lenné,Peter Joseph Lenné,+1789-09-29T00:00:00Z,+1866-01-23T00:00:00Z,sodium
+Lenaustraße,NA,NA,Lenau,NA,NA,NA,NA
+Lennéstraße,männlich,deutscher Gärtner und Landschaftsarchitekt,Lenné,Peter Joseph Lenné,+1789-09-29T00:00:00Z,+1866-01-23T00:00:00Z,NA
 Lentkestraße,NA,NA,Lentke,NA,NA,NA,NA
 Leopoldshaller Straße,NA,NA,Leopoldshaller ,NA,NA,NA,NA
 Lerchenhain-Privatweg,NA,NA,Lerchenhain Privat,NA,NA,NA,NA
 Lerchenwuhne,NA,NA,Lerchenwuhne,NA,NA,NA,NA
-Lessingplatz,male,deutscher Dichter der Aufklärung,Lessing,Gotthold Ephraim Lessing,+1729-01-22T00:00:00Z,+1781-02-15T00:00:00Z,Germans
-Lessingstraße,male,deutscher Dichter der Aufklärung,Lessing,Gotthold Ephraim Lessing,+1729-01-22T00:00:00Z,+1781-02-15T00:00:00Z,Germans
+Lessingplatz,männlich,deutscher Dichter der Aufklärung,Lessing,Gotthold Ephraim Lessing,+1729-01-22T00:00:00Z,+1781-02-15T00:00:00Z,Deutsche
+Lessingstraße,männlich,deutscher Dichter der Aufklärung,Lessing,Gotthold Ephraim Lessing,+1729-01-22T00:00:00Z,+1781-02-15T00:00:00Z,Deutsche
 Letzlinger Straße,NA,NA,Letzlinger ,NA,NA,NA,NA
-Leuschnerstraße,male,NA,Leuschner,Ronald Henley Leuschner,+1930-09-02T00:00:00Z,+2014-09-04T00:00:00Z,sodium
+Leuschnerstraße,männlich,NA,Leuschner,Ronald Henley Leuschner,+1930-09-02T00:00:00Z,+2014-09-04T00:00:00Z,NA
 Libellenweg,NA,NA,Libellen,NA,NA,NA,NA
-Liebermannstraße,male,deutscher Maler,Liebermann,Max Liebermann,+1847-07-20T00:00:00Z,+1935-02-08T00:00:00Z,sodium
+Liebermannstraße,männlich,deutscher Maler,Liebermann,Max Liebermann,+1847-07-20T00:00:00Z,+1935-02-08T00:00:00Z,NA
 Liebigstraße,NA,NA,Liebig,NA,NA,NA,NA
-Liebknechtstraße,male,"deutscher Politiker (SPD/KPD), MdR",Liebknecht,Karl Liebknecht,+1871-08-13T00:00:00Z,+1919-01-15T00:00:00Z,sodium
-Lienhardstraße,male,NA,Lienhard,Charles Lienhard,+1949-01-15T00:00:00Z,NA,sodium
-Liliencronstraße,male,deutscher Autor,Liliencron,Detlev von Liliencron,+1844-06-03T00:00:00Z,+1909-07-22T00:00:00Z,sodium
+Liebknechtstraße,NA,NA,Liebknecht,NA,NA,NA,NA
+Lienhardstraße,männlich,NA,Lienhard,Charles Lienhard,+1949-01-15T00:00:00Z,NA,NA
+Liliencronstraße,männlich,deutscher Autor,Liliencron,Detlev von Liliencron,+1844-06-03T00:00:00Z,+1909-07-22T00:00:00Z,NA
 Lilienweg,NA,NA,Lilien,NA,NA,NA,NA
 Lindenhof,NA,NA,Lindenhof,NA,NA,NA,NA
 Lindenplan,NA,NA,Lindenplan,NA,NA,NA,NA
-Lindenstraße,male,luxemburgisch-belgischer Botaniker (1817-1898),Linden,Jean Jules Linden,+1817-02-03T00:00:00Z,+1898-01-12T00:00:00Z,sodium
-Lindenweg,male,luxemburgisch-belgischer Botaniker (1817-1898),Linden,Jean Jules Linden,+1817-02-03T00:00:00Z,+1898-01-12T00:00:00Z,sodium
+Lindenstraße,männlich,luxemburgisch-belgischer Botaniker (1817-1898),Linden,Jean Jules Linden,+1817-02-03T00:00:00Z,+1898-01-12T00:00:00Z,NA
+Lindenweg,männlich,luxemburgisch-belgischer Botaniker (1817-1898),Linden,Jean Jules Linden,+1817-02-03T00:00:00Z,+1898-01-12T00:00:00Z,NA
 Lindhorster Straße,NA,NA,Lindhorster ,NA,NA,NA,NA
 Lindstedter Weg,NA,NA,Lindstedter ,NA,NA,NA,NA
-Lingnerstraße,male,"deutscher Maler, Graphiker und Widerstandskämpfer gegen das NS-Regime",Lingner,Max Lingner,+1888-11-17T00:00:00Z,+1959-03-14T00:00:00Z,sodium
-Lion-Feuchtwanger-Straße,male,deutscher Schriftsteller,Lion Feuchtwanger ,Lion Feuchtwanger,+1884-07-07T00:00:00Z,+1958-12-21T00:00:00Z,Jewish people
+Lingnerstraße,NA,NA,Lingner,NA,NA,NA,NA
+Lion-Feuchtwanger-Straße,männlich,deutscher Schriftsteller,Lion Feuchtwanger ,Lion Feuchtwanger,+1884-07-07T00:00:00Z,+1958-12-21T00:00:00Z,Juden
 Listemannstraße,NA,NA,Listemann,NA,NA,NA,NA
 Loburger Weg,NA,NA,Loburger ,NA,NA,NA,NA
 Löderburger Straße,NA,NA,Löderburger ,NA,NA,NA,NA
 Loitscher Weg,NA,NA,Loitscher ,NA,NA,NA,NA
-Lorbeerweg,male,NA,Lorbeer,Johan Lorbeer,NA,NA,sodium
+Lorbeerweg,männlich,NA,Lorbeer,Johan Lorbeer,NA,NA,NA
 Lorenzlust,NA,NA,Lorenzlust,NA,NA,NA,NA
-Lorenzweg,male,Herr zu Werle-Güstrow,Lorenz,Lorenz of Werle,+1330-01-01T00:00:00Z,+1390-01-01T00:00:00Z,sodium
+Lorenzweg,männlich,Herr zu Werle-Güstrow,Lorenz,Lorenz of Werle,+1330-01-01T00:00:00Z,+1390-01-01T00:00:00Z,NA
 Lostauer Straße,NA,NA,Lostauer ,NA,NA,NA,NA
-Lothar-Kreyssig-Straße,male,"deutscher Jurist, Richter sowie Gründer der Aktion Sühnezeichen",Lothar Kreyssig ,Lothar Kreyssig,+1898-10-30T00:00:00Z,+1986-07-05T00:00:00Z,sodium
-Louis-Braille-Straße,male,französischer Erfinder der Blindenschrift (Brailleschrift),Louis Braille ,Louis Braille,+1809-01-04T00:00:00Z,+1852-01-06T00:00:00Z,sodium
+Lothar-Kreyssig-Straße,männlich,"deutscher Jurist, Richter sowie Gründer der Aktion Sühnezeichen",Lothar Kreyssig ,Lothar Kreyssig,+1898-10-30T00:00:00Z,+1986-07-05T00:00:00Z,NA
+Louis-Braille-Straße,männlich,französischer Erfinder der Blindenschrift (Brailleschrift),Louis Braille ,Louis Braille,+1809-01-04T00:00:00Z,+1852-01-06T00:00:00Z,NA
 Löwenzahnweg,NA,NA,Löwenzahn,NA,NA,NA,NA
 Lübecker Privatweg,NA,NA,Lübecker Privat,NA,NA,NA,NA
 Lübecker Straße,NA,NA,Lübecker ,NA,NA,NA,NA
-Lucas-Cranach-Straße,male,deutscher Maler und Grafiker (1472-1553),Lucas Cranach ,Lucas Cranach the Elder,+1472-10-04T00:00:00Z,+1553-10-16T00:00:00Z,sodium
+Lucas-Cranach-Straße,männlich,deutscher Maler und Grafiker (1472-1553),Lucas Cranach ,Lucas Cranach the Elder,+1472-10-04T00:00:00Z,+1553-10-16T00:00:00Z,NA
 Lückestraße,NA,NA,Lücke,NA,NA,NA,NA
-Ludwig-Thoma-Straße,male,deutscher Schriftsteller,Ludwig Thoma ,Ludwig Thoma,+1867-01-21T00:00:00Z,+1921-08-26T00:00:00Z,sodium
+Ludwig-Thoma-Straße,männlich,deutscher Schriftsteller,Ludwig Thoma ,Ludwig Thoma,+1867-01-21T00:00:00Z,+1921-08-26T00:00:00Z,NA
 Luisenthaler Straße,NA,NA,Luisenthaler ,NA,NA,NA,NA
 Lummenweg,NA,NA,Lummen,NA,NA,NA,NA
-Lumumbastraße,male,kongolesischer Politiker und erster Ministerpräsident des unabhängigen Kongo,Lumumba,Patrice Lumumba,+1925-07-02T00:00:00Z,+1961-01-17T00:00:00Z,sodium
+Lumumbastraße,männlich,kongolesischer Politiker und erster Ministerpräsident des unabhängigen Kongo,Lumumba,Patrice Lumumba,+1925-07-02T00:00:00Z,+1961-01-17T00:00:00Z,NA
 Lüneburger Straße,NA,NA,Lüneburger ,NA,NA,NA,NA
 Lunochodstraße,NA,NA,Lunochod,NA,NA,NA,NA
-Lutherstraße,male,"deutscher Reformator, Theologe und Bibelübersetzer (1483-1546)",Luther,Martin Luther,+1483-11-10T00:00:00Z,+1546-02-18T00:00:00Z,Germans
+Lutherstraße,männlich,"deutscher Reformator, Theologe und Bibelübersetzer (1483-1546)",Luther,Martin Luther,+1483-11-10T00:00:00Z,+1546-02-18T00:00:00Z,Deutsche
 Lüttgen-Ottersleben,NA,NA,Lüttgen Ottersleben,NA,NA,NA,NA
 Lüttgen-Salbker Weg,NA,NA,Lüttgen Salbker ,NA,NA,NA,NA
 Luxemburgstraße,NA,NA,Luxemburg,NA,NA,NA,NA
 Magdeburger Ring,NA,NA,Magdeburger ,NA,NA,NA,NA
 Magdeburger Straße,NA,NA,Magdeburger ,NA,NA,NA,NA
-Magnus-Hirschfeld-Weg,male,"deutscher Nervenarzt, Sexualforscher, Vordenker der Homosexuellen-Bewegung und Autor",Magnus Hirschfeld ,Magnus Hirschfeld,+1868-05-14T00:00:00Z,+1935-05-14T00:00:00Z,sodium
+Magnus-Hirschfeld-Weg,männlich,"deutscher Nervenarzt, Sexualforscher, Vordenker der Homosexuellen-Bewegung und Autor",Magnus Hirschfeld ,Magnus Hirschfeld,+1868-05-14T00:00:00Z,+1935-05-14T00:00:00Z,NA
 Mahrenholtzstraße,NA,NA,Mahrenholtz,NA,NA,NA,NA
 Maienhof,NA,NA,Maienhof,NA,NA,NA,NA
 Maikäferweg,NA,NA,Maikäfer,NA,NA,NA,NA
-Mälzerstraße,male,"deutscher Politiker (NSDAP), MdR",Mälzer,Josef Malzer,+1902-01-05T00:00:00Z,+1954-10-10T00:00:00Z,sodium
+Mälzerstraße,männlich,"deutscher Politiker (NSDAP), MdR",Mälzer,Josef Malzer,+1902-01-05T00:00:00Z,+1954-10-10T00:00:00Z,NA
 Mansfelder Straße,NA,NA,Mansfelder ,NA,NA,NA,NA
-Marderweg,female,US-amerikanische Neurobiologin,Marder,Eve Marder,+1948-05-30T00:00:00Z,NA,sodium
+Marderweg,weiblich,US-amerikanische Neurobiologin,Marder,Eve Marder,+1948-05-30T00:00:00Z,NA,NA
 Margarethenstraße,NA,NA,Margarethen,NA,NA,NA,NA
 Margeritenweg,NA,NA,Margeriten,NA,NA,NA,NA
-Maria-Neide-Straße,female,deutsche Krankenschwester,Maria Neide ,Maria Neide,+1780-10-02T00:00:00Z,+1831-10-24T00:00:00Z,sodium
+Maria-Neide-Straße,weiblich,deutsche Krankenschwester,Maria Neide ,Maria Neide,+1780-10-02T00:00:00Z,+1831-10-24T00:00:00Z,NA
 Mariannenstraße,NA,NA,Mariannen,NA,NA,NA,NA
 Marienborner Straße,NA,NA,Marienborner ,NA,NA,NA,NA
 Marienstraße,NA,NA,Marien,NA,NA,NA,NA
@@ -1069,45 +1069,45 @@ Markgrafenstraße,NA,NA,Markgrafen,NA,NA,NA,NA
 Marktbreite,NA,NA,Marktbreite,NA,NA,NA,NA
 Marschweg,NA,NA,Marsch,NA,NA,NA,NA
 Marsweg,NA,NA,Mars,NA,NA,NA,NA
-Martin-Agricola-Straße,male,"deutscher Musiktheoretiker, Musikpädagoge und Komponist der Renaissance",Martin Agricola ,Martin Agricola,+1486-01-06T00:00:00Z,+1556-06-10T00:00:00Z,sodium
-Martin-Andersen-Nexö-Straße,male,dänischer Schriftsteller,Martin Andersen Nexö ,Martin Andersen Nexø,+1869-06-26T00:00:00Z,+1954-06-01T00:00:00Z,Danes
-Martin-Gallus-Weg,male,deutscher evangelischer Theologe,Martin Gallus ,Martin Gallus,+1505-00-00T00:00:00Z,+1581-01-01T00:00:00Z,sodium
+Martin-Agricola-Straße,männlich,"deutscher Musiktheoretiker, Musikpädagoge und Komponist der Renaissance",Martin Agricola ,Martin Agricola,+1486-01-06T00:00:00Z,+1556-06-10T00:00:00Z,NA
+Martin-Andersen-Nexö-Straße,männlich,dänischer Schriftsteller,Martin Andersen Nexö ,Martin Andersen Nexø,+1869-06-26T00:00:00Z,+1954-06-01T00:00:00Z,Dänen
+Martin-Gallus-Weg,männlich,deutscher evangelischer Theologe,Martin Gallus ,Martin Gallus,+1505-00-00T00:00:00Z,+1581-01-01T00:00:00Z,NA
 Martin-Luther-Hain,NA,NA,Martin Luther Hain,NA,NA,NA,NA
-Martin-Luther-Platz,male,"deutscher Reformator, Theologe und Bibelübersetzer (1483-1546)",Martin Luther ,Martin Luther,+1483-11-10T00:00:00Z,+1546-02-18T00:00:00Z,Germans
-Martinsplatz,male,französischer Botaniker (1806–1889),Martins,Charles Frédéric Martins,+1806-02-06T00:00:00Z,+1889-03-07T00:00:00Z,sodium
-Martinstraße,male,britischer Maler,Martin,John Martin,+1789-07-19T00:00:00Z,+1854-02-17T00:00:00Z,sodium
+Martin-Luther-Platz,männlich,"deutscher Reformator, Theologe und Bibelübersetzer (1483-1546)",Martin Luther ,Martin Luther,+1483-11-10T00:00:00Z,+1546-02-18T00:00:00Z,Deutsche
+Martinsplatz,männlich,französischer Botaniker (1806–1889),Martins,Charles Frédéric Martins,+1806-02-06T00:00:00Z,+1889-03-07T00:00:00Z,NA
+Martinstraße,NA,NA,Martin,NA,NA,NA,NA
 Masurenring,NA,NA,Masuren,NA,NA,NA,NA
-Materlikstraße,male,deutscher Widerstandskämpfer gegen den Nationalsozialismus und Politiker (KPD),Materlik,Hubert Materlik,+1895-07-08T00:00:00Z,+1944-07-26T00:00:00Z,sodium
-Matthiasstraße,male,Habsburgischer Kaiser des Heiligen Römischen Reichs,Matthias,"Matthias, Holy Roman Emperor",+1557-02-24T00:00:00Z,+1619-03-20T00:00:00Z,sodium
-Matthissonstraße,male,deutscher Lyriker und Prosaschriftsteller,Matthisson,Friedrich von Matthisson,+1761-01-23T00:00:00Z,+1831-03-12T00:00:00Z,sodium
+Materlikstraße,männlich,deutscher Widerstandskämpfer gegen den Nationalsozialismus und Politiker (KPD),Materlik,Hubert Materlik,+1895-07-08T00:00:00Z,+1944-07-26T00:00:00Z,NA
+Matthiasstraße,männlich,Habsburgischer Kaiser des Heiligen Römischen Reichs,Matthias,"Matthias, Holy Roman Emperor",+1557-02-24T00:00:00Z,+1619-03-20T00:00:00Z,NA
+Matthissonstraße,männlich,deutscher Lyriker und Prosaschriftsteller,Matthisson,Friedrich von Matthisson,+1761-01-23T00:00:00Z,+1831-03-12T00:00:00Z,NA
 Maulbeerweg,NA,NA,Maulbeer,NA,NA,NA,NA
-Max-Josef-Metzger-Straße,male,katholischer Priester und NS-Opfer,Max Josef Metzger ,Max Josef Metzger,+1887-02-03T00:00:00Z,+1944-04-17T00:00:00Z,sodium
-Max-Otten-Straße,male,NA,Max Otten ,Max Otten,+1992-11-10T00:00:00Z,NA,sodium
+Max-Josef-Metzger-Straße,männlich,katholischer Priester und NS-Opfer,Max Josef Metzger ,Max Josef Metzger,+1887-02-03T00:00:00Z,+1944-04-17T00:00:00Z,NA
+Max-Otten-Straße,männlich,NA,Max Otten ,Max Otten,+1992-11-10T00:00:00Z,NA,NA
 Maxim-Gorki-Straße,NA,NA,MaxGorki ,NA,NA,NA,NA
 Maybachstraße,NA,NA,Maybach,NA,NA,NA,NA
-Mechthildstraße,female,Königin von Dänemark,Mechthild,Matilda of Holstein,NA,+1288-00-00T00:00:00Z,sodium
+Mechthildstraße,weiblich,Königin von Dänemark,Mechthild,Matilda of Holstein,NA,+1288-00-00T00:00:00Z,NA
 Mehringstraße,NA,NA,Meh,NA,NA,NA,NA
 Meininger Weg,NA,NA,Meininger ,NA,NA,NA,NA
 Meisenstieg,NA,NA,Meisenstieg,NA,NA,NA,NA
 Meitzendorfer Straße,NA,NA,Meitzendorfer ,NA,NA,NA,NA
-Melanchthonstraße,male,"deutscher Philologe, Philosoph, Humanist, Theologe, Lehrbuchautor und neulateinischer Dichter",Melanchthon,Philipp Melanchthon,+1497-02-16T00:00:00Z,+1560-04-19T00:00:00Z,sodium
-Melissenweg,female,NA,Melissen,Melisende of Nogent-le-Rotrou,NA,NA,sodium
-Mellinstraße,male,NA,Mellin,Charles Mellin,+1597-01-01T00:00:00Z,+1649-09-21T00:00:00Z,sodium
+Melanchthonstraße,männlich,"deutscher Philologe, Philosoph, Humanist, Theologe, Lehrbuchautor und neulateinischer Dichter",Melanchthon,Philipp Melanchthon,+1497-02-16T00:00:00Z,+1560-04-19T00:00:00Z,NA
+Melissenweg,NA,NA,Melissen,NA,NA,NA,NA
+Mellinstraße,NA,NA,Mellin,NA,NA,NA,NA
 Menzer Straße,NA,NA,Menzer ,NA,NA,NA,NA
 Mergelweg,NA,NA,Mergel,NA,NA,NA,NA
 Merkurweg,NA,NA,Merkur,NA,NA,NA,NA
 Merseburger Straße,NA,NA,Merseburger ,NA,NA,NA,NA
-Mertensstraße,male,deutscher Biologie und Museumsdirektor,Mertens,Robert Mertens,+1894-12-01T00:00:00Z,+1975-08-23T00:00:00Z,sodium
+Mertensstraße,männlich,deutscher Biologie und Museumsdirektor,Mertens,Robert Mertens,+1894-12-01T00:00:00Z,+1975-08-23T00:00:00Z,NA
 Meseberger Weg,NA,NA,Meseberger ,NA,NA,NA,NA
 Messeplatz Max Wille,NA,NA,Messe Max Wille,NA,NA,NA,NA
 Meyendorfer Weg,NA,NA,Meyendorfer ,NA,NA,NA,NA
-Michael-Lotter-Straße,male,Buchdrucker,Michael Lotter ,Michael Lotter,+1499-00-00T00:00:00Z,+1554-01-01T00:00:00Z,sodium
-Miester Weg,male,"deutscher Politiker, MdL",Miester ,Gerhard Miesterfeldt,+1954-06-20T00:00:00Z,NA,sodium
+Michael-Lotter-Straße,männlich,Buchdrucker,Michael Lotter ,Michael Lotter,+1499-00-00T00:00:00Z,+1554-01-01T00:00:00Z,NA
+Miester Weg,männlich,"deutscher Politiker, MdL",Miester ,Gerhard Miesterfeldt,+1954-06-20T00:00:00Z,NA,NA
 Milanweg,NA,NA,Milan,NA,NA,NA,NA
 Milchstraße,NA,NA,Milch,NA,NA,NA,NA
 Milchweg,NA,NA,Milch,NA,NA,NA,NA
-Mindenstraße,male,NA,Minden,Max D.von Minden,+1871-01-01T00:00:00Z,NA,sodium
-Minzeweg,male,NA,Minze,Shen Tu,+1357-01-01T00:00:00Z,+1434-01-01T00:00:00Z,sodium
+Mindenstraße,NA,NA,Minden,NA,NA,NA,NA
+Minzeweg,männlich,NA,Minze,Shen Tu,+1357-01-01T00:00:00Z,+1434-01-01T00:00:00Z,NA
 Mirabellenweg,NA,NA,Mirabellen,NA,NA,NA,NA
 Mittagstraße,NA,NA,Mittag,NA,NA,NA,NA
 Mittelstraße,NA,NA,Mittel,NA,NA,NA,NA
@@ -1118,14 +1118,14 @@ Moldenstraße,NA,NA,Molden,NA,NA,NA,NA
 Moosgrund,NA,NA,Moosgrund,NA,NA,NA,NA
 Morgenrot-Privatweg,NA,NA,Morgenrot Privat,NA,NA,NA,NA
 Morgenstraße,NA,NA,Morgen,NA,NA,NA,NA
-Mörikestraße,male,französischer Fußballspieler,Mörike,Morike Sako,+1981-11-17T00:00:00Z,NA,sodium
-Moritzplatz,male,Landgraf von Hessen-Kassel,Moritz,"Maurice, Landgrave of Hesse-Kassel",+1572-05-25T00:00:00Z,+1632-03-15T00:00:00Z,sodium
-Moritzstraße,male,Landgraf von Hessen-Kassel,Moritz,"Maurice, Landgrave of Hesse-Kassel",+1572-05-25T00:00:00Z,+1632-03-15T00:00:00Z,sodium
-Moselstraße,male,"deutscher Spion, unter dem Decknamen Topas als Spion für die DDR und den Warschauer Pakt tätig",Mosel,Rainer Rupp,+1945-09-21T00:00:00Z,NA,sodium
+Mörikestraße,NA,NA,Mörike,NA,NA,NA,NA
+Moritzplatz,männlich,Landgraf von Hessen-Kassel,Moritz,"Maurice, Landgrave of Hesse-Kassel",+1572-05-25T00:00:00Z,+1632-03-15T00:00:00Z,NA
+Moritzstraße,männlich,Landgraf von Hessen-Kassel,Moritz,"Maurice, Landgrave of Hesse-Kassel",+1572-05-25T00:00:00Z,+1632-03-15T00:00:00Z,NA
+Moselstraße,männlich,"deutscher Spion, unter dem Decknamen Topas als Spion für die DDR und den Warschauer Pakt tätig",Mosel,Rainer Rupp,+1945-09-21T00:00:00Z,NA,NA
 Motzstraße,NA,NA,Motz,NA,NA,NA,NA
-Möwenweg,male,NA,Möwen,Mowen Boino,+1981-12-21T00:00:00Z,NA,sodium
-Mozartstraße,male,Musiker und Komponist der Wiener Klassik; sein Werk gehört zum Bedeutendsten im Repertoire klassischer Musik.,Mozart,Wolfgang Amadeus Mozart,+1756-01-27T00:00:00Z,+1791-12-05T00:00:00Z,Austrians
-Mühlberg,male,Schweizer Geologe,Mühlberg,Friedrich Mühlberg,+1840-04-19T00:00:00Z,+1915-05-25T00:00:00Z,sodium
+Möwenweg,NA,NA,Möwen,NA,NA,NA,NA
+Mozartstraße,männlich,Musiker und Komponist der Wiener Klassik; sein Werk gehört zum Bedeutendsten im Repertoire klassischer Musik.,Mozart,Wolfgang Amadeus Mozart,+1756-01-27T00:00:00Z,+1791-12-05T00:00:00Z,Österreicher
+Mühlberg,männlich,Schweizer Geologe,Mühlberg,Friedrich Mühlberg,+1840-04-19T00:00:00Z,+1915-05-25T00:00:00Z,NA
 Mühlenfeld-Privatweg,NA,NA,Mühlenfeld Privat,NA,NA,NA,NA
 Mühlenstraße,NA,NA,Mühlen,NA,NA,NA,NA
 Mühlhauser Straße,NA,NA,Mühlhauser ,NA,NA,NA,NA
@@ -1143,10 +1143,10 @@ Narzissenweg,NA,NA,Narzissen,NA,NA,NA,NA
 Nedlitzer Straße,NA,NA,Nedlitzer ,NA,NA,NA,NA
 Neinstedter Straße,NA,NA,Neinstedter ,NA,NA,NA,NA
 Nelkengrund,NA,NA,Nelkengrund,NA,NA,NA,NA
-Nelkenweg,female,spanische Politikerin und feministin,Nelken,Margarita Nelken,+1894-07-05T00:00:00Z,+1968-03-08T00:00:00Z,sodium
+Nelkenweg,weiblich,spanische Politikerin und feministin,Nelken,Margarita Nelken,+1894-07-05T00:00:00Z,+1968-03-08T00:00:00Z,NA
 Nelkenwinkel,NA,NA,Nelkenwinkel,NA,NA,NA,NA
 Neptunweg,NA,NA,Neptun,NA,NA,NA,NA
-Nerzweg,male,deutscher Botaniker,Nerz,Joachim Nerz,+1964-01-01T00:00:00Z,NA,sodium
+Nerzweg,männlich,deutscher Botaniker,Nerz,Joachim Nerz,+1964-01-01T00:00:00Z,NA,NA
 Nesselpfad,NA,NA,Nesselpfad,NA,NA,NA,NA
 Netzfeld,NA,NA,Netzfeld,NA,NA,NA,NA
 Neue Siedlung,NA,NA,Neue ,NA,NA,NA,NA
@@ -1157,24 +1157,24 @@ Neuer Renneweg,NA,NA,Neuer Renne,NA,NA,NA,NA
 Neuer Sülzeweg,NA,NA,Neuer Sülze,NA,NA,NA,NA
 Neupresterweg,NA,NA,Neuprester,NA,NA,NA,NA
 Neustädter Bierweg,NA,NA,Neustädter Bier,NA,NA,NA,NA
-Neustädter Platz,male,österreichischer Politiker und Chefideologe der Heimwehr,Neustädter ,Odo Neustädter-Stürmer,+1885-11-03T00:00:00Z,+1938-03-19T00:00:00Z,sodium
-Neustädter Straße,male,österreichischer Politiker und Chefideologe der Heimwehr,Neustädter ,Odo Neustädter-Stürmer,+1885-11-03T00:00:00Z,+1938-03-19T00:00:00Z,sodium
-Nicolaiplatz,male,deutscher Mediziner und Naturforscher (1800–1875),Nicolai,Ernst August Nicolai,+1800-01-01T00:00:00Z,+1874-01-01T00:00:00Z,sodium
-Nicolaistraße,male,deutscher Mediziner und Naturforscher (1800–1875),Nicolai,Ernst August Nicolai,+1800-01-01T00:00:00Z,+1874-01-01T00:00:00Z,sodium
+Neustädter Platz,NA,NA,Neustädter ,NA,NA,NA,NA
+Neustädter Straße,NA,NA,Neustädter ,NA,NA,NA,NA
+Nicolaiplatz,männlich,deutscher Mediziner und Naturforscher (1800–1875),Nicolai,Ernst August Nicolai,+1800-01-01T00:00:00Z,+1874-01-01T00:00:00Z,NA
+Nicolaistraße,männlich,deutscher Mediziner und Naturforscher (1800–1875),Nicolai,Ernst August Nicolai,+1800-01-01T00:00:00Z,+1874-01-01T00:00:00Z,NA
 Niederndodeleber Straße,NA,NA,Niederndodeleber ,NA,NA,NA,NA
 Niegripper Straße,NA,NA,Niegripper ,NA,NA,NA,NA
-Niels-Bohr-Straße,male,dänischer Physiker und Nobelpreisträger,Niels Bohr ,Niels Bohr,+1885-10-07T00:00:00Z,+1962-11-18T00:00:00Z,sodium
-Niemeyerweg,male,deutscher Maler,Niemeyer,Otto Niemeyer-Holstein,+1896-05-11T00:00:00Z,+1984-02-20T00:00:00Z,sodium
+Niels-Bohr-Straße,männlich,dänischer Physiker und Nobelpreisträger,Niels Bohr ,Niels Bohr,+1885-10-07T00:00:00Z,+1962-11-18T00:00:00Z,NA
+Niemeyerweg,NA,NA,Niemeyer,NA,NA,NA,NA
 Niemöller-Privatweg,NA,NA,Niemöller Privat,NA,NA,NA,NA
 Nienburger Straße,NA,NA,Nienburger ,NA,NA,NA,NA
 Niendorfer Gartenweg,NA,NA,Niendorfer Garten,NA,NA,NA,NA
 Niendorfer Grund,NA,NA,Niendorfer Grund,NA,NA,NA,NA
 Niendorfer Straße,NA,NA,Niendorfer ,NA,NA,NA,NA
-Nitzschkestraße,male,NA,Nitzschke,Stefan Nitzschke,NA,NA,sodium
+Nitzschkestraße,männlich,NA,Nitzschke,Stefan Nitzschke,NA,NA,NA
 Nixeweg,NA,NA,Nixe,NA,NA,NA,NA
-Nomi-Rubel-Straße,female,deutsch-amerikanische Schriftstellerin,Nomi Rubel ,Nomi Rubel,+1910-01-31T00:00:00Z,+1996-09-11T00:00:00Z,sodium
+Nomi-Rubel-Straße,weiblich,deutsch-amerikanische Schriftstellerin,Nomi Rubel ,Nomi Rubel,+1910-01-31T00:00:00Z,+1996-09-11T00:00:00Z,NA
 Nonnenwerder,NA,NA,Nonnenwerder,NA,NA,NA,NA
-Norbertstraße,male,französischer Edelmann,Norbert,Nordebert,+0650-00-00T00:00:00Z,+0695-00-00T00:00:00Z,sodium
+Norbertstraße,männlich,französischer Edelmann,Norbert,Nordebert,+0650-00-00T00:00:00Z,+0695-00-00T00:00:00Z,NA
 Nordhäuser Straße,NA,NA,Nordhäuser ,NA,NA,NA,NA
 Nordstraße,NA,NA,Nord,NA,NA,NA,NA
 Obere Siedlung,NA,NA,Obere ,NA,NA,NA,NA
@@ -1187,8 +1187,8 @@ Oebisfelder Straße,NA,NA,Oebisfelder ,NA,NA,NA,NA
 Oelzeweg,NA,NA,Oelze,NA,NA,NA,NA
 Offleber Straße,NA,NA,Offleber ,NA,NA,NA,NA
 Ohrestraße,NA,NA,Ohre,NA,NA,NA,NA
-Okerstraße,male,NA,Oker,Adriaen Jansz. Ocker,+1621-01-01T00:00:00Z,+1689-01-01T00:00:00Z,sodium
-Oldenburger Straße,male,durch einen Schwangerschaftsabbruch geschädigtes Kind,Oldenburger ,Oldenburg Baby,+1997-07-06T00:00:00Z,+2019-01-04T00:00:00Z,sodium
+Okerstraße,NA,NA,Oker,NA,NA,NA,NA
+Oldenburger Straße,NA,NA,Oldenburger ,NA,NA,NA,NA
 Olvenstedter Chaussee,NA,NA,Olvenstedter e,NA,NA,NA,NA
 Olvenstedter Graseweg,NA,NA,Olvenstedter Grase,NA,NA,NA,NA
 Olvenstedter Grund,NA,NA,Olvenstedter Grund,NA,NA,NA,NA
@@ -1200,12 +1200,12 @@ Olvenstedter Straße,NA,NA,Olvenstedter ,NA,NA,NA,NA
 Orchideenweg,NA,NA,Orchideen,NA,NA,NA,NA
 Oschersleber Straße,NA,NA,Oschersleber ,NA,NA,NA,NA
 Osolfstraße,NA,NA,Osolf,NA,NA,NA,NA
-Ostendorfer Straße,male,deutscher Maler und Zeichner,Ostendorfer ,Michael Ostendorfer,+1490-00-00T00:00:00Z,+1559-00-00T00:00:00Z,sodium
+Ostendorfer Straße,männlich,deutscher Maler und Zeichner,Ostendorfer ,Michael Ostendorfer,+1490-00-00T00:00:00Z,+1559-00-00T00:00:00Z,NA
 Osterburger Privatweg,NA,NA,Osterburger Privat,NA,NA,NA,NA
 Osterburger Straße,NA,NA,Osterburger ,NA,NA,NA,NA
 Osterweddinger Chaussee,NA,NA,Osterweddinger e,NA,NA,NA,NA
 Osterweddinger Straße,NA,NA,Osterweddinger ,NA,NA,NA,NA
-Ostrowskistraße,male,deutscher Politiker,Ostrowski,Otto Ostrowski,+1883-01-28T00:00:00Z,+1963-06-16T00:00:00Z,sodium
+Ostrowskistraße,NA,NA,Ostrowski,NA,NA,NA,NA
 Oststraße,NA,NA,Ost,NA,NA,NA,NA
 Ostwaldstraße,NA,NA,Ostwald,NA,NA,NA,NA
 Othrichstraße,NA,NA,Othrich,NA,NA,NA,NA
@@ -1214,42 +1214,42 @@ Otternweg,NA,NA,Ottern,NA,NA,NA,NA
 Ottersleber Chaussee,NA,NA,Ottersleber e,NA,NA,NA,NA
 Ottersleber Straße,NA,NA,Ottersleber ,NA,NA,NA,NA
 Ottersleber Weg,NA,NA,Ottersleber ,NA,NA,NA,NA
-Otto-Baer-Straße,male,deutscher Unternehmer der Farbenindustrie,Otto Baer ,Otto Baer,+1880-11-07T00:00:00Z,+1947-08-01T00:00:00Z,sodium
-Otto-Hahn-Straße,male,deutscher Chemiker und Nobelpreisträger,Otto Hahn ,Otto Hahn,+1879-03-08T00:00:00Z,+1968-07-28T00:00:00Z,sodium
-Otto-Lilienthal-Straße,male,deutscher Pionier des Gleit- und Muskelkraftflugs.,Otto Lilienthal ,Otto Lilienthal,+1848-05-23T00:00:00Z,+1896-08-10T00:00:00Z,sodium
-Otto-Nagel-Straße,male,"deutscher Maler, MdV",Otto Nagel ,Otto Nagel,+1894-09-27T00:00:00Z,+1967-07-12T00:00:00Z,sodium
-Otto-Richter-Straße,male,"deutscher Archivar, Bibliothekar und Historiker",Otto Richter ,Otto Richter,+1852-08-31T00:00:00Z,+1922-10-03T00:00:00Z,sodium
-Otto-von-Guericke-Straße,male,deutscher Erfinder und Politiker,Otto von Guericke ,Otto von Guericke,+1602-11-20T00:00:00Z,+1686-05-11T00:00:00Z,sodium
+Otto-Baer-Straße,männlich,deutscher Unternehmer der Farbenindustrie,Otto Baer ,Otto Baer,+1880-11-07T00:00:00Z,+1947-08-01T00:00:00Z,NA
+Otto-Hahn-Straße,männlich,deutscher Chemiker und Nobelpreisträger,Otto Hahn ,Otto Hahn,+1879-03-08T00:00:00Z,+1968-07-28T00:00:00Z,NA
+Otto-Lilienthal-Straße,männlich,deutscher Pionier des Gleit- und Muskelkraftflugs.,Otto Lilienthal ,Otto Lilienthal,+1848-05-23T00:00:00Z,+1896-08-10T00:00:00Z,NA
+Otto-Nagel-Straße,männlich,"deutscher Maler, MdV",Otto Nagel ,Otto Nagel,+1894-09-27T00:00:00Z,+1967-07-12T00:00:00Z,NA
+Otto-Richter-Straße,männlich,"deutscher Archivar, Bibliothekar und Historiker",Otto Richter ,Otto Richter,+1852-08-31T00:00:00Z,+1922-10-03T00:00:00Z,NA
+Otto-von-Guericke-Straße,männlich,deutscher Erfinder und Politiker,Otto von Guericke ,Otto von Guericke,+1602-11-20T00:00:00Z,+1686-05-11T00:00:00Z,NA
 Ottweiler Straße,NA,NA,Ottweiler ,NA,NA,NA,NA
-Pablo-Neruda-Straße,male,chilenischer Schriftsteller,Pablo Neruda ,Pablo Neruda,+1904-07-12T00:00:00Z,+1973-09-23T00:00:00Z,sodium
-Pablo-Picasso-Straße,male,"spanischer Maler, Grafiker und Bildhauer",Pablo Picasso ,Pablo Picasso,+1881-10-25T00:00:00Z,+1973-04-08T00:00:00Z,Spaniards
-Pallasweg,male,deutschsprachiger Naturforscher und Geograph,Pallas,Peter Simon Pallas,+1741-09-22T00:00:00Z,+1811-09-08T00:00:00Z,sodium
+Pablo-Neruda-Straße,männlich,chilenischer Schriftsteller,Pablo Neruda ,Pablo Neruda,+1904-07-12T00:00:00Z,+1973-09-23T00:00:00Z,NA
+Pablo-Picasso-Straße,männlich,"spanischer Maler, Grafiker und Bildhauer",Pablo Picasso ,Pablo Picasso,+1881-10-25T00:00:00Z,+1973-04-08T00:00:00Z,Spanier
+Pallasweg,männlich,deutschsprachiger Naturforscher und Geograph,Pallas,Peter Simon Pallas,+1741-09-22T00:00:00Z,+1811-09-08T00:00:00Z,NA
 Papenburg-Privatweg,NA,NA,Papenburg Privat,NA,NA,NA,NA
 Papengang,NA,NA,Papengang,NA,NA,NA,NA
 Pappelallee,NA,NA,Pappelallee,NA,NA,NA,NA
-Paracelsusstraße,male,"Arzt, Alchemist, Astrologe, Naturforscher, Mystiker, Laientheologe und Philosoph",Paracelsus,Paracelsus,+1493-11-10T00:00:00Z,+1541-09-24T00:00:00Z,Swiss
+Paracelsusstraße,männlich,"Arzt, Alchemist, Astrologe, Naturforscher, Mystiker, Laientheologe und Philosoph",Paracelsus,Paracelsus,+1493-11-10T00:00:00Z,+1541-09-24T00:00:00Z,Schweizer
 Parchauer Straße,NA,NA,Parchauer ,NA,NA,NA,NA
 Pareyer Weg,NA,NA,Pareyer ,NA,NA,NA,NA
 Parzellenweg,NA,NA,Parzellen,NA,NA,NA,NA
-Paul-Ecke-Straße,male,deutscher Freestyle-Skier,Paul Ecke ,Paul Eckert,+1990-09-09T00:00:00Z,NA,sodium
-Paul-Ehrlich-Straße,male,"deutscher Chemiker, Mediziner und Serologe, Begründer der Chemotherapie",Paul Ehrlich ,Paul Ehrlich,+1854-03-14T00:00:00Z,+1915-08-20T00:00:00Z,sodium
-Paul-Schreiber-Straße,male,deutscher Meteorologe und Erfinder,Paul Schreiber ,Paul Schreiber,+1848-08-26T00:00:00Z,+1924-12-29T00:00:00Z,sodium
+Paul-Ecke-Straße,männlich,deutscher Freestyle-Skier,Paul Ecke ,Paul Eckert,+1990-09-09T00:00:00Z,NA,NA
+Paul-Ehrlich-Straße,männlich,"deutscher Chemiker, Mediziner und Serologe, Begründer der Chemotherapie",Paul Ehrlich ,Paul Ehrlich,+1854-03-14T00:00:00Z,+1915-08-20T00:00:00Z,NA
+Paul-Schreiber-Straße,männlich,deutscher Meteorologe und Erfinder,Paul Schreiber ,Paul Schreiber,+1848-08-26T00:00:00Z,+1924-12-29T00:00:00Z,NA
 Pechauer Platz,NA,NA,Pechauer ,NA,NA,NA,NA
 Pechauer Straße,NA,NA,Pechauer ,NA,NA,NA,NA
 Pestalozzistraße,NA,NA,Pestalozzi,NA,NA,NA,NA
-Peter-Paul-Straße,male,"amerikanischer Schauspieler, Produzent und Bodybuilder",Peter Paul ,Peter Paul,+1957-03-08T00:00:00Z,NA,sodium
+Peter-Paul-Straße,männlich,"amerikanischer Schauspieler, Produzent und Bodybuilder",Peter Paul ,Peter Paul,+1957-03-08T00:00:00Z,NA,NA
 Petersilienberg,NA,NA,Petersilienberg,NA,NA,NA,NA
-Peterstraße,male,Apostel,Peter,Peter,+0001-00-00T00:00:00Z,+0067-00-00T00:00:00Z,sodium
+Peterstraße,männlich,Apostel,Peter,Peter,+0001-00-00T00:00:00Z,+0067-00-00T00:00:00Z,NA
 Petriförder,NA,NA,Petriförder,NA,NA,NA,NA
 Pettenkoferbrücke,NA,NA,Pettenkoferbrücke,NA,NA,NA,NA
-Pettenkoferstraße,male,deutscher Chemiker und Hygieniker,Pettenkofer,Max Joseph von Pettenkofer,+1818-12-03T00:00:00Z,+1901-02-10T00:00:00Z,sodium
+Pettenkoferstraße,männlich,deutscher Chemiker und Hygieniker,Pettenkofer,Max Joseph von Pettenkofer,+1818-12-03T00:00:00Z,+1901-02-10T00:00:00Z,NA
 Pfälzer Platz,NA,NA,Pfälzer ,NA,NA,NA,NA
 Pfälzer Straße,NA,NA,Pfälzer ,NA,NA,NA,NA
 Pfauenweg,NA,NA,Pfauen,NA,NA,NA,NA
-Pfeifferstraße,male,"in Krakau geborener Künstler, der im Jahre 1814 daselbst starb",Pfeiffer,Pfeiffer,+1800-00-00T00:00:00Z,+1814-00-00T00:00:00Z,sodium
+Pfeifferstraße,männlich,"in Krakau geborener Künstler, der im Jahre 1814 daselbst starb",Pfeiffer,Pfeiffer,+1800-00-00T00:00:00Z,+1814-00-00T00:00:00Z,NA
 Pfirsichweg,NA,NA,Pfirsich,NA,NA,NA,NA
-Philipp-Palm-Weg,male,NA,Philipp Palm ,Philipp Palm,+1889-01-06T00:00:00Z,+1940-08-22T00:00:00Z,sodium
-Pirolweg,male,"österreichischer Politiker (FPÖ, FPK), Mitglied des Bundesrates",Pirol,Franz Pirolt,+1961-09-14T00:00:00Z,NA,sodium
+Philipp-Palm-Weg,männlich,NA,Philipp Palm ,Philipp Palm,+1889-01-06T00:00:00Z,+1940-08-22T00:00:00Z,NA
+Pirolweg,NA,NA,Pirol,NA,NA,NA,NA
 Plachwitzer Weg,NA,NA,Plachwitzer ,NA,NA,NA,NA
 Planckstraße,NA,NA,Planck,NA,NA,NA,NA
 Planetenweg,NA,NA,Planeten,NA,NA,NA,NA
@@ -1257,9 +1257,9 @@ Platz am Elbbahnhof,NA,NA, Elbbahnhof,NA,NA,NA,NA
 Platz der Begegnung,NA,NA, der Begegnung,NA,NA,NA,NA
 Platz des 17. Juni,NA,NA, des 17. Juni,NA,NA,NA,NA
 Plötzkyer Straße,NA,NA,Plötzkyer ,NA,NA,NA,NA
-Plutoweg,male,"deutscher Erfinder, Industrieller und Unternehmer",Pluto,Heinrich Ehrhardt,+1840-11-17T00:00:00Z,+1928-11-20T00:00:00Z,sodium
+Plutoweg,NA,NA,Pluto,NA,NA,NA,NA
 Porse-Privatweg,NA,NA,Porse Privat,NA,NA,NA,NA
-Porsestraße,male,etruskischer König,Porse,Lars Porsena,-0600-01-01T00:00:00Z,-0500-01-01T00:00:00Z,sodium
+Porsestraße,männlich,etruskischer König,Porse,Lars Porsena,-0600-01-01T00:00:00Z,-0500-01-01T00:00:00Z,NA
 Poseidonweg,NA,NA,Poseidon,NA,NA,NA,NA
 Poststraße,NA,NA,Post,NA,NA,NA,NA
 Potsdamer Straße,NA,NA,Potsdamer ,NA,NA,NA,NA
@@ -1273,10 +1273,10 @@ Puppendorfer Privatweg,NA,NA,Puppendorfer Privat,NA,NA,NA,NA
 Puppendorfer Weg,NA,NA,Puppendorfer ,NA,NA,NA,NA
 Quedlinburger Straße,NA,NA,Quedlinburger ,NA,NA,NA,NA
 Quenstedter Straße,NA,NA,Quenstedter ,NA,NA,NA,NA
-Querstraße,male,NA,Quer,José Quer y Martínez,+1695-01-26T00:00:00Z,+1764-03-19T00:00:00Z,sodium
+Querstraße,männlich,NA,Quer,José Quer y Martínez,+1695-01-26T00:00:00Z,+1764-03-19T00:00:00Z,NA
 Quittenweg,NA,NA,Quitten,NA,NA,NA,NA
-Rabenweg,male,deutscher Botaniker,Raben,Gottlob Ludwig Rabenhorst,+1806-03-22T00:00:00Z,+1881-04-24T00:00:00Z,sodium
-Rademacherweg,male,Informatiker und Fotograf aus Hannover,Rademacher,Tim Rademacher,NA,NA,sodium
+Rabenweg,NA,NA,Raben,NA,NA,NA,NA
+Rademacherweg,NA,NA,Rademacher,NA,NA,NA,NA
 Radomer Straße,NA,NA,Radomer ,NA,NA,NA,NA
 Raguhner Straße,NA,NA,Raguhner ,NA,NA,NA,NA
 Raiffeisenstraße,NA,NA,Raiffeisen,NA,NA,NA,NA
@@ -1284,47 +1284,47 @@ Randauer Dorfstraße,NA,NA,Randauer Dorf,NA,NA,NA,NA
 Randauer Straße,NA,NA,Randauer ,NA,NA,NA,NA
 Ranieser Weg,NA,NA,Ranieser ,NA,NA,NA,NA
 Rapsbreite,NA,NA,Rapsbreite,NA,NA,NA,NA
-Rathmannstraße,male,US-amerikanischer Rennfahrer,Rathmann,Jim Rathmann,+1928-07-16T00:00:00Z,+2011-11-23T00:00:00Z,sodium
+Rathmannstraße,NA,NA,Rathmann,NA,NA,NA,NA
 Ratswaageplatz,NA,NA,Ratswaage,NA,NA,NA,NA
 Rautenbreite,NA,NA,Rautenbreite,NA,NA,NA,NA
 Ravensbergstraße,NA,NA,Ravensberg,NA,NA,NA,NA
-Rebenweg,male,amerikanischer Musiker und Produzent,Reben,Dr. John,+1941-11-21T00:00:00Z,+2019-06-06T00:00:00Z,sodium
+Rebenweg,männlich,amerikanischer Musiker und Produzent,Reben,Dr. John,+1941-11-21T00:00:00Z,+2019-06-06T00:00:00Z,NA
 Rebhuhnweg,NA,NA,Rebhuhn,NA,NA,NA,NA
 Regierungsstraße,NA,NA,Regierungs,NA,NA,NA,NA
-Reichelstraße,male,deutscher Arzt und Botaniker,Reichel,Georg Christian Reichel,+1721-00-00T00:00:00Z,+1771-00-00T00:00:00Z,sodium
+Reichelstraße,männlich,deutscher Arzt und Botaniker,Reichel,Georg Christian Reichel,+1721-00-00T00:00:00Z,+1771-00-00T00:00:00Z,NA
 Reichweinstraße,NA,NA,Reichwein,NA,NA,NA,NA
 Reihersteg,NA,NA,Reihersteg,NA,NA,NA,NA
-Reimarusweg,male,deutscher Astronom und kaiserlicher Hofmathematiker,Reimarus,Nicolaus Reimers,+1551-02-02T00:00:00Z,+1600-10-16T00:00:00Z,sodium
-Reinhard-Lakomy-Straße,male,"deutscher Komponist, Pianist und Sänger",Reinhard Lakomy ,Reinhard Lakomy,+1946-01-19T00:00:00Z,+2013-03-23T00:00:00Z,sodium
-Reinhard-Mannesmann-Weg,male,deutscher Erfinder und Unternehmer,Reinhard Mannesmann ,Reinhard Mannesmann,+1856-05-13T00:00:00Z,+1922-02-20T00:00:00Z,sodium
+Reimarusweg,männlich,deutscher Astronom und kaiserlicher Hofmathematiker,Reimarus,Nicolaus Reimers,+1551-02-02T00:00:00Z,+1600-10-16T00:00:00Z,NA
+Reinhard-Lakomy-Straße,männlich,"deutscher Komponist, Pianist und Sänger",Reinhard Lakomy ,Reinhard Lakomy,+1946-01-19T00:00:00Z,+2013-03-23T00:00:00Z,NA
+Reinhard-Mannesmann-Weg,männlich,deutscher Erfinder und Unternehmer,Reinhard Mannesmann ,Reinhard Mannesmann,+1856-05-13T00:00:00Z,+1922-02-20T00:00:00Z,NA
 Reiterweg,NA,NA,Reiter,NA,NA,NA,NA
-Rembrandtweg,male,niederländischer Maler und Kupferstecher,Rembrandt,Rembrandt,+1606-07-15T00:00:00Z,+1669-10-04T00:00:00Z,Dutch
+Rembrandtweg,männlich,niederländischer Maler und Kupferstecher,Rembrandt,Rembrandt,+1606-07-15T00:00:00Z,+1669-10-04T00:00:00Z,Niederländer
 Remkersleber Weg,NA,NA,Remkersleber ,NA,NA,NA,NA
 Remtergang,NA,NA,Remtergang,NA,NA,NA,NA
 Rennebogen,NA,NA,Rennebogen,NA,NA,NA,NA
 Rennetal,NA,NA,Rennetal,NA,NA,NA,NA
 Renneweg,NA,NA,Renne,NA,NA,NA,NA
 Repkowstraße,NA,NA,Repkow,NA,NA,NA,NA
-Resedaweg,female,NA,Reseda,Rezeda Ishkaeva,NA,NA,sodium
-Resewitzstraße,male,Pädagoge und Bildungspolitiker,Resewitz,Friedrich Gabriel Resewitz,+1729-03-09T00:00:00Z,+1806-10-30T00:00:00Z,sodium
-Rettelbuschweg,male,deutscher Maler,Rettelbusch,Adolf Rettelbusch,+1858-12-15T00:00:00Z,+1934-01-08T00:00:00Z,sodium
+Resedaweg,NA,NA,Reseda,NA,NA,NA,NA
+Resewitzstraße,männlich,Pädagoge und Bildungspolitiker,Resewitz,Friedrich Gabriel Resewitz,+1729-03-09T00:00:00Z,+1806-10-30T00:00:00Z,NA
+Rettelbuschweg,männlich,deutscher Maler,Rettelbusch,Adolf Rettelbusch,+1858-12-15T00:00:00Z,+1934-01-08T00:00:00Z,NA
 Richard-Bodendorf-Straße,NA,NA,Richard Bodendorf ,NA,NA,NA,NA
 Richard-Dembny-Straße,NA,NA,Richard Dembny ,NA,NA,NA,NA
-Richard-Wagner-Straße,male,"deutscher Komponist, Dramatiker, Philosoph, Dichter, Schriftsteller, Theaterregisseur und Dirigent",Richard Wagner ,Richard Wagner,+1813-05-22T00:00:00Z,+1883-02-13T00:00:00Z,Germans
+Richard-Wagner-Straße,männlich,"deutscher Komponist, Dramatiker, Philosoph, Dichter, Schriftsteller, Theaterregisseur und Dirigent",Richard Wagner ,Richard Wagner,+1813-05-22T00:00:00Z,+1883-02-13T00:00:00Z,Deutsche
 Ringfurther Weg,NA,NA,further ,NA,NA,NA,NA
 Ritterstraße,NA,NA,Ritter,NA,NA,NA,NA
-Robert-Koch-Straße,male,deutscher Mediziner und Mikrobiologe (1843–1910),Robert Koch ,Robert Koch,+1843-12-11T00:00:00Z,+1910-05-27T00:00:00Z,Germans
-Robert-Mayer-Straße,male,deutscher Arzt und Physiker,Robert Mayer ,Julius von Mayer,+1814-11-25T00:00:00Z,+1878-03-20T00:00:00Z,sodium
-Robert-Seitz-Straße,male,deutscher Schriftsteller,Robert Seitz ,Robert Seitz,+1891-09-28T00:00:00Z,+1938-04-29T00:00:00Z,sodium
+Robert-Koch-Straße,männlich,deutscher Mediziner und Mikrobiologe (1843–1910),Robert Koch ,Robert Koch,+1843-12-11T00:00:00Z,+1910-05-27T00:00:00Z,Deutsche
+Robert-Mayer-Straße,männlich,deutscher Arzt und Physiker,Robert Mayer ,Julius von Mayer,+1814-11-25T00:00:00Z,+1878-03-20T00:00:00Z,NA
+Robert-Seitz-Straße,männlich,deutscher Schriftsteller,Robert Seitz ,Robert Seitz,+1891-09-28T00:00:00Z,+1938-04-29T00:00:00Z,NA
 Robinienstraße,NA,NA,Robinien,NA,NA,NA,NA
-Rödelstraße,male,deutscher Herpetologe,Rödel,Mark-Oliver Rödel,+1965-00-00T00:00:00Z,NA,sodium
+Rödelstraße,männlich,deutscher Herpetologe,Rödel,Mark-Oliver Rödel,+1965-00-00T00:00:00Z,NA,NA
 Rodensleber Weg,NA,NA,Rodensleber ,NA,NA,NA,NA
 Rogätzer Straße,NA,NA,Rogätzer ,NA,NA,NA,NA
 Roggengrund,NA,NA,Roggengrund,NA,NA,NA,NA
 Rohrdommelweg,NA,NA,Rohrdommel,NA,NA,NA,NA
 Rohrgrundstraße,NA,NA,Rohrgrund,NA,NA,NA,NA
 Rohrlaken-Privatweg,NA,NA,Rohrlaken Privat,NA,NA,NA,NA
-Rolf-Herricht-Straße,male,deutscher Schauspieler und Komiker,Rolf Herricht ,Rolf Herricht,+1927-10-05T00:00:00Z,+1981-08-23T00:00:00Z,sodium
+Rolf-Herricht-Straße,männlich,deutscher Schauspieler und Komiker,Rolf Herricht ,Rolf Herricht,+1927-10-05T00:00:00Z,+1981-08-23T00:00:00Z,NA
 Rollenhagenstraße,NA,NA,Rollenhagen,NA,NA,NA,NA
 Rollestraße,NA,NA,Rolle,NA,NA,NA,NA
 Röntgenstraße,NA,NA,Röntgen,NA,NA,NA,NA
@@ -1333,30 +1333,30 @@ Rose-Privatweg,NA,NA,Rose Privat,NA,NA,NA,NA
 Roseggerstraße,NA,NA,Rosegger,NA,NA,NA,NA
 Roseneck,NA,NA,Roseneck,NA,NA,NA,NA
 Rosengrund,NA,NA,Rosengrund,NA,NA,NA,NA
-Rosenstraße,male,US-amerikanischer Fischkundler (1929–1986),Rosen,Donn E. Rosen,+1929-00-00T00:00:00Z,+1986-09-14T00:00:00Z,sodium
-Rosenthalstraße,male,NA,Rosenthal,David August Rosenthal,+1821-01-01T00:00:00Z,+1875-01-01T00:00:00Z,sodium
-Rosenweg,male,US-amerikanischer Fischkundler (1929–1986),Rosen,Donn E. Rosen,+1929-00-00T00:00:00Z,+1986-09-14T00:00:00Z,sodium
+Rosenstraße,männlich,US-amerikanischer Fischkundler (1929–1986),Rosen,Donn E. Rosen,+1929-00-00T00:00:00Z,+1986-09-14T00:00:00Z,NA
+Rosenthalstraße,NA,NA,Rosenthal,NA,NA,NA,NA
+Rosenweg,männlich,US-amerikanischer Fischkundler (1929–1986),Rosen,Donn E. Rosen,+1929-00-00T00:00:00Z,+1986-09-14T00:00:00Z,NA
 Rosmarinweg,NA,NA,Rosmarin,NA,NA,NA,NA
 Rostocker Straße,NA,NA,Rostocker ,NA,NA,NA,NA
 Rotdornweg,NA,NA,Rotdorn,NA,NA,NA,NA
 Roteisenweg,NA,NA,Roteisen,NA,NA,NA,NA
 Rote Mühle,NA,NA,Rote Mühle,NA,NA,NA,NA
-Rötgerstraße,male,schwedischer Feldmarschall,Rötger,Rutger von Ascheberg,+1621-06-02T00:00:00Z,+1693-04-17T00:00:00Z,sodium
+Rötgerstraße,männlich,schwedischer Feldmarschall,Rötger,Rutger von Ascheberg,+1621-06-02T00:00:00Z,+1693-04-17T00:00:00Z,NA
 Rothenseer Gartenweg,NA,NA,Rothenseer Garten,NA,NA,NA,NA
 Rothenseer Privatweg,NA,NA,Rothenseer Privat,NA,NA,NA,NA
 Rothenseer Straße,NA,NA,Rothenseer ,NA,NA,NA,NA
 Rothenseer Weg,NA,NA,Rothenseer ,NA,NA,NA,NA
-Röthestraße,male,NA,Röthe,Heinrich August Rothe,NA,NA,sodium
+Röthestraße,NA,NA,Röthe,NA,NA,NA,NA
 Rotkehlchenstraße,NA,NA,Rotkehlchen,NA,NA,NA,NA
 Rottersdorfer Straße,NA,NA,Rottersdorfer ,NA,NA,NA,NA
-Rotweg,male,russisch-amerikanischer Maler,Rot,Mark Rothko,+1903-09-25T00:00:00Z,+1970-02-25T00:00:00Z,sodium
-Rousseaustraße,male,französischsprachiger Philosoph und Schriftsteller,Rousseau,Jean-Jacques Rousseau,+1712-06-28T00:00:00Z,+1778-07-02T00:00:00Z,sodium
+Rotweg,NA,NA,Rot,NA,NA,NA,NA
+Rousseaustraße,männlich,französischsprachiger Philosoph und Schriftsteller,Rousseau,Jean-Jacques Rousseau,+1712-06-28T00:00:00Z,+1778-07-02T00:00:00Z,NA
 Rübeländer Weg,NA,NA,Rübeländer ,NA,NA,NA,NA
 Rübengrund,NA,NA,Rübengrund,NA,NA,NA,NA
-Rubensweg,male,flämischer Barockmaler,Rubens,Peter Paul Rubens,+1577-06-28T00:00:00Z,+1640-05-30T00:00:00Z,sodium
-Rückertstraße,male,"Arzt, medizinischer Schriftsteller und Übersetzer",Rückert,Ernst Ferdinand Rückert,+1794-01-01T00:00:00Z,+1843-01-01T00:00:00Z,sodium
-Rudolf-Wolf-Straße,male,Schweizer Astronom und Mathematiker,Rudolf Wolf ,Rudolf Wolf,+1816-07-07T00:00:00Z,+1893-12-06T00:00:00Z,sodium
-Rungeweg,male,deutscher Maler der Romantik,Runge,Philipp Otto Runge,+1777-07-23T00:00:00Z,+1810-12-02T00:00:00Z,Germans
+Rubensweg,männlich,flämischer Barockmaler,Rubens,Peter Paul Rubens,+1577-06-28T00:00:00Z,+1640-05-30T00:00:00Z,NA
+Rückertstraße,männlich,"Arzt, medizinischer Schriftsteller und Übersetzer",Rückert,Ernst Ferdinand Rückert,+1794-01-01T00:00:00Z,+1843-01-01T00:00:00Z,NA
+Rudolf-Wolf-Straße,männlich,Schweizer Astronom und Mathematiker,Rudolf Wolf ,Rudolf Wolf,+1816-07-07T00:00:00Z,+1893-12-06T00:00:00Z,NA
+Rungeweg,männlich,deutscher Maler der Romantik,Runge,Philipp Otto Runge,+1777-07-23T00:00:00Z,+1810-12-02T00:00:00Z,Deutsche
 Rüsternweg,NA,NA,Rüstern,NA,NA,NA,NA
 Saalestraße,NA,NA,Saale,NA,NA,NA,NA
 Saalfelder Straße,NA,NA,Saalfelder ,NA,NA,NA,NA
@@ -1367,10 +1367,10 @@ Salbeiweg,NA,NA,Salbei,NA,NA,NA,NA
 Salbker Chaussee,NA,NA,Salbker e,NA,NA,NA,NA
 Salbker Straße,NA,NA,Salbker ,NA,NA,NA,NA
 Salchauer Straße,NA,NA,Salchauer ,NA,NA,NA,NA
-Salvador-Allende-Straße,male,Arzt und von 1970 bis 1973 Präsident Chiles,Salvador Allende ,Salvador Allende,+1908-06-26T00:00:00Z,+1973-09-11T00:00:00Z,Chileans
-Salzmannstraße,male,deutscher Kunstflieger,Salzmann,Wilhelm Düerkop,+1928-06-30T00:00:00Z,+2019-09-29T00:00:00Z,sodium
+Salvador-Allende-Straße,männlich,Arzt und von 1970 bis 1973 Präsident Chiles,Salvador Allende ,Salvador Allende,+1908-06-26T00:00:00Z,+1973-09-11T00:00:00Z,Chilenen
+Salzmannstraße,männlich,deutscher Kunstflieger,Salzmann,Wilhelm Düerkop,+1928-06-30T00:00:00Z,+2019-09-29T00:00:00Z,NA
 Salzwedeler Straße,NA,NA,Salzwedeler ,NA,NA,NA,NA
-Samsweger Straße,male,NA,Samser ,Samser,NA,NA,sodium
+Samsweger Straße,männlich,NA,Samser ,Samser,NA,NA,NA
 Sandbreite,NA,NA,Sandbreite,NA,NA,NA,NA
 Sanddornweg,NA,NA,Sanddorn,NA,NA,NA,NA
 Sandgrubenweg,NA,NA,Sandgruben,NA,NA,NA,NA
@@ -1379,7 +1379,7 @@ Sandtorstraße,NA,NA,Sandtor,NA,NA,NA,NA
 Sarajevo-Ufer,NA,NA,Sarajevo Ufer,NA,NA,NA,NA
 Saturnweg,NA,NA,Saturn,NA,NA,NA,NA
 Sauerampferweg,NA,NA,Sauerampfer,NA,NA,NA,NA
-Schadowstraße,male,kroatischer Reiterobrist,Schadow,Johann Schadowitz,+1624-01-01T00:00:00Z,+1704-05-29T00:00:00Z,sodium
+Schadowstraße,NA,NA,Schadow,NA,NA,NA,NA
 Schafanger,NA,NA,Schafanger,NA,NA,NA,NA
 Schäferbreite,NA,NA,Schäferbreite,NA,NA,NA,NA
 Schäfferstraße,NA,NA,Schäffer,NA,NA,NA,NA
@@ -1387,23 +1387,23 @@ Schafgarbenweg,NA,NA,Schafgarben,NA,NA,NA,NA
 Schafwäsche,NA,NA,Schafwäsche,NA,NA,NA,NA
 Schanzenweg,NA,NA,Schanzen,NA,NA,NA,NA
 Scharnhorstring,NA,NA,Scharnhorst,NA,NA,NA,NA
-Schartaustraße,male,"schwedischer Pastor, Prediger und Initiator einer schwedischen Erweckungsbewegung, des sog. Schartauanismus",Schartau,Henric Schartau,+1757-09-27T00:00:00Z,+1825-02-03T00:00:00Z,sodium
+Schartaustraße,NA,NA,Schartau,NA,NA,NA,NA
 Schawinskyweg,NA,NA,Schawinsky,NA,NA,NA,NA
-Scheelestraße,male,deutscher Pfarrer und Botaniker (1808–1864),Scheele,George Heinrich Adolf Scheele,+1808-01-01T00:00:00Z,+1864-01-01T00:00:00Z,sodium
+Scheelestraße,männlich,deutscher Pfarrer und Botaniker (1808–1864),Scheele,George Heinrich Adolf Scheele,+1808-01-01T00:00:00Z,+1864-01-01T00:00:00Z,NA
 Scheffel-Privatstraße,NA,NA,Scheffel Privat,NA,NA,NA,NA
 Scheidebuschstraße,NA,NA,Scheidebusch,NA,NA,NA,NA
-Schellheimerplatz,male,deutscher Widerstandskämpfer,Schellheimer,Johann Schellheimer,+1899-02-18T00:00:00Z,+1945-02-05T00:00:00Z,sodium
-Schellingstraße,male,deutscher Philosoph und einer der Hauptvertreter des Deutschen Idealismus,Schelling,Friedrich Wilhelm Joseph Schelling,+1775-01-27T00:00:00Z,+1854-08-20T00:00:00Z,sodium
-Schenkendorfstraße,male,NA,Schenkendorf,Schenkendorf Thomas,NA,NA,sodium
+Schellheimerplatz,männlich,deutscher Widerstandskämpfer,Schellheimer,Johann Schellheimer,+1899-02-18T00:00:00Z,+1945-02-05T00:00:00Z,NA
+Schellingstraße,männlich,deutscher Philosoph und einer der Hauptvertreter des Deutschen Idealismus,Schelling,Friedrich Wilhelm Joseph Schelling,+1775-01-27T00:00:00Z,+1854-08-20T00:00:00Z,NA
+Schenkendorfstraße,NA,NA,Schenkendorf,NA,NA,NA,NA
 Scherbenwinkel,NA,NA,Scherbenwinkel,NA,NA,NA,NA
 Schermcker Weg,NA,NA,Schermcker ,NA,NA,NA,NA
-Scheyringstraße,male,Sultan der Mamluken in Ägypten (1412–1421),Schey,Shaykh al-Mahmudi,+1369-01-01T00:00:00Z,+1421-01-14T00:00:00Z,sodium
+Scheyringstraße,NA,NA,Schey,NA,NA,NA,NA
 Schierker Straße,NA,NA,Schierker ,NA,NA,NA,NA
-Schifferstraße,male,österreichischer Landschaftsmaler,Schiffer,Anton Schiffer,+1811-08-18T00:00:00Z,+1876-06-13T00:00:00Z,sodium
+Schifferstraße,männlich,österreichischer Landschaftsmaler,Schiffer,Anton Schiffer,+1811-08-18T00:00:00Z,+1876-06-13T00:00:00Z,NA
 Schiffshebewerk,NA,NA,Schiffshebewerk,NA,NA,NA,NA
 Schilfbreite,NA,NA,Schilfbreite,NA,NA,NA,NA
-Schillerstraße,male,"deutscher Dichter, Philosoph und Historiker (1759–1805)",Schiller,Friedrich Schiller,+1759-11-10T00:00:00Z,+1805-05-09T00:00:00Z,Germans
-Schillerweg,male,"deutscher Dichter, Philosoph und Historiker (1759–1805)",Schiller,Friedrich Schiller,+1759-11-10T00:00:00Z,+1805-05-09T00:00:00Z,Germans
+Schillerstraße,männlich,"deutscher Dichter, Philosoph und Historiker (1759–1805)",Schiller,Friedrich Schiller,+1759-11-10T00:00:00Z,+1805-05-09T00:00:00Z,Deutsche
+Schillerweg,männlich,"deutscher Dichter, Philosoph und Historiker (1759–1805)",Schiller,Friedrich Schiller,+1759-11-10T00:00:00Z,+1805-05-09T00:00:00Z,Deutsche
 Schinkelstraße,NA,NA,Schinkel,NA,NA,NA,NA
 Schlachthofstraße,NA,NA,Schlachthof,NA,NA,NA,NA
 Schlachthofweg,NA,NA,Schlachthof,NA,NA,NA,NA
@@ -1415,8 +1415,8 @@ Schleinufer,NA,NA,Schleinufer,NA,NA,NA,NA
 Schleswiger Straße,NA,NA,Schleswiger ,NA,NA,NA,NA
 Schleusenstraße,NA,NA,Schleusen,NA,NA,NA,NA
 Schloßstraße,NA,NA,Schloß,NA,NA,NA,NA
-Schmeilstraße,male,"deutscher Biologe, Pädagoge und Autor",Schmeil,Otto Schmeil,+1860-02-03T00:00:00Z,+1943-02-03T00:00:00Z,sodium
-Schmidtstraße,male,US-amerikanischer Herpetologe,Schmidt,Karl Patterson Schmidt,+1890-06-19T00:00:00Z,+1957-09-26T00:00:00Z,sodium
+Schmeilstraße,männlich,"deutscher Biologe, Pädagoge und Autor",Schmeil,Otto Schmeil,+1860-02-03T00:00:00Z,+1943-02-03T00:00:00Z,NA
+Schmidtstraße,männlich,US-amerikanischer Herpetologe,Schmidt,Karl Patterson Schmidt,+1890-06-19T00:00:00Z,+1957-09-26T00:00:00Z,NA
 Schmiedestraße,NA,NA,Schmiede,NA,NA,NA,NA
 Schnarsleber Straße,NA,NA,Schnarsleber ,NA,NA,NA,NA
 Schnarsleber Weg,NA,NA,Schnarsleber ,NA,NA,NA,NA
@@ -1425,9 +1425,9 @@ Schneidlinger Straße,NA,NA,Schneidlinger ,NA,NA,NA,NA
 Schönebecker Chaussee,NA,NA,Schönebecker e,NA,NA,NA,NA
 Schönebecker Straße,NA,NA,Schönebecker ,NA,NA,NA,NA
 Schöninger Straße,NA,NA,Schöninger ,NA,NA,NA,NA
-Schopenhauerstraße,male,deutscher Philosoph,Schopenhauer,Arthur Schopenhauer,+1788-02-22T00:00:00Z,+1860-09-21T00:00:00Z,sodium
+Schopenhauerstraße,männlich,deutscher Philosoph,Schopenhauer,Arthur Schopenhauer,+1788-02-22T00:00:00Z,+1860-09-21T00:00:00Z,NA
 Schöppensteg,NA,NA,Schöppensteg,NA,NA,NA,NA
-Schreberstraße,male,deutscher Mediziner und Naturforscher,Schreber,Johann Christian Daniel von Schreber,+1739-01-17T00:00:00Z,+1810-12-10T00:00:00Z,sodium
+Schreberstraße,männlich,deutscher Mediziner und Naturforscher,Schreber,Johann Christian Daniel von Schreber,+1739-01-17T00:00:00Z,+1810-12-10T00:00:00Z,NA
 Schrotebogen,NA,NA,Schrotebogen,NA,NA,NA,NA
 Schulstraße,NA,NA,Schul,NA,NA,NA,NA
 Schulzentorstraße,NA,NA,Schulzentor,NA,NA,NA,NA
@@ -1436,8 +1436,8 @@ Schwalbenweg,NA,NA,Schwalben,NA,NA,NA,NA
 Schwaneberger Weg,NA,NA,Schwaneberger ,NA,NA,NA,NA
 Schwanen-Privatweg,NA,NA,Schwanen Privat,NA,NA,NA,NA
 Schwanstraße,NA,NA,Schwan,NA,NA,NA,NA
-Schwantesstraße,male,deutscher Archäologe und Botaniker,Schwantes,Martin Heinrich Gustav Schwantes,+1881-09-18T00:00:00Z,+1960-11-17T00:00:00Z,Germans
-Schwarzer Weg,male,NA,Schwarzer ,Carl Ferdinand Schwarzer,+1829-01-01T00:00:00Z,+1870-01-01T00:00:00Z,sodium
+Schwantesstraße,männlich,deutscher Archäologe und Botaniker,Schwantes,Martin Heinrich Gustav Schwantes,+1881-09-18T00:00:00Z,+1960-11-17T00:00:00Z,Deutsche
+Schwarzer Weg,NA,NA,Schwarzer ,NA,NA,NA,NA
 Schwarzkopfweg,NA,NA,Schwarzkopf,NA,NA,NA,NA
 Schweriner Straße,NA,NA,Schweriner ,NA,NA,NA,NA
 Schwertfegergasse,NA,NA,Schwertfegergasse,NA,NA,NA,NA
@@ -1449,10 +1449,10 @@ Seepark,NA,NA,Seepark,NA,NA,NA,NA
 Seestraße,NA,NA,See,NA,NA,NA,NA
 Seeweg,NA,NA,See,NA,NA,NA,NA
 Seilerweg,NA,NA,Seiler,NA,NA,NA,NA
-Selkeweg,male,US-amerikanischer Informatiker,Selke,Ted Selker,+1956-09-04T00:00:00Z,NA,sodium
-Semmelweisstraße,male,ungarischer Chirurg und Geburtshelfer (1818-1865),Semmelweis,Ignaz Semmelweis,+1818-07-01T00:00:00Z,+1865-08-13T00:00:00Z,sodium
+Selkeweg,NA,NA,Selke,NA,NA,NA,NA
+Semmelweisstraße,NA,NA,Semmelweis,NA,NA,NA,NA
 Seumestraße,NA,NA,Seume,NA,NA,NA,NA
-Sichelweg,male,"französischer Mediziner, Entomologe, Archäologe und Philologe",Sichel,Frédéric Jules Sichel,+1802-05-14T00:00:00Z,+1868-11-11T00:00:00Z,sodium
+Sichelweg,NA,NA,Sichel,NA,NA,NA,NA
 Sickingenstraße,NA,NA,Sickingen,NA,NA,NA,NA
 Siedefeld-Privatweg,NA,NA,Siedefeld Privat,NA,NA,NA,NA
 Siedlerweg,NA,NA,Siedler,NA,NA,NA,NA
@@ -1461,9 +1461,9 @@ Siedlung Baumschule,NA,NA, Baumschule,NA,NA,NA,NA
 Sieverstorstraße,NA,NA,Sieverstor,NA,NA,NA,NA
 Silberbergweg,NA,NA,Silberberg,NA,NA,NA,NA
 Silberschlagstraße,NA,NA,Silberschlag,NA,NA,NA,NA
-Simonstraße,male,französischer Arachnologe,Simon,Eugène Simon,+1848-04-30T00:00:00Z,+1924-11-17T00:00:00Z,sodium
-Siriusweg,male,NA,Sirius,Sirius,+1911-09-26T00:00:00Z,+1997-05-01T00:00:00Z,sodium
-Skorpionstraße,male,altägyptischer König aus der vordynastischen Zeit,Skorpion,King Scorpion,-3500-00-00T00:00:00Z,NA,sodium
+Simonstraße,männlich,französischer Arachnologe,Simon,Eugène Simon,+1848-04-30T00:00:00Z,+1924-11-17T00:00:00Z,NA
+Siriusweg,männlich,NA,Sirius,Sirius,+1911-09-26T00:00:00Z,+1997-05-01T00:00:00Z,NA
+Skorpionstraße,männlich,altägyptischer König aus der vordynastischen Zeit,Skorpion,King Scorpion,-3500-00-00T00:00:00Z,NA,NA
 Sohlener Hauptstraße,NA,NA,Sohlener Haupt,NA,NA,NA,NA
 Sohlener Mittelstraße,NA,NA,Sohlener Mittel,NA,NA,NA,NA
 Sohlener Mühlenweg,NA,NA,Sohlener Mühlen,NA,NA,NA,NA
@@ -1472,20 +1472,20 @@ Sojusstraße,NA,NA,Sojus,NA,NA,NA,NA
 Sommersdorfer Weg,NA,NA,Sommersdorfer ,NA,NA,NA,NA
 Sonnenallee,NA,NA,Sonnenallee,NA,NA,NA,NA
 Sonnensteig,NA,NA,Sonnensteig,NA,NA,NA,NA
-Sophienstraße,male,NA,Sophien,Sophien Kamoun,+1965-12-08T00:00:00Z,NA,sodium
-Spechtweg,male,australischer Botaniker,Specht,Raymond Specht,+1924-01-01T00:00:00Z,+2021-02-13T00:00:00Z,sodium
+Sophienstraße,NA,NA,Sophien,NA,NA,NA,NA
+Spechtweg,männlich,australischer Botaniker,Specht,Raymond Specht,+1924-01-01T00:00:00Z,+2021-02-13T00:00:00Z,NA
 Speicherstraße,NA,NA,Speicher,NA,NA,NA,NA
-Sperberweg,male,deutscher Badmintonspieler,Sperber,Sperber,+1950-00-00T00:00:00Z,NA,sodium
-Sperlingweg,male,NA,Sperling,Calvin Ross Sperling,+1957-01-01T00:00:00Z,+1995-01-01T00:00:00Z,sodium
+Sperberweg,männlich,deutscher Badmintonspieler,Sperber,Sperber,+1950-00-00T00:00:00Z,NA,NA
+Sperlingweg,männlich,NA,Sperling,Calvin Ross Sperling,+1957-01-01T00:00:00Z,+1995-01-01T00:00:00Z,NA
 Spielgarten-Privatweg,NA,NA,Spielgarten Privat,NA,NA,NA,NA
-Spielhagenstraße,male,deutscher Schriftsteller,Spielhagen,Friedrich Spielhagen,+1829-02-24T00:00:00Z,+1911-02-25T00:00:00Z,sodium
+Spielhagenstraße,NA,NA,Spielhagen,NA,NA,NA,NA
 Springe,NA,NA,Spe,NA,NA,NA,NA
 Sputnikstraße,NA,NA,Sputnik,NA,NA,NA,NA
 St.-Josef-Straße,NA,NA,St. Josef ,NA,NA,NA,NA
 St.-Laurentius-Weg,NA,NA,St. Laurentius ,NA,NA,NA,NA
 St.-Maria-Hilf-Straße,NA,NA,St. Maria Hilf ,NA,NA,NA,NA
 St.-Michael-Straße,NA,NA,St. Michael ,NA,NA,NA,NA
-St.-Stephani-Straße,female,Märtyrin und Heilige,St. Stephani ,Corono,+0160-00-00T00:00:00Z,+0177-00-00T00:00:00Z,sodium
+St.-Stephani-Straße,NA,NA,St. Stephani ,NA,NA,NA,NA
 Stadtparkstraße,NA,NA,Stadtpark,NA,NA,NA,NA
 Stadtweg,NA,NA,Stadt,NA,NA,NA,NA
 Staßfurter Straße,NA,NA,Staßfurter ,NA,NA,NA,NA
@@ -1496,7 +1496,7 @@ Steinbockstraße,NA,NA,Steinbock,NA,NA,NA,NA
 Steinbruchweg,NA,NA,Steinbruch,NA,NA,NA,NA
 Steindamm,NA,NA,Steindamm,NA,NA,NA,NA
 Steindamm-Privatweg,NA,NA,Steindamm Privat,NA,NA,NA,NA
-Steinigstraße,male,deutscher Biathlet,Steinig,Jens Steinigen,+1966-09-02T00:00:00Z,NA,sodium
+Steinigstraße,NA,NA,Steinig,NA,NA,NA,NA
 Steinlaken-Privatweg,NA,NA,Steinlaken Privat,NA,NA,NA,NA
 Steinkopfinsel,NA,NA,Steinkopfinsel,NA,NA,NA,NA
 Steinweg,NA,NA,Stein,NA,NA,NA,NA
@@ -1512,9 +1512,9 @@ Stettiner Weg,NA,NA,Stettiner ,NA,NA,NA,NA
 Steubenallee,NA,NA,Steubenallee,NA,NA,NA,NA
 Stichlerweg,NA,NA,Stichler,NA,NA,NA,NA
 Stieglitzweg,NA,NA,Stieglitz,NA,NA,NA,NA
-Stockmannweg,male,"deutscher Maler, Zeichner und Illustrator",Stockmann,Hermann Stockmann,+1867-04-28T00:00:00Z,+1938-12-25T00:00:00Z,sodium
+Stockmannweg,NA,NA,Stockmann,NA,NA,NA,NA
 Stolberger Straße,NA,NA,Stolberger ,NA,NA,NA,NA
-Stolzestraße,male,NA,Stolze,Robert G. Stolze,+1927-01-01T00:00:00Z,NA,sodium
+Stolzestraße,männlich,NA,Stolze,Robert G. Stolze,+1927-01-01T00:00:00Z,NA,NA
 Storchenweg,NA,NA,Storchen,NA,NA,NA,NA
 Stormstraße,NA,NA,Storm,NA,NA,NA,NA
 Stralsunder Straße,NA,NA,Stralsunder ,NA,NA,NA,NA
@@ -1527,10 +1527,10 @@ Straße F,NA,NA, F,NA,NA,NA,NA
 Straße G,NA,NA, G,NA,NA,NA,NA
 Straße H,NA,NA, H,NA,NA,NA,NA
 Stresemannstraße,NA,NA,Stresemann,NA,NA,NA,NA
-Struvestraße,male,NA,Struve,Gustav Adolph Struve,+1811-01-01T00:00:00Z,+1889-01-01T00:00:00Z,sodium
+Struvestraße,männlich,NA,Struve,Gustav Adolph Struve,+1811-01-01T00:00:00Z,+1889-01-01T00:00:00Z,NA
 Sudenburger Straße,NA,NA,Sudenburger ,NA,NA,NA,NA
 Sudenburger Wuhne,NA,NA,Sudenburger Wuhne,NA,NA,NA,NA
-Sudermannstraße,male,deutscher Schriftsteller und Dramatiker,Sudermann,Hermann Sudermann,+1857-09-30T00:00:00Z,+1928-11-21T00:00:00Z,sodium
+Sudermannstraße,NA,NA,Sudermann,NA,NA,NA,NA
 Suderöder Weg,NA,NA,Suderöder ,NA,NA,NA,NA
 Südring,NA,NA,Süd,NA,NA,NA,NA
 Südstraße,NA,NA,Süd,NA,NA,NA,NA
@@ -1547,49 +1547,49 @@ Tangerhütter Weg,NA,NA,Tangerhütter ,NA,NA,NA,NA
 Tangermünder Straße,NA,NA,Tangermünder ,NA,NA,NA,NA
 Tannenweg,NA,NA,Tannen,NA,NA,NA,NA
 Tarthuner Weg,NA,NA,Tarthuner ,NA,NA,NA,NA
-Tassostraße,male,deutscher Graffiti-Künstler,Tasso,Jens Müller,+1966-07-23T00:00:00Z,NA,sodium
+Tassostraße,NA,NA,Tasso,NA,NA,NA,NA
 Taubenweg,NA,NA,Tauben,NA,NA,NA,NA
 1.Teich-Privatweg,NA,NA,1.Teich Privat,NA,NA,NA,NA
 2.Teich-Privatweg,NA,NA,2.Teich Privat,NA,NA,NA,NA
 Teichstraße,NA,NA,Teich,NA,NA,NA,NA
-Telemannstraße,male,deutscher Komponist,Telemann,Georg Philipp Telemann,+1681-03-14T00:00:00Z,+1767-06-25T00:00:00Z,sodium
-Tessenowstraße,male,deutscher Architekt und Hochschullehrer,Tessenow,Heinrich Tessenow,+1876-04-07T00:00:00Z,+1950-11-01T00:00:00Z,sodium
+Telemannstraße,männlich,deutscher Komponist,Telemann,Georg Philipp Telemann,+1681-03-14T00:00:00Z,+1767-06-25T00:00:00Z,NA
+Tessenowstraße,NA,NA,Tessenow,NA,NA,NA,NA
 Thauberg,NA,NA,Thauberg,NA,NA,NA,NA
-Theodor-Kozlowski-Straße,male,Elbstrombaudirektor,Theodor Kozlowski ,Theodor Kozlowski,+1824-01-05T00:00:00Z,+1905-11-24T00:00:00Z,sodium
-Thieberg,male,"österreichischer Reliogionsphilosoph und Judaist, Publizist, Übersetzer und Autor von Werken mit jüdischen Themen",Thieberg,Friedrich Thieberger,+1888-11-12T00:00:00Z,+1958-05-30T00:00:00Z,sodium
-Thiemplatz,male,niederländischer Tennisspieler,Thiem,Thiemo de Bakker,+1988-09-19T00:00:00Z,NA,sodium
-Thiemstraße,male,niederländischer Tennisspieler,Thiem,Thiemo de Bakker,+1988-09-19T00:00:00Z,NA,sodium
-Thietmarstraße,male,Bischof von Merseburg und Geschichtsschreiber der Zeit der sächsischen Kaiser (Ottonen),Thietmar,Thietmar of Merseburg,+0975-07-25T00:00:00Z,+1018-12-01T00:00:00Z,sodium
-Thomas-Mann-Straße,male,deutscher Schriftsteller und Nobelpreisträger (1875-1955),Thomas Mann ,Thomas Mann,+1875-06-06T00:00:00Z,+1955-08-12T00:00:00Z,Germans
-Thomas-Müntzer-Straße,male,Reformator und Bauernkriegsführer (1489-1525),Thomas Müntzer ,Thomas Müntzer,+1489-01-01T00:00:00Z,+1525-05-27T00:00:00Z,sodium
+Theodor-Kozlowski-Straße,männlich,Elbstrombaudirektor,Theodor Kozlowski ,Theodor Kozlowski,+1824-01-05T00:00:00Z,+1905-11-24T00:00:00Z,NA
+Thieberg,NA,NA,Thieberg,NA,NA,NA,NA
+Thiemplatz,NA,NA,Thiem,NA,NA,NA,NA
+Thiemstraße,NA,NA,Thiem,NA,NA,NA,NA
+Thietmarstraße,männlich,Bischof von Merseburg und Geschichtsschreiber der Zeit der sächsischen Kaiser (Ottonen),Thietmar,Thietmar of Merseburg,+0975-07-25T00:00:00Z,+1018-12-01T00:00:00Z,NA
+Thomas-Mann-Straße,männlich,deutscher Schriftsteller und Nobelpreisträger (1875-1955),Thomas Mann ,Thomas Mann,+1875-06-06T00:00:00Z,+1955-08-12T00:00:00Z,Deutsche
+Thomas-Müntzer-Straße,männlich,Reformator und Bauernkriegsführer (1489-1525),Thomas Müntzer ,Thomas Müntzer,+1489-01-01T00:00:00Z,+1525-05-27T00:00:00Z,NA
 Thüringer Straße,NA,NA,Thüer ,NA,NA,NA,NA
 Thymianweg,NA,NA,Thymian,NA,NA,NA,NA
 Till-Eulenspiegel-Ring,NA,NA,Till Eulenspiegel ,NA,NA,NA,NA
-Tischbeinweg,male,"deutscher Forstwissenschaftler, Paläontologe und Insektenkundler",Tischbein,Peter Tischbein,+1813-12-06T00:00:00Z,+1883-10-05T00:00:00Z,sodium
+Tischbeinweg,männlich,"deutscher Forstwissenschaftler, Paläontologe und Insektenkundler",Tischbein,Peter Tischbein,+1813-12-06T00:00:00Z,+1883-10-05T00:00:00Z,NA
 Tischlergasse,NA,NA,Tischlergasse,NA,NA,NA,NA
 Tismarstraße,NA,NA,Tismar,NA,NA,NA,NA
 Toepfferspark,NA,NA,Toepfferspark,NA,NA,NA,NA
 Torgauer Straße,NA,NA,Torgauer ,NA,NA,NA,NA
 Torplatz,NA,NA,Tor,NA,NA,NA,NA
-Torsten-Lamprecht-Weg,male,deutsches Mordopfer rechtsextremistischer Jugendlicher,Torsten Lamprecht ,Torsten Lamprecht,+1969-01-01T00:00:00Z,+1992-05-11T00:00:00Z,sodium
+Torsten-Lamprecht-Weg,männlich,deutsches Mordopfer rechtsextremistischer Jugendlicher,Torsten Lamprecht ,Torsten Lamprecht,+1969-01-01T00:00:00Z,+1992-05-11T00:00:00Z,NA
 Torweg,NA,NA,Tor,NA,NA,NA,NA
 Tränkeweg,NA,NA,Tränke,NA,NA,NA,NA
 Tränsberg,NA,NA,Tränsberg,NA,NA,NA,NA
-Trappenweg,male,NA,Trappen,Johannes(Jan) Everhardus van der Trappen,+1868-01-01T00:00:00Z,+1942-01-01T00:00:00Z,sodium
+Trappenweg,männlich,NA,Trappen,Johannes(Jan) Everhardus van der Trappen,+1868-01-01T00:00:00Z,+1942-01-01T00:00:00Z,NA
 Treseburger Straße,NA,NA,Treseburger ,NA,NA,NA,NA
 Triftweg,NA,NA,Trift,NA,NA,NA,NA
 Tucheimer Straße,NA,NA,Tucheimer ,NA,NA,NA,NA
-Tucholskystraße,male,deutscher Journalist und Schriftsteller,Tucholsky,Kurt Tucholsky,+1890-01-09T00:00:00Z,+1935-12-21T00:00:00Z,sodium
+Tucholskystraße,NA,NA,Tucholsky,NA,NA,NA,NA
 Tulpengrund,NA,NA,Tulpengrund,NA,NA,NA,NA
 Tulpenweg,NA,NA,Tulpen,NA,NA,NA,NA
 Turmschanzenstraße,NA,NA,Turmschanzen,NA,NA,NA,NA
 Turmstraße,NA,NA,Turm,NA,NA,NA,NA
 Uchtdorfer Weg,NA,NA,Uchtdorfer ,NA,NA,NA,NA
-Uhlandstraße,male,"deutscher Dichter, Literaturwissenschaftler und Landtagsabgeordneter",Uhland,Ludwig Uhland,+1787-04-26T00:00:00Z,+1862-11-13T00:00:00Z,Germans
-Uhlichstraße,male,NA,Uhlich,Holger Uhlich,+1963-01-01T00:00:00Z,NA,sodium
-Ulmenweg,female,"deutsche Fernsehmoderatorin, Schauspielerin und Model",Ulmen,Collien Ulmen-Fernandes,+1981-09-26T00:00:00Z,NA,sodium
+Uhlandstraße,NA,NA,Uhland,NA,NA,NA,NA
+Uhlichstraße,männlich,NA,Uhlich,Holger Uhlich,+1963-01-01T00:00:00Z,NA,NA
+Ulmenweg,NA,NA,Ulmen,NA,NA,NA,NA
 Ulnerstraße,NA,NA,Ulner,NA,NA,NA,NA
-Ulrichplatz,male,Herzog zu Mecklenburg,Ulrich,"Ulrich, Duke of Mecklenburg",+1527-03-05T00:00:00Z,+1603-03-14T00:00:00Z,sodium
+Ulrichplatz,männlich,Herzog zu Mecklenburg,Ulrich,"Ulrich, Duke of Mecklenburg",+1527-03-05T00:00:00Z,+1603-03-14T00:00:00Z,NA
 Umfassungsstraße,NA,NA,Umfassungs,NA,NA,NA,NA
 Umfassungsweg,NA,NA,Umfassungs,NA,NA,NA,NA
 Ummendorfer Straße,NA,NA,Ummendorfer ,NA,NA,NA,NA
@@ -1604,11 +1604,11 @@ Uranusweg,NA,NA,Uranus,NA,NA,NA,NA
 Vahldorfer Straße,NA,NA,Vahldorfer ,NA,NA,NA,NA
 Vehlitzer Straße,NA,NA,Vehlitzer ,NA,NA,NA,NA
 Veilchengrund,NA,NA,Veilchengrund,NA,NA,NA,NA
-Veilchenweg,female,NA,Veilchen,Veilchen Elias,+1865-09-08T00:00:00Z,NA,sodium
-Venusweg,female,US-amerikanische Pornodarstellerin,Venus,Angelica Costello,+1978-06-05T00:00:00Z,NA,indigenous peoples of the United States
+Veilchenweg,NA,NA,Veilchen,NA,NA,NA,NA
+Venusweg,NA,NA,Venus,NA,NA,NA,NA
 Verlorener Grundstein,NA,NA,Verlorener Grundstein,NA,NA,NA,NA
-Victor-Jara-Straße,male,"chilenischer Sänger, Musiker und Theaterregisseur",Victor Jara ,Víctor Jara,+1932-09-28T00:00:00Z,+1973-09-16T00:00:00Z,sodium
-Viktor-von-Unruh-Straße,male,"Bauingenieur, deutscher Politiker, MdR und Regierungsrat",Viktor von Unruh ,Hans Victor von Unruh,+1806-03-28T00:00:00Z,+1886-02-04T00:00:00Z,sodium
+Victor-Jara-Straße,männlich,"chilenischer Sänger, Musiker und Theaterregisseur",Victor Jara ,Víctor Jara,+1932-09-28T00:00:00Z,+1973-09-16T00:00:00Z,NA
+Viktor-von-Unruh-Straße,männlich,"Bauingenieur, deutscher Politiker, MdR und Regierungsrat",Viktor von Unruh ,Hans Victor von Unruh,+1806-03-28T00:00:00Z,+1886-02-04T00:00:00Z,NA
 Vilniusweg,NA,NA,Vilnius,NA,NA,NA,NA
 Virchowstraße,NA,NA,Virchow,NA,NA,NA,NA
 Vogelbreite,NA,NA,Vogelbreite,NA,NA,NA,NA
@@ -1626,25 +1626,25 @@ Wallonerberg,NA,NA,Wallonerberg,NA,NA,NA,NA
 Walmbergsweg,NA,NA,Walmbergs,NA,NA,NA,NA
 Walnußweg,NA,NA,Walnuß,NA,NA,NA,NA
 Walter-Strumpf-Straße,NA,NA,Walter Strumpf ,NA,NA,NA,NA
-Walther-Rathenau-Straße,male,deutscher Industrieller und Politiker,Walther Rathenau ,Walther Rathenau,+1867-09-29T00:00:00Z,+1922-06-24T00:00:00Z,Jewish people
-Waltherstraße,male,deutscher Naturkundler; Professor der Forst- und Landwirtschaft,Walther,Friedrich Ludwig Walther,+1759-01-01T00:00:00Z,+1824-01-01T00:00:00Z,sodium
+Walther-Rathenau-Straße,männlich,deutscher Industrieller und Politiker,Walther Rathenau ,Walther Rathenau,+1867-09-29T00:00:00Z,+1922-06-24T00:00:00Z,Juden
+Waltherstraße,NA,NA,Walther,NA,NA,NA,NA
 Wanzleber Chaussee,NA,NA,Wanzleber e,NA,NA,NA,NA
 Wanzleber Straße,NA,NA,Wanzleber ,NA,NA,NA,NA
-Warschauer Straße,male,deutscher Historiker,Warschauer ,Adolf Warschauer,+1855-10-13T00:00:00Z,+1930-12-25T00:00:00Z,sodium
+Warschauer Straße,männlich,deutscher Historiker,Warschauer ,Adolf Warschauer,+1855-10-13T00:00:00Z,+1930-12-25T00:00:00Z,NA
 Wartbergstraße,NA,NA,Wartberg,NA,NA,NA,NA
 Wartburgstraße,NA,NA,Wartburg,NA,NA,NA,NA
 Wassergang,NA,NA,Wassergang,NA,NA,NA,NA
 Wasserkunststraße,NA,NA,Wasserkunst,NA,NA,NA,NA
-Wasserstraße,male,NA,Wasser,Solomon Wasser,+1946-08-26T00:00:00Z,NA,sodium
-Weberstraße,male,polnisch-US-amerikanischer Maler und Bildhauer,Weber,Max Weber,+1881-04-18T00:00:00Z,+1961-10-04T00:00:00Z,sodium
-Wedringer Straße,female,schweizerisch-italienische Wirtschaftswissenschaftlerin,Weder ,Beatrice Weder di Mauro,+1965-08-03T00:00:00Z,NA,sodium
+Wasserstraße,NA,NA,Wasser,NA,NA,NA,NA
+Weberstraße,männlich,polnisch-US-amerikanischer Maler und Bildhauer,Weber,Max Weber,+1881-04-18T00:00:00Z,+1961-10-04T00:00:00Z,NA
+Wedringer Straße,weiblich,schweizerisch-italienische Wirtschaftswissenschaftlerin,Weder ,Beatrice Weder di Mauro,+1965-08-03T00:00:00Z,NA,NA
 Weferlinger Straße,NA,NA,Weferlinger ,NA,NA,NA,NA
 Wegeleber Weg,NA,NA,eleber ,NA,NA,NA,NA
 Weidenstraße,NA,NA,Weiden,NA,NA,NA,NA
 Weimarer Straße,NA,NA,Weimarer ,NA,NA,NA,NA
 Weinbergstraße,NA,NA,Weinberg,NA,NA,NA,NA
 Weinbrennerallee,NA,NA,Weinbrennerallee,NA,NA,NA,NA
-Weitlingstraße,male,deutscher Theoretiker des Kommunismus (1808-1871),Weitling,Wilhelm Weitling,+1808-10-05T00:00:00Z,+1871-01-24T00:00:00Z,sodium
+Weitlingstraße,NA,NA,Weitling,NA,NA,NA,NA
 Weizengrund,NA,NA,Weizengrund,NA,NA,NA,NA
 Wellenberg,NA,NA,Wellenberg,NA,NA,NA,NA
 Wellener Weg,NA,NA,Wellener ,NA,NA,NA,NA
@@ -1652,52 +1652,52 @@ Welsleber Straße,NA,NA,Welsleber ,NA,NA,NA,NA
 Welsleber Weg,NA,NA,Welsleber ,NA,NA,NA,NA
 Wenddorfer Weg,NA,NA,Wenddorfer ,NA,NA,NA,NA
 Wendefurther Weg,NA,NA,Wendefurther ,NA,NA,NA,NA
-Werner-Heisenberg-Straße,male,deutscher Physiker und Nobelpreisträger,Werner Heisenberg ,Werner Heisenberg,+1901-12-05T00:00:00Z,+1976-02-01T00:00:00Z,sodium
-Werner-Priegnitz-Straße,male,deutscher Stadthistoriker und Maler,Werner Priegnitz ,Werner Priegnitz,+1896-07-27T00:00:00Z,+1979-10-17T00:00:00Z,sodium
-Werner-Seelenbinder-Straße,male,deutscher Ringer und Kommunist,Werner Seelenbinder ,Werner Seelenbinder,+1904-08-02T00:00:00Z,+1944-10-24T00:00:00Z,sodium
-Werner-von-Siemens-Ring,male,"deutscher Erfinder, Begründer der Elektrotechnik und Industrieller",Werner von Siemens ,Ernst Werner von Siemens,+1816-12-13T00:00:00Z,+1892-12-06T00:00:00Z,sodium
+Werner-Heisenberg-Straße,männlich,deutscher Physiker und Nobelpreisträger,Werner Heisenberg ,Werner Heisenberg,+1901-12-05T00:00:00Z,+1976-02-01T00:00:00Z,NA
+Werner-Priegnitz-Straße,männlich,deutscher Stadthistoriker und Maler,Werner Priegnitz ,Werner Priegnitz,+1896-07-27T00:00:00Z,+1979-10-17T00:00:00Z,NA
+Werner-Seelenbinder-Straße,männlich,deutscher Ringer und Kommunist,Werner Seelenbinder ,Werner Seelenbinder,+1904-08-02T00:00:00Z,+1944-10-24T00:00:00Z,NA
+Werner-von-Siemens-Ring,männlich,"deutscher Erfinder, Begründer der Elektrotechnik und Industrieller",Werner von Siemens ,Ernst Werner von Siemens,+1816-12-13T00:00:00Z,+1892-12-06T00:00:00Z,NA
 Wernigeröder Straße,NA,NA,Wernigeröder ,NA,NA,NA,NA
 Wertherstraße,NA,NA,Werther,NA,NA,NA,NA
 Wespenstieg,NA,NA,Wespenstieg,NA,NA,NA,NA
 Westeregelner Straße,NA,NA,Westeregelner ,NA,NA,NA,NA
 Westernplan,NA,NA,Westernplan,NA,NA,NA,NA
-Westring,male,englischer Maler,West,Benjamin West,+1738-10-10T00:00:00Z,+1820-03-11T00:00:00Z,White Americans
-Weststraße,male,englischer Maler,West,Benjamin West,+1738-10-10T00:00:00Z,+1820-03-11T00:00:00Z,White Americans
-Wichmannstraße,male,Stifter des Stifts Elten,Wichmann,"Wickman, Count of Hamaland",+0900-00-00T00:00:00Z,NA,sodium
+Westring,männlich,englischer Maler,West,Benjamin West,+1738-10-10T00:00:00Z,+1820-03-11T00:00:00Z,Weiße Amerikaner
+Weststraße,männlich,englischer Maler,West,Benjamin West,+1738-10-10T00:00:00Z,+1820-03-11T00:00:00Z,Weiße Amerikaner
+Wichmannstraße,männlich,Stifter des Stifts Elten,Wichmann,"Wickman, Count of Hamaland",+0900-00-00T00:00:00Z,NA,NA
 Widderstraße,NA,NA,Widder,NA,NA,NA,NA
 Wiedersdorfer Straße,NA,NA,Wiedersdorfer ,NA,NA,NA,NA
-Wielandstraße,male,US-amerikanischer Paläontologe (1865–1953),Wieland,George Reber Wieland,+1865-01-24T00:00:00Z,+1953-01-18T00:00:00Z,sodium
+Wielandstraße,männlich,US-amerikanischer Paläontologe (1865–1953),Wieland,George Reber Wieland,+1865-01-24T00:00:00Z,+1953-01-18T00:00:00Z,NA
 Wiener Straße,NA,NA,Wiener ,NA,NA,NA,NA
 Wiesenburger Straße,NA,NA,Wiesenburger ,NA,NA,NA,NA
 Wiesengrund,NA,NA,Wiesengrund,NA,NA,NA,NA
 Wiesenstraße,NA,NA,Wiesen,NA,NA,NA,NA
 Wiesenweg,NA,NA,Wiesen,NA,NA,NA,NA
-Wilhelm-Diek-Straße,male,deutscher katholischer Missionspriester,Wilhelm Diek ,Wilhelm Diek,+1846-01-02T00:00:00Z,+1926-01-25T00:00:00Z,sodium
-Wilhelm-Höpfner-Ring,male,deutscher Graphiker,Wilhelm Höpfner ,Wilhelm Höpfner,+1899-05-17T00:00:00Z,+1968-03-14T00:00:00Z,sodium
-Wilhelm-Klees-Straße,male,"deutscher Politiker (SPD), MdR, Pionier der Arbeiterbewegung",Wilhelm Klees ,Carl Ernst Wilhelm Klees,+1841-03-12T00:00:00Z,+1922-12-20T00:00:00Z,sodium
-Wilhelm-Kobelt-Straße,male,"deutscher Arzt, Professor und Zoologe, speziell Malakologe",Wilhelm Kobelt ,Wilhelm Kobelt,+1840-02-20T00:00:00Z,+1916-03-26T00:00:00Z,sodium
-Wilhelm-Külz-Straße,male,deutscher Politiker,Wilhelm Külz ,Wilhelm Külz,+1875-02-18T00:00:00Z,+1948-04-10T00:00:00Z,sodium
-Wilhelm-Linke-Straße,male,"deutscher Politiker (SPD), MdBB",Wilhelm Linke ,Wilhelm Linke,+1905-05-01T00:00:00Z,+1987-01-21T00:00:00Z,sodium
-Wilhelm-Niemann-Straße,male,deutscher Politiker (CDU),Wilhelm Niemann ,Wilhelm Niemann,+1949-07-14T00:00:00Z,+2012-03-26T00:00:00Z,sodium
-Wilhelm-Raabe-Straße,male,deutscher Prosaautor,Wilhelm Raabe ,Wilhelm Raabe,+1831-09-08T00:00:00Z,+1910-11-15T00:00:00Z,sodium
+Wilhelm-Diek-Straße,männlich,deutscher katholischer Missionspriester,Wilhelm Diek ,Wilhelm Diek,+1846-01-02T00:00:00Z,+1926-01-25T00:00:00Z,NA
+Wilhelm-Höpfner-Ring,männlich,deutscher Graphiker,Wilhelm Höpfner ,Wilhelm Höpfner,+1899-05-17T00:00:00Z,+1968-03-14T00:00:00Z,NA
+Wilhelm-Klees-Straße,männlich,"deutscher Politiker (SPD), MdR, Pionier der Arbeiterbewegung",Wilhelm Klees ,Carl Ernst Wilhelm Klees,+1841-03-12T00:00:00Z,+1922-12-20T00:00:00Z,NA
+Wilhelm-Kobelt-Straße,männlich,"deutscher Arzt, Professor und Zoologe, speziell Malakologe",Wilhelm Kobelt ,Wilhelm Kobelt,+1840-02-20T00:00:00Z,+1916-03-26T00:00:00Z,NA
+Wilhelm-Külz-Straße,männlich,deutscher Politiker,Wilhelm Külz ,Wilhelm Külz,+1875-02-18T00:00:00Z,+1948-04-10T00:00:00Z,NA
+Wilhelm-Linke-Straße,männlich,"deutscher Politiker (SPD), MdBB",Wilhelm Linke ,Wilhelm Linke,+1905-05-01T00:00:00Z,+1987-01-21T00:00:00Z,NA
+Wilhelm-Niemann-Straße,männlich,deutscher Politiker (CDU),Wilhelm Niemann ,Wilhelm Niemann,+1949-07-14T00:00:00Z,+2012-03-26T00:00:00Z,NA
+Wilhelm-Raabe-Straße,männlich,deutscher Prosaautor,Wilhelm Raabe ,Wilhelm Raabe,+1831-09-08T00:00:00Z,+1910-11-15T00:00:00Z,NA
 Wilhelmstädter Platz,NA,NA,Wilhelmstädter ,NA,NA,NA,NA
-Willi-Bredel-Straße,male,"deutscher Schriftsteller, Politiker (KPD, SED), MdV und Präsident der Deutschen Akademie der Künste",Willi Bredel ,Willi Bredel,+1901-05-02T00:00:00Z,+1964-10-27T00:00:00Z,sodium
-Willy-Brandt-Platz,male,"4. Bundeskanzler der Bundesrepublik Deutschland (1969–1974), SPD",Willy Brandt ,Willy Brandt,+1913-12-18T00:00:00Z,+1992-10-08T00:00:00Z,sodium
-Willy-Rosen-Straße,male,"deutscher Kabarettist, Komponist und Texter",Willy Rosen ,Willy Rosen,+1894-07-18T00:00:00Z,+1944-10-01T00:00:00Z,sodium
-Willy-Wolterstorff-Straße,male,deutscher Herpetologe,Willy Wolterstorff ,Willy Wolterstorff,+1864-06-16T00:00:00Z,+1943-01-01T00:00:00Z,sodium
+Willi-Bredel-Straße,männlich,"deutscher Schriftsteller, Politiker (KPD, SED), MdV und Präsident der Deutschen Akademie der Künste",Willi Bredel ,Willi Bredel,+1901-05-02T00:00:00Z,+1964-10-27T00:00:00Z,NA
+Willy-Brandt-Platz,männlich,"4. Bundeskanzler der Bundesrepublik Deutschland (1969–1974), SPD",Willy Brandt ,Willy Brandt,+1913-12-18T00:00:00Z,+1992-10-08T00:00:00Z,NA
+Willy-Rosen-Straße,männlich,"deutscher Kabarettist, Komponist und Texter",Willy Rosen ,Willy Rosen,+1894-07-18T00:00:00Z,+1944-10-01T00:00:00Z,NA
+Willy-Wolterstorff-Straße,männlich,deutscher Herpetologe,Willy Wolterstorff ,Willy Wolterstorff,+1864-06-16T00:00:00Z,+1943-01-01T00:00:00Z,NA
 Winckelmannstraße,NA,NA,Winckelmann,NA,NA,NA,NA
 Windmühlen-Privatweg,NA,NA,Windmühlen Privat,NA,NA,NA,NA
 Windmühlenstraße,NA,NA,Windmühlen,NA,NA,NA,NA
 Windrosen-Privatweg,NA,NA,Windrosen Privat,NA,NA,NA,NA
 Wisninger Straße,NA,NA,Wisninger ,NA,NA,NA,NA
 Wisninger Wuhne,NA,NA,Wisninger Wuhne,NA,NA,NA,NA
-Wittenberger Platz,male,deutscher evangelisch-lutherischer Theologe,Wittenberger ,Werner Wittenberger,+2000-01-01T00:00:00Z,NA,sodium
-Wittenberger Straße,male,deutscher evangelisch-lutherischer Theologe,Wittenberger ,Werner Wittenberger,+2000-01-01T00:00:00Z,NA,sodium
-Witzlebenstraße,male,deutscher Offizier und Widerstandskämpfer,Witzleben,Erwin von Witzleben,+1881-12-04T00:00:00Z,+1944-08-08T00:00:00Z,sodium
+Wittenberger Platz,männlich,deutscher evangelisch-lutherischer Theologe,Wittenberger ,Werner Wittenberger,+2000-01-01T00:00:00Z,NA,NA
+Wittenberger Straße,männlich,deutscher evangelisch-lutherischer Theologe,Wittenberger ,Werner Wittenberger,+2000-01-01T00:00:00Z,NA,NA
+Witzlebenstraße,NA,NA,Witzleben,NA,NA,NA,NA
 Wolfenbütteler Straße,NA,NA,Wolfenbütteler ,NA,NA,NA,NA
 Wolfgang-Emmrich-Weg,NA,NA,Wolfgang Emmrich ,NA,NA,NA,NA
-Wolframstraße,male,deutscher Benediktinerabt,Wolfram,Wolfram,+1100-00-00T00:00:00Z,+1200-01-01T00:00:00Z,sodium
-Wolfsweg,male,niederländischer Straßenradsportler,Wolfs,Martin Wolfs,+1932-02-17T00:00:00Z,NA,sodium
+Wolframstraße,NA,NA,Wolfram,NA,NA,NA,NA
+Wolfsweg,männlich,niederländischer Straßenradsportler,Wolfs,Martin Wolfs,+1932-02-17T00:00:00Z,NA,NA
 Wolmirsleber Weg,NA,NA,Wolmirsleber ,NA,NA,NA,NA
 Wolmirstedter Straße,NA,NA,Wolmirstedter ,NA,NA,NA,NA
 Wörlitzer Straße,NA,NA,Wörlitzer ,NA,NA,NA,NA
@@ -1706,28 +1706,28 @@ Wormser Platz,NA,NA,Wormser ,NA,NA,NA,NA
 Wostokstraße,NA,NA,Wostok,NA,NA,NA,NA
 Zackelbergstraße,NA,NA,Zackelberg,NA,NA,NA,NA
 Zackmünder Straße,NA,NA,Zackmünder ,NA,NA,NA,NA
-Zaunkönigstraße,male,"deutscher Lyriker, Übersetzer und Verleger",Zaunkönig,ZaunköniG,+1972-05-24T00:00:00Z,NA,sodium
+Zaunkönigstraße,männlich,"deutscher Lyriker, Übersetzer und Verleger",Zaunkönig,ZaunköniG,+1972-05-24T00:00:00Z,NA,NA
 Zechsteinring,NA,NA,Zechstein,NA,NA,NA,NA
 Zeddenicker Weg,NA,NA,Zeddenicker ,NA,NA,NA,NA
 Zerbster Straße,NA,NA,Zerbster ,NA,NA,NA,NA
 Zerrennerstraße,NA,NA,Zerrenner,NA,NA,NA,NA
-Zetkinstraße,female,"deutsche Politikerin (SPD, USPD, KPD), MdR und Frauenrechtlerin",Zetkin,Clara Zetkin,+1857-07-05T00:00:00Z,+1933-06-20T00:00:00Z,sodium
+Zetkinstraße,NA,NA,Zetkin,NA,NA,NA,NA
 Ziegelei-Privatweg,NA,NA,Ziegelei Privat,NA,NA,NA,NA
 Ziegeleistraße,NA,NA,Ziegelei,NA,NA,NA,NA
 Zielitzer Straße,NA,NA,Zielitzer ,NA,NA,NA,NA
-Zinckestraße,male,"deutscher, in England tätiger Miniaturmaler",Zincke,Christian Friedrich Zincke,+1683-01-01T00:00:00Z,+1767-03-24T00:00:00Z,sodium
-Ziolkowskistraße,male,polnischer Leichtathlet,Ziolkowski,Szymon Ziółkowski,+1976-07-01T00:00:00Z,NA,sodium
+Zinckestraße,männlich,"deutscher, in England tätiger Miniaturmaler",Zincke,Christian Friedrich Zincke,+1683-01-01T00:00:00Z,+1767-03-24T00:00:00Z,NA
+Ziolkowskistraße,NA,NA,Ziolkowski,NA,NA,NA,NA
 Zipkeleben,NA,NA,Zipkeleben,NA,NA,NA,NA
 Zipkeleber Weg,NA,NA,Zipkeleber ,NA,NA,NA,NA
 Zitadelle,NA,NA,Zitadelle,NA,NA,NA,NA
-Zobelweg,male,böhmischer Mykologe (1812–1865),Zobel,Johann Baptist Zobel,+1812-01-01T00:00:00Z,+1865-01-01T00:00:00Z,sodium
+Zobelweg,männlich,böhmischer Mykologe (1812–1865),Zobel,Johann Baptist Zobel,+1812-01-01T00:00:00Z,+1865-01-01T00:00:00Z,NA
 Zollbrücke,NA,NA,Zollbrücke,NA,NA,NA,NA
 Zollstraße,NA,NA,Zoll,NA,NA,NA,NA
 Zooallee,NA,NA,Zooallee,NA,NA,NA,NA
 Zschokkestraße,NA,NA,Zschokke,NA,NA,NA,NA
 Zuckerbusch,NA,NA,Zuckerbusch,NA,NA,NA,NA
 Zuckerstraße,NA,NA,Zucker,NA,NA,NA,NA
-Zum Anker,male,Schweizer Maler (1831-1910),Anker,Albert Anker,+1831-04-01T00:00:00Z,+1910-07-16T00:00:00Z,sodium
+Zum Anker,NA,NA,Anker,NA,NA,NA,NA
 Zum Bahnhof,NA,NA,Bahnhof,NA,NA,NA,NA
 Zum Bördepark,NA,NA,Bördepark,NA,NA,NA,NA
 Zum Domfelsen,NA,NA,Domfelsen,NA,NA,NA,NA
