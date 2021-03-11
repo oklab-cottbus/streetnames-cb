@@ -38,20 +38,22 @@ def get_gender(streetname):
 
         try:
           ethnic_group_id = result.json()['entities'][id]['claims']['P172'][0]['mainsnak']['datavalue']['value']['id']
+          print(ethnic_group_id)
         except Exception as e:
           ethnic_group_id = "NA"
 
         break;
         
-    gender_result = requests.get(base_url, params={"action": "wbsearchentities", "search":gender_id, "language":"de","format":"json"})
+    gender_result = requests.get(base_url, params={"action": "wbgetentities", "ids":gender_id ,"language":"de","format":"json"})
     
-    gender = gender_result.json()['search'][0]['label']
+    gender = gender_result.json()['entities'][gender_id]['labels']['de']['value']
     try:
-      ethnic_result =  requests.get(base_url, params={"action": "wbsearchentities", "search":ethnic_group_id, "language":"de","format":"json"})
-      ethnic_group = ethnic_result.json()['search'][0]['label']
+      ethnic_result =  requests.get(base_url, params={"action": "wbgetentities", "ids":ethnic_group_id ,"language":"de","format":"json"})
+      ethnic_group = ethnic_result.json()['entities'][ethnic_group_id]['labels']['de']['value']
+
     except Exception as e:
       ethnic_group = "NA" 
-    
+  
   except Exception as e:
     gender = "NA"
     matched_name = "NA"
