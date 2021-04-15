@@ -140,3 +140,4 @@ About
 
 /output/*
 !/**/.gitkeep
+.Rproj.user
