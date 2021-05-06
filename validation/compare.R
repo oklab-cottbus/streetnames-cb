@@ -7,7 +7,7 @@ get_gender_names <- read.csv("../names-magdeburg_test.csv", fileEncoding = "UTF-
 
 # "transalte" gender description
 
-get_gender_names <- get_gender_names %>% mutate(Gender = str_replace(Gender,"weiblich", "w")) %>%
+get_gender_names <- get_gender_names %>% mutate(Gender = str_replace(Gender,"weiblich", "f")) %>%
   mutate(Gender = str_replace(Gender,"männlich","m")) %>%
   mutate(Gender= ifelse(is.na(Gender),"n",Gender))
 
