@@ -11,6 +11,11 @@ get_gender_names <- get_gender_names %>% mutate(Gender = str_replace(Gender,"wei
   mutate(Gender = str_replace(Gender,"männlich","m")) %>%
   mutate(Gender= ifelse(is.na(Gender),"n",Gender))
 
+# remove "?" gender from original dataframe and treat it as "n" to better compare the two dataframes
+
+original_names <- original_names %>% mutate(Gender = str_replace(Gender,"\\?","n"))
+
 
 result <- table(get_gender_names$Gender == original_names$Gender)
 result
+
